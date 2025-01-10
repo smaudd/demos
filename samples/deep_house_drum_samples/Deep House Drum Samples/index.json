@@ -1,0 +1,44 @@
+{
+  "content": {
+    "bd_kick": {
+      "type": "directory",
+      "name": "bd_kick",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick"
+    },
+    "clap": {
+      "type": "directory",
+      "name": "clap",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap"
+    },
+    "hats": {
+      "type": "directory",
+      "name": "hats",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats"
+    },
+    "percussion": {
+      "type": "directory",
+      "name": "percussion",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion"
+    },
+    "ride_cymbal": {
+      "type": "directory",
+      "name": "ride_cymbal",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal"
+    },
+    "shaker_tambourine": {
+      "type": "directory",
+      "name": "shaker_tambourine",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine"
+    },
+    "snare": {
+      "type": "directory",
+      "name": "snare",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare"
+    },
+    "toms": {
+      "type": "directory",
+      "name": "toms",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/toms"
+    }
+  }
+}

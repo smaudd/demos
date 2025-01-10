@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "prc_foryoursampler.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_foryoursampler.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "8251b40adc4ee4eb325556d106c463b5"
+    },
+    {
+      "name": "prc_harmony.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_harmony.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 142894,
+      "checksum": "02d6bb96c0f152667f89799cd184217c"
+    },
+    {
+      "name": "prc_hit.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_hit.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 17326,
+      "checksum": "d22db331a63ea802575a42364bc12df2"
+    },
+    {
+      "name": "prc_home.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_home.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 45268,
+      "checksum": "7d30a84116e5b37edf95962c34d7e3f2"
+    },
+    {
+      "name": "prc_itgoespop.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_itgoespop.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 56584,
+      "checksum": "dbc7b8f72358a085b1ded00d53f6e23c"
+    },
+    {
+      "name": "prc_jungledrummer.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_jungledrummer.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 30556,
+      "checksum": "ed0ed637a0be63baa48d2da5bf4b70ea"
+    },
+    {
+      "name": "prc_knockknock.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_knockknock.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 52240,
+      "checksum": "3676bcbd1f18508930d4c67a040ac1cc"
+    },
+    {
+      "name": "prc_reworked.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_reworked.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 33850,
+      "checksum": "1174c666ec9bb6534102fb9c6c2c7052"
+    },
+    {
+      "name": "prc_rolled.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_rolled.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 77422,
+      "checksum": "5ed86de2920a704c0f075027ab29d82f"
+    },
+    {
+      "name": "prc_syntheticlav.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_syntheticlav.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "2796328df876888a1e8d808489140dd8"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

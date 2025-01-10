@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "nowhere snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/nowhere snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109466,
+      "checksum": "e7a8e4a4e03bd73428bd230c6bc23a05"
+    },
+    {
+      "name": "numb snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/numb snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 165938,
+      "checksum": "094e4da0c52f7ef955571811d379b4af"
+    },
+    {
+      "name": "outwest snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/outwest snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 421498,
+      "checksum": "ff7688b2fc165b84a734c275ce9a9755"
+    },
+    {
+      "name": "owls snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/owls snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135308,
+      "checksum": "b9a9c2effc9007d682dfeee64f2136a3"
+    },
+    {
+      "name": "palma snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/palma snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 262598,
+      "checksum": "0e4ea3118513ac642a8b88ee4a3edff3"
+    },
+    {
+      "name": "pasay snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/pasay snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 137574,
+      "checksum": "d919decb8bb974108daeb759483813dc"
+    },
+    {
+      "name": "raiseup snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/raiseup snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 126658,
+      "checksum": "8616f32dcabdf756c6c7483a780ae7ea"
+    },
+    {
+      "name": "rips snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/rips snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 153278,
+      "checksum": "3016c313d3358956b2e9cc87d512bf1d"
+    },
+    {
+      "name": "rosemary snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/rosemary snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 204852,
+      "checksum": "748dd1c552956c0447ec951b04171f2e"
+    },
+    {
+      "name": "saba snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/saba snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 273180,
+      "checksum": "c0ba8bdc1debe826d58f2fd39128f62b"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

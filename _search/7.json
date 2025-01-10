@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "lofifamily kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/lofifamily kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 150458,
+      "checksum": "ebb713768cbcb77b247bc824b15c7ba3"
+    },
+    {
+      "name": "lone kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/lone kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82820,
+      "checksum": "4ea57108a11cbc363c448cdd366db3d6"
+    },
+    {
+      "name": "mencry kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/mencry kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 108640,
+      "checksum": "cb0d3d1c7d9453c099ec2cc6f8cf5912"
+    },
+    {
+      "name": "naked kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/naked kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 91806,
+      "checksum": "3c89f7c0c8b8d9623eeeda2c35c1c9e5"
+    },
+    {
+      "name": "nevoeiro kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/nevoeiro kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 41668,
+      "checksum": "0849cfd260b5ffae699601cb4791bfc4"
+    },
+    {
+      "name": "owls kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/owls kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 130194,
+      "checksum": "a2424095017167225f72879a1e5cc033"
+    },
+    {
+      "name": "palma kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/palma kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 218438,
+      "checksum": "88958c16ba7aa4998152552cebf6c287"
+    },
+    {
+      "name": "pasay kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/pasay kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 153284,
+      "checksum": "47fb1c9dedb641a18a2d4f2f69a1d18b"
+    },
+    {
+      "name": "planta kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/planta kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 111622,
+      "checksum": "0d518a88351290432812dd76a920b376"
+    },
+    {
+      "name": "rain kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/rain kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 137506,
+      "checksum": "6a8fde55417d20f65183641f99ebd06f"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

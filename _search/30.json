@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Gimme_Crash1.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Crash1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1041038,
+      "checksum": "59a2b008221832756a33a9d8da3b40cb"
+    },
+    {
+      "name": "Gimme_Kick7.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Kick7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "f85d434010153b7d3159f713193a5138"
+    },
+    {
+      "name": "Gimme_Musical3.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Musical3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1949732,
+      "checksum": "ced84df30347c5b66d16991e32707156"
+    },
+    {
+      "name": "Gimme_PedalHat1.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_PedalHat1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 113204,
+      "checksum": "2f7404e6da7cb93b1645efde8d51c792"
+    },
+    {
+      "name": "Gimme_Perc10.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Perc10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 486590,
+      "checksum": "239ab4a16d877965d27a4c887b55fb7c"
+    },
+    {
+      "name": "Gimme_Perc11.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Perc11.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "c03a740e3f9017f04cc11b8f9fcea431"
+    },
+    {
+      "name": "Gimme_Perc12.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Perc12.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1383974,
+      "checksum": "48efbbc6eb6db5856f83603fef3ff8d1"
+    },
+    {
+      "name": "Gimme_Perc13.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Perc13.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 905258,
+      "checksum": "c6159620feeae141b279244279fe658d"
+    },
+    {
+      "name": "Gimme_Perc8.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Perc8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 414740,
+      "checksum": "cdd9abfc16672dd21d0f78756ce102a0"
+    },
+    {
+      "name": "Gimme_Perc9.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Perc9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 181184,
+      "checksum": "f46b692dd13e23cffe77d60303827e65"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

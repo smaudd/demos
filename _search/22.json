@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Open hat 09 - Mighty Mighty.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Open hat 09 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101486,
+      "checksum": "9d50eb6c3878b685048abe958ebd885b"
+    },
+    {
+      "name": "Open hat 10 - Mighty Mighty.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Open hat 10 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 143230,
+      "checksum": "f778a4245c5161b1d7f7bafc9dddf9e4"
+    },
+    {
+      "name": "Open hat 11 - September.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Open hat 11 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 126324,
+      "checksum": "294159b4e354afad647294136242ed94"
+    },
+    {
+      "name": "Ride 01 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Ride 01 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 502998,
+      "checksum": "d53ebba5873e4b7dd6ca334a2385ada5"
+    },
+    {
+      "name": "Ride 02 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Ride 02 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 421126,
+      "checksum": "530c575a2a72884b73a1271480517a25"
+    },
+    {
+      "name": "Ride 03 - After the Love Has Gone.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Ride 03 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 333924,
+      "checksum": "ae1d5d17c619ffc310ae787b96438aed"
+    },
+    {
+      "name": "Ride 04 - After the Love Has Gone.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Ride 04 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 333276,
+      "checksum": "7e26805e6e9163145e143def91b47b8b"
+    },
+    {
+      "name": "Ride 05 - After the Love Has Gone.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats/Ride 05 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 327972,
+      "checksum": "445892c128bacea668004c718c3f157a"
+    },
+    {
+      "name": "Cowbell 01 - Serpentine Fire.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Cowbell 01 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68494,
+      "checksum": "e850754aaf20bc00e1e52ff0e42c548f"
+    },
+    {
+      "name": "Cowbell 02 - Serpentine Fire.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Cowbell 02 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 80270,
+      "checksum": "2032dad4ab5bcc65ef84065f9a28e84f"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

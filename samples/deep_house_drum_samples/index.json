@@ -1,0 +1,17 @@
+{
+  "content": {
+    "Deep House Drum Samples": {
+      "type": "directory",
+      "name": "Deep House Drum Samples",
+      "dir": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples"
+    },
+    "soundpacks.com.wav": {
+      "name": "soundpacks.com.wav",
+      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/soundpacks.com.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1052114,
+      "checksum": "7609275bacad3109ef3e4145d3a9fea6"
+    }
+  }
+}

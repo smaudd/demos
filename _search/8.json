@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "saba kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/saba kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 247588,
+      "checksum": "5cc74c4f730a79e25c1f3244b2f297fd"
+    },
+    {
+      "name": "stadtchen kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/stadtchen kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 40062,
+      "checksum": "b34718164ae68399c8d895611c3a53c8"
+    },
+    {
+      "name": "suga kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/suga kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 138204,
+      "checksum": "7088f21f520905cc5e8a31472c8fec6b"
+    },
+    {
+      "name": "sunday kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/sunday kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 35654,
+      "checksum": "965ff42f191ad96d057783a7e06b684f"
+    },
+    {
+      "name": "whew kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/whew kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 60748,
+      "checksum": "b0a8d4695d3c404e05f2383fcb0a7641"
+    },
+    {
+      "name": "winter kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/winter kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135862,
+      "checksum": "453b8dfabf419e79bbd3487f34764a99"
+    },
+    {
+      "name": "3000 snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/3000 snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 86916,
+      "checksum": "0f00f476c329a3e95366eebe6c88659a"
+    },
+    {
+      "name": "540 snare 2.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/540 snare 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 148730,
+      "checksum": "28a0c355b299cd1ab6d98fafc366e220"
+    },
+    {
+      "name": "540 snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/540 snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 128810,
+      "checksum": "d1f919441db531ffc0614877803992f5"
+    },
+    {
+      "name": "72hrslap snare.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/72hrslap snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 282246,
+      "checksum": "9f63ff41bc18a01237523ed8cf5fdda2"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

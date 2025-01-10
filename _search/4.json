@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "space hat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/space hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109466,
+      "checksum": "01e9049ac61f766c8cc3ceac03352367"
+    },
+    {
+      "name": "springtime hat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/springtime hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57468,
+      "checksum": "5676888c95209bdc0ac1aeba863e3d55"
+    },
+    {
+      "name": "stadtchen hat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/stadtchen hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 74738,
+      "checksum": "d64d5b7b62eefc23d323ab75be22f0ba"
+    },
+    {
+      "name": "suga hat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/suga hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 98024,
+      "checksum": "210fa81c94cba5f5f4f07fd395306075"
+    },
+    {
+      "name": "sunday hat 2.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/sunday hat 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 44242,
+      "checksum": "fd9b5af0300f31184ffa2595758e6f58"
+    },
+    {
+      "name": "sundayhat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/sundayhat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92134,
+      "checksum": "7c289c52174395eeee90bf6e1eb79380"
+    },
+    {
+      "name": "viento hat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/viento hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 38084,
+      "checksum": "a888ce36a63d4fc7e27ac8b0b24807ac"
+    },
+    {
+      "name": "winter hat.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat/winter hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135412,
+      "checksum": "076a556ac393ba66d2914d317d926365"
+    },
+    {
+      "name": "540 kick.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/540 kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65106,
+      "checksum": "b8af5d23cc9157281726a42f01805f10"
+    },
+    {
+      "name": "abisal kick 2.wav",
+      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick/abisal kick 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 40414,
+      "checksum": "b3130e1799e530071cfb35a3320d77ec"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

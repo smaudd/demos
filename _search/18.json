@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Hat 16 - September.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 16 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 79908,
+      "checksum": "69d77c5254abb2dd196ad83c42043eb5"
+    },
+    {
+      "name": "Hat 17 - September.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 17 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 86100,
+      "checksum": "02f05fa01d84a2d02ef78b45a3d217e8"
+    },
+    {
+      "name": "Hat 18 - September.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 18 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 44460,
+      "checksum": "57d9a1291a3664ee9b494f7295bd3cb3"
+    },
+    {
+      "name": "Hat 19 - September.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 19 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 43508,
+      "checksum": "317a0e17c9c37b4ad847434918ab62f5"
+    },
+    {
+      "name": "Hat 20 - September.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 20 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 46332,
+      "checksum": "46abb795e5ca2dd7cdf78662ccd113b9"
+    },
+    {
+      "name": "Kick 01 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Kicks/Kick 01 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 181742,
+      "checksum": "2fd48447810ce5f1fd58eeac3c92145b"
+    },
+    {
+      "name": "Kick 02 - In The Stone.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Kicks/Kick 02 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 100604,
+      "checksum": "44045afc70a58340f58315e52eb7196f"
+    },
+    {
+      "name": "Kick 03 - Shining Star.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Kicks/Kick 03 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 103564,
+      "checksum": "03b0b72342b2483985ec7855d0ed35fd"
+    },
+    {
+      "name": "Kick 04 - Shining Star.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Kicks/Kick 04 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 189644,
+      "checksum": "918ec80e9aca8fad6453f59bbdbf3c19"
+    },
+    {
+      "name": "Kick 05 - After the Love Has Gone.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Kicks/Kick 05 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 76692,
+      "checksum": "418547985044b2736e0a5668d474bff9"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

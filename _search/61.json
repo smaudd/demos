@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "10.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "97017de2c316ddccb3037822b45b682a"
+    },
+    {
+      "name": "11.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/11.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "ac30eadaa2955db0614147ff3d179d35"
+    },
+    {
+      "name": "12.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/12.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "ab8ff10e60c64a3b21a706c128e912e8"
+    },
+    {
+      "name": "13.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/13.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "30f2c9b6288ffda8c5d2c5feea1d2fe8"
+    },
+    {
+      "name": "14.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/14.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "90ab87ce2786ee00f2c9e49039c6408a"
+    },
+    {
+      "name": "15.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/15.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "0c7fe63165cdf13ecde45976585ef89e"
+    },
+    {
+      "name": "2.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "3546687e537cde1c9fbf0b9e3423c36c"
+    },
+    {
+      "name": "3.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "f1da14e4d314556a5111b6a57ce38d9c"
+    },
+    {
+      "name": "4.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/4.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "aea3a62668692809e7ee9695b6943567"
+    },
+    {
+      "name": "5.wav",
+      "file": "/Users/work/Documents/samples_test/samples/chops2/5.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "f43ed9c79c3e52833bb70e1c82522873"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

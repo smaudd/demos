@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Clap 03 - Shining Star.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Claps/Clap 03 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 202132,
+      "checksum": "16339adf656a9f0cd9309be23048ceda"
+    },
+    {
+      "name": "Clap 04 - Shining Star.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Claps/Clap 04 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 198552,
+      "checksum": "3e55068f3859c674f6d174627727fead"
+    },
+    {
+      "name": "Conga 01 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 01 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 117982,
+      "checksum": "9b900783a86375fa3fd83e213293698c"
+    },
+    {
+      "name": "Conga 02 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 02 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 61782,
+      "checksum": "72d94a927fa5a1b08cebc0fb423a22c4"
+    },
+    {
+      "name": "Conga 03 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 03 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 66830,
+      "checksum": "d632f3ea18f3c48506ebd275a605c1c7"
+    },
+    {
+      "name": "Conga 04 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 04 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 118238,
+      "checksum": "ad568de36de6eacbc0a31ce2b0de7daf"
+    },
+    {
+      "name": "Conga 05 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 05 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 67510,
+      "checksum": "03df41188bffbfd618b161aacb8c373f"
+    },
+    {
+      "name": "Conga 06 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 06 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 56502,
+      "checksum": "aa07517a3a1ffea11af0aa096d2367d3"
+    },
+    {
+      "name": "Conga 07 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 07 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135358,
+      "checksum": "398e751cc394168115a8856c886f33ce"
+    },
+    {
+      "name": "Conga 08 - Fantasy.wav",
+      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 08 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 90550,
+      "checksum": "a7c42ac4d7c0e4a6f373950cde2142bf"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

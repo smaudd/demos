@@ -1,0 +1,49 @@
+{
+  "content": {
+    "Claps": {
+      "type": "directory",
+      "name": "Claps",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Claps"
+    },
+    "Congas": {
+      "type": "directory",
+      "name": "Congas",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas"
+    },
+    "Hats": {
+      "type": "directory",
+      "name": "Hats",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats"
+    },
+    "Kicks": {
+      "type": "directory",
+      "name": "Kicks",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Kicks"
+    },
+    "Loops": {
+      "type": "directory",
+      "name": "Loops",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Loops"
+    },
+    "Open hats": {
+      "type": "directory",
+      "name": "Open hats",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Open hats"
+    },
+    "Percs": {
+      "type": "directory",
+      "name": "Percs",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs"
+    },
+    "Snare": {
+      "type": "directory",
+      "name": "Snare",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Snare"
+    },
+    "Toms": {
+      "type": "directory",
+      "name": "Toms",
+      "dir": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms"
+    }
+  }
+}
