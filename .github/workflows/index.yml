@@ -18,7 +18,7 @@ jobs:
       - name: Set up precompiled binary
         run: |
           # Download the precompiled binary for the appropriate OS (you can use GitHub releases for this)
-          curl -L -o indexer-linux-amd64 https://couponsb.fra1.cdn.digitaloceanspaces.com/indexer-linux-amd64
+          curl -L -o indexer-linux-amd64 https://couponsb.fra1.cdn.digitaloceanspaces.com/indexer
 
       - name: Make binary executable
         run: |
