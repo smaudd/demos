@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "abisal kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/abisal kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 151648,
+      "checksum": "779231f3effc719d3d3ed1005732ba9b"
+    },
+    {
+      "name": "alforar kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/alforar kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 49922,
+      "checksum": "397dfe559152619c417a274ca69e8520"
+    },
+    {
+      "name": "autumn kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/autumn kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 179386,
+      "checksum": "5003bb8de3e11f449f3e6ff016a0589c"
+    },
+    {
+      "name": "black kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/black kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 87706,
+      "checksum": "7515ca47f0fd2cb8cdf02eeed3a68b16"
+    },
+    {
+      "name": "brotherly kick 2.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/brotherly kick 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 75298,
+      "checksum": "5566071ac41caf0fc9af89dfdb804fc7"
+    },
+    {
+      "name": "brotherly kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/brotherly kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101258,
+      "checksum": "88f87fd2657e0696ebfd139b4864d20e"
+    },
+    {
+      "name": "bucear kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/bucear kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 124032,
+      "checksum": "ad80d0ed14b201353e90c9e1f977bb34"
+    },
+    {
+      "name": "cala kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/cala kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 123556,
+      "checksum": "d01e19f0804d3bac0620d3d702fca999"
+    },
+    {
+      "name": "calambre kick 2.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/calambre kick 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65864,
+      "checksum": "216c6f933d47a95e74aa307c5b5a1de6"
+    },
+    {
+      "name": "calambre kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/calambre kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 83540,
+      "checksum": "f3b753596d1e083fcadd9f883eb001de"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

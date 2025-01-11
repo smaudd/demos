@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "LIB.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/LIB.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 301568,
+      "checksum": "e7449f24a29d9419c731746689e6b0f8"
+    },
+    {
+      "name": "PROG.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/PROG.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 347332,
+      "checksum": "e0b62eb61b0272e0db6f38a504735f80"
+    },
+    {
+      "name": "RATTLE.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/RATTLE.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 426920,
+      "checksum": "4bcce4b9ca3c166ac4be3b63adf0c74a"
+    },
+    {
+      "name": "aalonbutler-gettinsoul.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/aalonbutler-gettinsoul.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 305520,
+      "checksum": "4a3dd93425ad7240131ef3f91109981b"
+    },
+    {
+      "name": "aerosmith-walkthisway-107.4bpm.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/aerosmith-walkthisway-107.4bpm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 394662,
+      "checksum": "b3585557191eb7901426c80e13f0fbc7"
+    },
+    {
+      "name": "allentoussaint-getoutmylifewoman-86.4bpm.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/allentoussaint-getoutmylifewoman-86.4bpm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 490182,
+      "checksum": "484aacfd4173a5c14ba5cbae69b946ca"
+    },
+    {
+      "name": "billcosby-getoutmylifewoman.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/billcosby-getoutmylifewoman.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 454346,
+      "checksum": "b716a68c559ef3f553c49c183d88549e"
+    },
+    {
+      "name": "billyjoel-stietto.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/billyjoel-stietto.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 449566,
+      "checksum": "62fb6232eeb33b418d2d089e2a6eed70"
+    },
+    {
+      "name": "bis-godsavethequeen1.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/bis-godsavethequeen1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 383624,
+      "checksum": "1c00862f35337cc83c891a08eda23f96"
+    },
+    {
+      "name": "bis-godsavethequeen2.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/bis-godsavethequeen2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 426636,
+      "checksum": "64ef9a9e4b27dbbff2d8b864329c7741"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

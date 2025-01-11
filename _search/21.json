@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Perc loop 03 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Loops/Perc loop 03 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 589478,
+      "checksum": "2e8aaf78280c8b45ec297b83c531ad87"
+    },
+    {
+      "name": "Perc loop 04 - September.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Loops/Perc loop 04 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1422292,
+      "checksum": "7423e22cbfdac0675f482bdc6c735f8a"
+    },
+    {
+      "name": "Open hat 01 - Boogie Wonderland.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 01 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 157708,
+      "checksum": "faa782119f074fd49229553766f9855e"
+    },
+    {
+      "name": "Open hat 02 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 02 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 134462,
+      "checksum": "215f6876c21aa52c1437e79376f25e07"
+    },
+    {
+      "name": "Open hat 03 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 03 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 123558,
+      "checksum": "284d152b6fb08289de4cc37ff4b580b4"
+    },
+    {
+      "name": "Open hat 04 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 04 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 342404,
+      "checksum": "bdce2dab3f2c28cf966a084f2439cc1d"
+    },
+    {
+      "name": "Open hat 05 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 05 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 331068,
+      "checksum": "a982e461f6197130de667e768baf9f35"
+    },
+    {
+      "name": "Open hat 06 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 06 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 357310,
+      "checksum": "d82e20ac73590383817a167cfd909916"
+    },
+    {
+      "name": "Open hat 07 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 07 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 148566,
+      "checksum": "942c53aff18b380fb534e45607304e9d"
+    },
+    {
+      "name": "Open hat 08 - Mighty Mighty.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Open hats/Open hat 08 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 106078,
+      "checksum": "f2aa7fb7f417b611163a645d148cf1c3"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "snr_mpc.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_mpc.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "48ee0d1b8c478d7eb20a5488c74e0f23"
+    },
+    {
+      "name": "snr_myclassicsnare.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_myclassicsnare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 239296,
+      "checksum": "2e69a91806add123eec9de0f34c9a771"
+    },
+    {
+      "name": "snr_owned.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_owned.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 51472,
+      "checksum": "4969789ee0cb72ad1e6f28320c0bb685"
+    },
+    {
+      "name": "snr_royalty.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_royalty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 47392,
+      "checksum": "6e21838fd3d85c253dc2a1cd2a000992"
+    },
+    {
+      "name": "snr_rusnarious.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_rusnarious.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65386,
+      "checksum": "411af636fc5702faccd77b53d3ed9ec6"
+    },
+    {
+      "name": "snr_truevintage.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_truevintage.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 74122,
+      "checksum": "3449bea26bb3d71282bbd534edef1524"
+    },
+    {
+      "name": "tom_909fatty.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909fatty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 203086,
+      "checksum": "237fdf55dd8e6ef26b59248e59911585"
+    },
+    {
+      "name": "tom_909onvinyl.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909onvinyl.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 73516,
+      "checksum": "a5934a63d23c623202c3a7c79aa92043"
+    },
+    {
+      "name": "tom_cleansweep.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_cleansweep.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 99172,
+      "checksum": "139388013a15e002840698155d914cf4"
+    },
+    {
+      "name": "tom_dept.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_dept.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 141256,
+      "checksum": "00b04c6d25c9b6d7aae3482c4ffef2b2"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

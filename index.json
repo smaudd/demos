@@ -1,0 +1,19 @@
+{
+  "content": {
+    ".git": {
+      "type": "directory",
+      "name": ".git",
+      "dir": "/.git"
+    },
+    "_search": {
+      "type": "directory",
+      "name": "_search",
+      "dir": "/_search"
+    },
+    "samples2": {
+      "type": "directory",
+      "name": "samples2",
+      "dir": "/samples2"
+    }
+  }
+}

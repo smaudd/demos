@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Cowbell 03 - Serpentine Fire.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Cowbell 03 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 67454,
+      "checksum": "17bdd61c881af8322304f697f233c0fa"
+    },
+    {
+      "name": "Perc 01 - Serpentine Fire.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Perc 01 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 58084,
+      "checksum": "26b120d5410283511cfd478cd74926b6"
+    },
+    {
+      "name": "Perc 02 - Serpentine Fire.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Perc 02 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 67604,
+      "checksum": "bc63616b553456c0fca375bc2bc8d285"
+    },
+    {
+      "name": "Stick 01 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Stick 01 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82478,
+      "checksum": "73e42747572c719192b582c483f51b3d"
+    },
+    {
+      "name": "Stick 02 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Stick 02 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 55846,
+      "checksum": "8b05b04da962b545f7c43d9a5e21ae00"
+    },
+    {
+      "name": "Rim 01 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Rim 01 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 73780,
+      "checksum": "83fe98a201444b4f6e3e9b09cc91c229"
+    },
+    {
+      "name": "Rim 02 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Rim 02 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 72172,
+      "checksum": "d7726efb88741339650eb56c3f6692a0"
+    },
+    {
+      "name": "Snare 01 - In The Stone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Snare 01 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 88588,
+      "checksum": "641661a31c3af03149c427fd20dcb124"
+    },
+    {
+      "name": "Snare 02 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Snare 02 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 207492,
+      "checksum": "a77f329174a5a597fb90f77f974ec55e"
+    },
+    {
+      "name": "Snare 03 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Snare 03 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 200924,
+      "checksum": "c03eb27044793124896efb79b8ef423d"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

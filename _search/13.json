@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "screwd snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/screwd snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92034,
+      "checksum": "f0eec158dfe686b81f89ab7e46b6c218"
+    },
+    {
+      "name": "smoke snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/smoke snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 247462,
+      "checksum": "27b42c0585da9ebbde4c47d63e5c6c73"
+    },
+    {
+      "name": "springtime snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/springtime snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 140680,
+      "checksum": "5fd2445fcb77937890df3ace33baaef1"
+    },
+    {
+      "name": "stadtchen snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/stadtchen snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 153574,
+      "checksum": "776e36a5e91c33a17ef3111f0e5f1a74"
+    },
+    {
+      "name": "suga snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/suga snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 248630,
+      "checksum": "3adf821c55cce9a8767ae98bbaf28184"
+    },
+    {
+      "name": "sunday snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/sunday snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 264120,
+      "checksum": "62045a0caac6988c04936b2bb675fda1"
+    },
+    {
+      "name": "testone snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/testone snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92850,
+      "checksum": "b10c7a38bc77a062219858954429b25d"
+    },
+    {
+      "name": "times snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/times snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 338086,
+      "checksum": "3335b8379edcd8af9788f6ade508e007"
+    },
+    {
+      "name": "viento snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/viento snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 154312,
+      "checksum": "a6b2d8b1e0e778abad0112e3e2833873"
+    },
+    {
+      "name": "whew snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/whew snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 273812,
+      "checksum": "29417fb11de8e141ee4ddd31c5518201"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

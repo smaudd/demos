@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Stab 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135008,
+      "checksum": "4f6a9a86b4ac66a0438c80863e6e8bfd"
+    },
+    {
+      "name": "Stab 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 178624,
+      "checksum": "b29f2682170a3c0771d4ee63c74bbd75"
+    },
+    {
+      "name": "Stab 3 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 3 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 220220,
+      "checksum": "1dd34e27a7af752b4b18bb90dbce0dc2"
+    },
+    {
+      "name": "Stab 4 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 4 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 261616,
+      "checksum": "dbccedd07b9a780a011203a9a33be996"
+    },
+    {
+      "name": "Stab 5 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 5 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 297088,
+      "checksum": "3333aff2f3cc23ed9988c81a229b327c"
+    },
+    {
+      "name": "Stab 6 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 6 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 352844,
+      "checksum": "6fd41b6517bf6b182951401a05a701a6"
+    },
+    {
+      "name": "Stab 7 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 7 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 429112,
+      "checksum": "ee91f578c6fcb7a000bcd169a27a4440"
+    },
+    {
+      "name": "Stab 8 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 8 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 242552,
+      "checksum": "249f5d1af47504c18c4e0cb1b6ed2a58"
+    },
+    {
+      "name": "DNB_BREAK_01.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_01.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "fa218c361928b2f0a0da66c106079a95"
+    },
+    {
+      "name": "DNB_BREAK_02.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_02.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "277e64492cfc30d7bedf33d6c98f811a"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

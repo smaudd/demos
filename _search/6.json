@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "curls kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/curls kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 61142,
+      "checksum": "a0cf469ced90394c16df687fa487c837"
+    },
+    {
+      "name": "descenso kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/descenso kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 77836,
+      "checksum": "c6f926232adb0d363f642d28ab681556"
+    },
+    {
+      "name": "divine kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/divine kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 117744,
+      "checksum": "5a4c640d662923c0a256b761b6472cfe"
+    },
+    {
+      "name": "downhill kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/downhill kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 53706,
+      "checksum": "f5f2a5d17fc3c17cb273525ef9e33cf0"
+    },
+    {
+      "name": "eddie kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/eddie kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 108874,
+      "checksum": "4c70c5fe23ecf9398feeb50e6487074a"
+    },
+    {
+      "name": "eevee kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/eevee kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 79942,
+      "checksum": "1aef24416a65fadd8f806f091686739d"
+    },
+    {
+      "name": "evileye kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/evileye kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 316672,
+      "checksum": "4620e4048142f99d188b332b6905bc1d"
+    },
+    {
+      "name": "highlights kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/highlights kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 144840,
+      "checksum": "78802e999dc62da062cfe9d06411b846"
+    },
+    {
+      "name": "jasmine kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/jasmine kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82824,
+      "checksum": "2cfcafdea6ec87ae6b0b62d8e87ca53f"
+    },
+    {
+      "name": "likethis kick.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/likethis kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 139596,
+      "checksum": "eaa64a993e665144126c3bfac78273f8"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

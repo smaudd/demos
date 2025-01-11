@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "DNB_BREAK_93.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_93.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "b495869b8924daabe08eab64a88fa777"
+    },
+    {
+      "name": "DNB_BREAK_94.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_94.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "f4c3da7a1b4d83c7a7d293696b52bded"
+    },
+    {
+      "name": "DNB_BREAK_95.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_95.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "df031720020ebc3e188c651aca7728fe"
+    },
+    {
+      "name": "DNB_BREAK_96.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_96.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "024739e64a6b1024f0857cd6dd0deb93"
+    },
+    {
+      "name": "DNB_BREAK_97.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_97.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "02e316f3005fe5a6ea909754eb362f22"
+    },
+    {
+      "name": "DNB_BREAK_98.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_98.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "3c84dac39f2f847d4c75938935126185"
+    },
+    {
+      "name": "DNB_BREAK_99.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_99.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "9759b16949e3f9448ca10e5a32df96fa"
+    },
+    {
+      "name": "BOTTLED.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/BOTTLED.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 405738,
+      "checksum": "94a43c6da8c27fad3873977ef9ce1009"
+    },
+    {
+      "name": "DOUBLE.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/DOUBLE.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 158564,
+      "checksum": "c13e0216aa6adb9d78a69f801515ca3f"
+    },
+    {
+      "name": "EURO.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/EURO.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 397254,
+      "checksum": "6b1dc2b78f9e80d81e66ba3f477a4e93"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

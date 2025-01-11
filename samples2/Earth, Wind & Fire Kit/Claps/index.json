@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Clap 01 - Shining Star.wav": {
+      "name": "Clap 01 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Claps/Clap 01 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 763016,
+      "checksum": "434a18d3291f1ef655c8627e6a08ad47"
+    },
+    "Clap 02 - Shining Star.wav": {
+      "name": "Clap 02 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Claps/Clap 02 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 197508,
+      "checksum": "39f9d08d18703af04b336e84fa06c355"
+    },
+    "Clap 03 - Shining Star.wav": {
+      "name": "Clap 03 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Claps/Clap 03 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 202132,
+      "checksum": "16339adf656a9f0cd9309be23048ceda"
+    },
+    "Clap 04 - Shining Star.wav": {
+      "name": "Clap 04 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Claps/Clap 04 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 198552,
+      "checksum": "3e55068f3859c674f6d174627727fead"
+    }
+  }
+}

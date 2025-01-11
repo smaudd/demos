@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Gimme_Snare13.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare13.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487478,
+      "checksum": "fc9d9ea334ebe4d34a99cce2dc0a0a4c"
+    },
+    {
+      "name": "Gimme_Snare14.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare14.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487466,
+      "checksum": "bed5ff68ac25169ea6b9e825f689158f"
+    },
+    {
+      "name": "Gimme_Snare15a.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare15a.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 416840,
+      "checksum": "07a6ada2fc3a9643c4df1be24bea300f"
+    },
+    {
+      "name": "Gimme_Snare15b.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare15b.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 416840,
+      "checksum": "f3bc6744f7011aa13d1636650eb7b7f2"
+    },
+    {
+      "name": "Gimme_SnareForFill5.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_SnareForFill5.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "7f65042115edff7f7938d3c4259bf7c4"
+    },
+    {
+      "name": "Gimme_SnareForFill6.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_SnareForFill6.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 696032,
+      "checksum": "7f19c6dcfe0010714b804ef7f5b9404e"
+    },
+    {
+      "name": "Gimme_Tom6.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Tom6.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "81a9656ebb58418e8e4a14c4f980f0d9"
+    },
+    {
+      "name": "Gimme_Clap1.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Clap1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "559eee42837a526f12892807f939a59f"
+    },
+    {
+      "name": "Gimme_ClosedHat8.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_ClosedHat8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 278024,
+      "checksum": "ae19f1ed6ba8f65b9960c3bcdaf0a75b"
+    },
+    {
+      "name": "Gimme_ClosedHat9.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_ClosedHat9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 208616,
+      "checksum": "147d39c8f1b7f033b378b17062178854"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Demo Track 1 Gremino's Jungle Sample Pack Vol 2.mp3": {
+      "name": "Demo Track 1 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Demo Track 1 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "type": "file",
+      "format": "mp3",
+      "size": 2389669,
+      "checksum": "e368bb7b433e30d4d40c6e7206fe1e15"
+    },
+    "Demo Track 2 Gremino's Jungle Sample Pack Vol 2.mp3": {
+      "name": "Demo Track 2 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Demo Track 2 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "type": "file",
+      "format": "mp3",
+      "size": 2914207,
+      "checksum": "31f8ce78ccf473f3ff7dc0e589bfb969"
+    },
+    "Samples": {
+      "type": "directory",
+      "name": "Samples",
+      "dir": "/samples2/Gremino's Jungle Sample Pack vol 2/Samples"
+    }
+  }
+}
