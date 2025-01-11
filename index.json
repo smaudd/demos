@@ -10,10 +10,10 @@
       "name": "_search",
       "dir": "/_search"
     },
-    "samples2": {
+    "samples": {
       "type": "directory",
-      "name": "samples2",
-      "dir": "/samples2"
+      "name": "samples",
+      "dir": "/samples"
     }
   }
 }

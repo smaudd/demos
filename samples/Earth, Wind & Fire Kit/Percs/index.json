@@ -1,0 +1,60 @@
+{
+  "content": {
+    "Cowbell 01 - Serpentine Fire.wav": {
+      "name": "Cowbell 01 - Serpentine Fire.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Cowbell 01 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68494,
+      "checksum": "e850754aaf20bc00e1e52ff0e42c548f"
+    },
+    "Cowbell 02 - Serpentine Fire.wav": {
+      "name": "Cowbell 02 - Serpentine Fire.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Cowbell 02 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 80270,
+      "checksum": "2032dad4ab5bcc65ef84065f9a28e84f"
+    },
+    "Cowbell 03 - Serpentine Fire.wav": {
+      "name": "Cowbell 03 - Serpentine Fire.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Cowbell 03 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 67454,
+      "checksum": "17bdd61c881af8322304f697f233c0fa"
+    },
+    "Perc 01 - Serpentine Fire.wav": {
+      "name": "Perc 01 - Serpentine Fire.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Perc 01 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 58084,
+      "checksum": "26b120d5410283511cfd478cd74926b6"
+    },
+    "Perc 02 - Serpentine Fire.wav": {
+      "name": "Perc 02 - Serpentine Fire.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Perc 02 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 67604,
+      "checksum": "bc63616b553456c0fca375bc2bc8d285"
+    },
+    "Stick 01 - Can't Hide Love.wav": {
+      "name": "Stick 01 - Can't Hide Love.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Stick 01 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82478,
+      "checksum": "73e42747572c719192b582c483f51b3d"
+    },
+    "Stick 02 - Can't Hide Love.wav": {
+      "name": "Stick 02 - Can't Hide Love.wav",
+      "file": "samples/Earth, Wind & Fire Kit/Percs/Stick 02 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 55846,
+      "checksum": "8b05b04da962b545f7c43d9a5e21ae00"
+    }
+  }
+}

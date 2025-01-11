@@ -1,86 +1,806 @@
 {
   "content": [
     {
-      "name": "space hat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/space hat.wav",
+      "name": "Gimme_Ride2.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Ride2.wav",
       "type": "file",
       "format": "wav",
-      "size": 109466,
-      "checksum": "01e9049ac61f766c8cc3ceac03352367"
+      "size": 873326,
+      "checksum": "970ba8da356dbf8025ff8e2e302b6693"
     },
     {
-      "name": "springtime hat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/springtime hat.wav",
+      "name": "Gimme_Snare7.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Snare7.wav",
       "type": "file",
       "format": "wav",
-      "size": 57468,
-      "checksum": "5676888c95209bdc0ac1aeba863e3d55"
+      "size": 417836,
+      "checksum": "53b18d1d7dcffee26fa6513c8c8a469e"
     },
     {
-      "name": "stadtchen hat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/stadtchen hat.wav",
+      "name": "Gimme_Snare8.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Snare8.wav",
       "type": "file",
       "format": "wav",
-      "size": 74738,
-      "checksum": "d64d5b7b62eefc23d323ab75be22f0ba"
+      "size": 487472,
+      "checksum": "a9d3c57b43e4bf4885b136ea7d0da6fe"
     },
     {
-      "name": "suga hat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/suga hat.wav",
+      "name": "Gimme_SnareForFills4.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_SnareForFills4.wav",
       "type": "file",
       "format": "wav",
-      "size": 98024,
-      "checksum": "210fa81c94cba5f5f4f07fd395306075"
+      "size": 487472,
+      "checksum": "a1dedd9761897df3df3b34df1a04b120"
     },
     {
-      "name": "sunday hat 2.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/sunday hat 2.wav",
+      "name": "Gimme_Tom3.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 3/Gimme_Tom3.wav",
       "type": "file",
       "format": "wav",
-      "size": 44242,
-      "checksum": "fd9b5af0300f31184ffa2595758e6f58"
+      "size": 1392680,
+      "checksum": "b3c1899fe1d5996450ddc2f3b5e71c29"
     },
     {
-      "name": "sundayhat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/sundayhat.wav",
+      "name": "Gimme_ClosedHat5.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_ClosedHat5.wav",
       "type": "file",
       "format": "wav",
-      "size": 92134,
-      "checksum": "7c289c52174395eeee90bf6e1eb79380"
+      "size": 278192,
+      "checksum": "8f4040e7d476d62dd26453a4749d752b"
     },
     {
-      "name": "viento hat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/viento hat.wav",
+      "name": "Gimme_ClosedHat6.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_ClosedHat6.wav",
       "type": "file",
       "format": "wav",
-      "size": 38084,
-      "checksum": "a888ce36a63d4fc7e27ac8b0b24807ac"
+      "size": 278138,
+      "checksum": "1bd1dee9e46cd086e2f13c1263ff2fbe"
     },
     {
-      "name": "winter hat.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Hat/winter hat.wav",
+      "name": "Gimme_Kick10.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Kick10.wav",
       "type": "file",
       "format": "wav",
-      "size": 135412,
-      "checksum": "076a556ac393ba66d2914d317d926365"
+      "size": 348206,
+      "checksum": "4a68472474256c5f13878b1d839b1690"
     },
     {
-      "name": "540 kick.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/540 kick.wav",
+      "name": "Gimme_Kick8.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Kick8.wav",
       "type": "file",
       "format": "wav",
-      "size": 65106,
-      "checksum": "b8af5d23cc9157281726a42f01805f10"
+      "size": 277640,
+      "checksum": "fdbe610a277b4b471a23a6cfc2171e7e"
     },
     {
-      "name": "abisal kick 2.wav",
-      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Kick/abisal kick 2.wav",
+      "name": "Gimme_Kick9.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Kick9.wav",
       "type": "file",
       "format": "wav",
-      "size": 40414,
-      "checksum": "b3130e1799e530071cfb35a3320d77ec"
+      "size": 277916,
+      "checksum": "8b86a3df1859259f622b90450ae7a156"
+    },
+    {
+      "name": "Gimme_Musical4.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Musical4.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1041866,
+      "checksum": "f0e6d75990775bedc785121dfae10292"
+    },
+    {
+      "name": "Gimme_Perc14.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Perc14.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487466,
+      "checksum": "a2b31f05e6b6ee612bdabadd46db4b42"
+    },
+    {
+      "name": "Gimme_Perc15.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Perc15.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487472,
+      "checksum": "645d0236625d1cd606731e08d5d2d17d"
+    },
+    {
+      "name": "Gimme_Perc16.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Perc16.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "4a8bd8874e68b2c5f9dd9e035b05da4f"
+    },
+    {
+      "name": "Gimme_Perc17.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Perc17.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "024c6eadf583befb6839cbe1d7edbee7"
+    },
+    {
+      "name": "Gimme_Snare10.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Snare10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 347546,
+      "checksum": "fb7d40c786f9f88bf85c40354afcf74f"
+    },
+    {
+      "name": "Gimme_Snare11.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Snare11.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "958af4c6d15b048fc80578b8ab2f0b50"
+    },
+    {
+      "name": "Gimme_Snare12.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Snare12.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "c4a8946031d5ca62b9b679c66cb7f884"
+    },
+    {
+      "name": "Gimme_Snare9.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Snare9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 348206,
+      "checksum": "434190ec5875f89529095bf6fe42eec3"
+    },
+    {
+      "name": "Gimme_Tom4.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Tom4.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835634,
+      "checksum": "310e028e4f904fd2c326ef791176c7f9"
+    },
+    {
+      "name": "Gimme_Tom5.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Tom5.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "44bbc4961b0f8510c0c8ac95be2b7430"
+    },
+    {
+      "name": "Gimme_ClosedHat7.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_ClosedHat7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 283106,
+      "checksum": "d41048c9f38f1e5dedc111ad63bb3bf0"
+    },
+    {
+      "name": "Gimme_Crash2.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Crash2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "cdb39abe793b07f538ffa0e8de1cbc7a"
+    },
+    {
+      "name": "Gimme_Kick11.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick11.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 416066,
+      "checksum": "c027bbbc12f5f3254651792be4236b63"
+    },
+    {
+      "name": "Gimme_Kick12.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick12.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 347324,
+      "checksum": "4e6cbfdedbee2f786253f0ee8f610e4b"
+    },
+    {
+      "name": "Gimme_Kick13.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick13.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1392680,
+      "checksum": "6950b6c0644da34ed0d7a4a7b664275e"
+    },
+    {
+      "name": "Gimme_Musical5.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Musical5.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487472,
+      "checksum": "d1913410e63bc54835459031021b4bc4"
+    },
+    {
+      "name": "Gimme_Musical6.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Musical6.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 2088992,
+      "checksum": "271aaf2f83ed5a01edc1d29ab9bef429"
+    },
+    {
+      "name": "Gimme_Perc18.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Perc18.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 974888,
+      "checksum": "39ada687e00987b9db843733cf88c4e9"
+    },
+    {
+      "name": "Gimme_Perc19.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Perc19.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835634,
+      "checksum": "c0808b09c0d0f6c0519461424b33c21a"
+    },
+    {
+      "name": "Gimme_Snare13.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare13.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487478,
+      "checksum": "fc9d9ea334ebe4d34a99cce2dc0a0a4c"
+    },
+    {
+      "name": "Gimme_Snare14.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare14.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 487466,
+      "checksum": "bed5ff68ac25169ea6b9e825f689158f"
+    },
+    {
+      "name": "Gimme_Snare15a.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare15a.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 416840,
+      "checksum": "07a6ada2fc3a9643c4df1be24bea300f"
+    },
+    {
+      "name": "Gimme_Snare15b.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Snare15b.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 416840,
+      "checksum": "f3bc6744f7011aa13d1636650eb7b7f2"
+    },
+    {
+      "name": "Gimme_SnareForFill5.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_SnareForFill5.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "7f65042115edff7f7938d3c4259bf7c4"
+    },
+    {
+      "name": "Gimme_SnareForFill6.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_SnareForFill6.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 696032,
+      "checksum": "7f19c6dcfe0010714b804ef7f5b9404e"
+    },
+    {
+      "name": "Gimme_Tom6.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Tom6.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 835628,
+      "checksum": "81a9656ebb58418e8e4a14c4f980f0d9"
+    },
+    {
+      "name": "Gimme_Clap1.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Clap1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "559eee42837a526f12892807f939a59f"
+    },
+    {
+      "name": "Gimme_ClosedHat8.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_ClosedHat8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 278024,
+      "checksum": "ae19f1ed6ba8f65b9960c3bcdaf0a75b"
+    },
+    {
+      "name": "Gimme_ClosedHat9.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_ClosedHat9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 208616,
+      "checksum": "147d39c8f1b7f033b378b17062178854"
+    },
+    {
+      "name": "Gimme_Kick14.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Kick14.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 207722,
+      "checksum": "8c5cb87760e4bc1c17e77af0472c693f"
+    },
+    {
+      "name": "Gimme_Kick15.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Kick15.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 208940,
+      "checksum": "fb5f5ca44fc90234fc4e7023547d1448"
+    },
+    {
+      "name": "Gimme_Musical7.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Musical7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1949732,
+      "checksum": "7b3b4d9fd4d2207ec9fe08b0fb750c0a"
+    },
+    {
+      "name": "Gimme_OpenHat3.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_OpenHat3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "d53b1cca5691df7c4651707e1fe26fb1"
+    },
+    {
+      "name": "Gimme_Perc20.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Perc20.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 556328,
+      "checksum": "0b23b6de8cf9c16255515cb513155824"
+    },
+    {
+      "name": "Gimme_Perc21.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Perc21.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "01d8a68ce370e53996f7e96e3c0da67a"
+    },
+    {
+      "name": "Gimme_Perc22.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Perc22.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "10adba899c6aca453f0d725682512239"
+    },
+    {
+      "name": "Gimme_Perc23.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Perc23.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 417836,
+      "checksum": "21dfbfbec91f063afa7c5ced004bc485"
+    },
+    {
+      "name": "Gimme_Shaker1.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Shaker1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 139316,
+      "checksum": "4c0995ea79471d06d15aff1b2a7b1146"
+    },
+    {
+      "name": "Gimme_Snare16.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Snare16.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 347654,
+      "checksum": "c8acaee7c3e7363d10ce1eb02df17db1"
+    },
+    {
+      "name": "Gimme_Snare17.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Snare17.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "01ba4d2278c2e4e94136bb1c75248bdf"
+    },
+    {
+      "name": "Gimme_SnareForFills7.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_SnareForFills7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 556220,
+      "checksum": "5d5991842752b5ff79fb3fd0e2f6906b"
+    },
+    {
+      "name": "Gimme_SnareForFills8.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_SnareForFills8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 347876,
+      "checksum": "fbf2be3b21819c405d3173f15f963a55"
+    },
+    {
+      "name": "Gimme_ClosedHat10.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_ClosedHat10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57128,
+      "checksum": "3691a889e2264e1b89ef993a101358c8"
+    },
+    {
+      "name": "Gimme_Kick16.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Kick16.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 278576,
+      "checksum": "2a7acaaa49848f8713c6c25ea715a830"
+    },
+    {
+      "name": "Gimme_Kick17.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Kick17.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "280a9569c041e310c5d62bd12773705a"
+    },
+    {
+      "name": "Gimme_Kick18.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Kick18.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 174128,
+      "checksum": "6df838950ede678cd2677380ae5b9e1b"
+    },
+    {
+      "name": "Gimme_Musical10.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Musical10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1043192,
+      "checksum": "eeaba6900d6156c43b3d8705097a51ec"
+    },
+    {
+      "name": "Gimme_Musical8.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Musical8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 973118,
+      "checksum": "9be22e0a7f549369cbd1f5c9f4498d6c"
+    },
+    {
+      "name": "Gimme_Musical9.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Musical9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1009802,
+      "checksum": "afb3624ab3ff6164534325f3dde5c213"
+    },
+    {
+      "name": "Gimme_PedalHat2.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_PedalHat2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 278576,
+      "checksum": "77cd6902084c54eb4b9f8828b2a5f055"
+    },
+    {
+      "name": "Gimme_Perc24.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Perc24.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 483038,
+      "checksum": "4d08d853df0f7f9e00fc3d1a4e2364cd"
+    },
+    {
+      "name": "Gimme_Perc25.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Perc25.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 974888,
+      "checksum": "1ae5f3d39d45f1376a1b76bdf4c2e5c7"
+    },
+    {
+      "name": "Gimme_Perc26.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Perc26.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1026398,
+      "checksum": "5b89f80b6b008347add4348a47bba60c"
+    },
+    {
+      "name": "Gimme_Ride3.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Ride3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "10e6191c085ca8a88e6f7ac8ba9714e7"
+    },
+    {
+      "name": "Gimme_Snap1.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Snap1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "c30386bb855ae6fcb251d80fe260c549"
+    },
+    {
+      "name": "Gimme_Snare18.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Snare18.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "e85b5b5040f2240afcb6b2a2cb9d6c61"
+    },
+    {
+      "name": "Gimme_SnareForFills9.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_SnareForFills9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 974888,
+      "checksum": "7368a63cca6b1aa9c6cb5d5288f4bfb0"
+    },
+    {
+      "name": "Gimme_Tom7.wav",
+      "file": "samples/Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Tom7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "423a95d52068141e1da8c510826441ac"
+    },
+    {
+      "name": "Demo Track 1 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Demo Track 1 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "type": "file",
+      "format": "mp3",
+      "size": 2389669,
+      "checksum": "e368bb7b433e30d4d40c6e7206fe1e15"
+    },
+    {
+      "name": "Demo Track 2 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Demo Track 2 Gremino's Jungle Sample Pack Vol 2.mp3",
+      "type": "file",
+      "format": "mp3",
+      "size": 2914207,
+      "checksum": "31f8ce78ccf473f3ff7dc0e589bfb969"
+    },
+    {
+      "name": "808 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/808 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 450820,
+      "checksum": "c30d98cc1a4c6ee16fe80d6919fc3961"
+    },
+    {
+      "name": "808 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/808 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 500080,
+      "checksum": "29938c8f6884442e73e3a715219e65e9"
+    },
+    {
+      "name": "808 3 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/808 3 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 456280,
+      "checksum": "d1ce5fae03e2a33e779d498c6b389780"
+    },
+    {
+      "name": "808 4 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/808 4 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 197876,
+      "checksum": "251e87b77218593c440cfb45eaac375c"
+    },
+    {
+      "name": "Bass Stab 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/Bass Stab 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 118176,
+      "checksum": "8f0c29844f4c25fc550475ab83031116"
+    },
+    {
+      "name": "Bass Stab 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/Bass Stab 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 97188,
+      "checksum": "eb84c9f2b88c102c4d7c17594f04e823"
+    },
+    {
+      "name": "Dread Bass 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/Dread Bass 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 219892,
+      "checksum": "991226f6dcd1dcff88ab84d55707fed3"
+    },
+    {
+      "name": "Dread Bass 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/Dread Bass 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 151676,
+      "checksum": "1eaafeb40107e1b7aaa5b6bc0768870b"
+    },
+    {
+      "name": "Reese Bass 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/Reese Bass 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 699776,
+      "checksum": "6c490fc7ef6763fc29d96a3a25be9289"
+    },
+    {
+      "name": "Reese Bass 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses/Reese Bass 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 700612,
+      "checksum": "563b90256073e5060786d228a2e95596"
+    },
+    {
+      "name": "Amen 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Amen 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1203780,
+      "checksum": "a80ec8c204655e895675fb7273cf67e0"
+    },
+    {
+      "name": "Amen 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Amen 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 734328,
+      "checksum": "8ec4b132fabf9e17d127c48040c8b8c5"
+    },
+    {
+      "name": "Amen 3 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Amen 3 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 535552,
+      "checksum": "e4f4f23679a9c2f11dff836fd878456e"
+    },
+    {
+      "name": "Do the Do Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Do the Do Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 312696,
+      "checksum": "4e37ffe6d9beb6220a289b8c2a917d1c"
+    },
+    {
+      "name": "Funky Drummer Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Funky Drummer Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 553728,
+      "checksum": "a514e6657449e3bdc7cb4f440b9347cc"
+    },
+    {
+      "name": "NT Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/NT Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 729668,
+      "checksum": "0ec9e3b707e8b848bbfe03fcd3255733"
+    },
+    {
+      "name": "Ode to Billie Joe Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Ode to Billie Joe Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 745196,
+      "checksum": "14bcdfd074c570d05aa0e5ce5525a15a"
+    },
+    {
+      "name": "Scorpio Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Scorpio Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1085340,
+      "checksum": "01e1b9b23593b4b00f7796ec1256ef06"
+    },
+    {
+      "name": "Sesame Street Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Sesame Street Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1126988,
+      "checksum": "263a88756dbe16dbb1d59bebf6e778bf"
+    },
+    {
+      "name": "Think Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks/Think Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 345768,
+      "checksum": "a2ad33ad6ddb657d9e6a3e147eb7a663"
+    },
+    {
+      "name": "Chord 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 1 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 2619436,
+      "checksum": "64ad4b07bcfe920f1915c00d0f212e4e"
+    },
+    {
+      "name": "Chord 10 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 10 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1283448,
+      "checksum": "06fabf4451fb35eb28c261bcc45f13a7"
+    },
+    {
+      "name": "Chord 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 2 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1568484,
+      "checksum": "f64cfb51474823ec6780d9fd64846411"
+    },
+    {
+      "name": "Chord 3 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 3 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 2232256,
+      "checksum": "319fad57bd27e00a184389887a782edc"
+    },
+    {
+      "name": "Chord 4 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 4 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 2299684,
+      "checksum": "b8a512a85d97009b543307591c5b6f87"
+    },
+    {
+      "name": "Chord 5 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 5 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 867368,
+      "checksum": "02ba78b9562b51bef8a0d2be88b8bc1c"
+    },
+    {
+      "name": "Chord 6 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 6 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 3536476,
+      "checksum": "2e7f1f96b4c4a05ffe2ddcb387bd22b3"
+    },
+    {
+      "name": "Chord 7 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 7 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 859732,
+      "checksum": "04969aea2aade5c5f4f7e3830854f9d7"
+    },
+    {
+      "name": "Chord 8 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords/Chord 8 Gremino Jungle Samplepack vol 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1705668,
+      "checksum": "949f77a012e7d12c0d5057d282c4ae16"
     }
   ],
   "next": true,
-  "total": 80
+  "total": 8
 }

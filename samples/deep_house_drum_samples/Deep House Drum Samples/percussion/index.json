@@ -1,0 +1,220 @@
+{
+  "content": {
+    "prc_808rimmer.wav": {
+      "name": "prc_808rimmer.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_808rimmer.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 25912,
+      "checksum": "0189dd33196b31d1368571b68c7e1d47"
+    },
+    "prc_bigdrum.wav": {
+      "name": "prc_bigdrum.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_bigdrum.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 165478,
+      "checksum": "d8b32014dafa752fdd1e328546491610"
+    },
+    "prc_bongodrm.wav": {
+      "name": "prc_bongodrm.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_bongodrm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 56296,
+      "checksum": "6aeaef0dd7846086d99a73f1337cfc9d"
+    },
+    "prc_bongorock.wav": {
+      "name": "prc_bongorock.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_bongorock.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101776,
+      "checksum": "95e74eb9ca1401063fe256a3151fe745"
+    },
+    "prc_boxed.wav": {
+      "name": "prc_boxed.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_boxed.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "2d09ea57113d14adaa37adc5614d7279"
+    },
+    "prc_change.wav": {
+      "name": "prc_change.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_change.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 145288,
+      "checksum": "3e17420daaf0c47f86719f164722ed3b"
+    },
+    "prc_clav.wav": {
+      "name": "prc_clav.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_clav.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 105220,
+      "checksum": "a10226621ab882ff9525e5bb078f5e48"
+    },
+    "prc_congaz.wav": {
+      "name": "prc_congaz.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_congaz.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 83476,
+      "checksum": "57e5dfba0aee8a820b5a0764446c0a72"
+    },
+    "prc_dnthavacowman.wav": {
+      "name": "prc_dnthavacowman.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_dnthavacowman.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "0d0f67bbc93969edbde87f0a8a7af8f4"
+    },
+    "prc_drop.wav": {
+      "name": "prc_drop.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_drop.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "9c048afe98b5bad0ed28dc5fe5f47042"
+    },
+    "prc_emtythepot.wav": {
+      "name": "prc_emtythepot.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_emtythepot.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68896,
+      "checksum": "6b37b88b80f15b99bd8743b2ece40fb0"
+    },
+    "prc_flickingabucket.wav": {
+      "name": "prc_flickingabucket.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_flickingabucket.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 33328,
+      "checksum": "85e58c2a6297c487d93f73e82af332c3"
+    },
+    "prc_foryoursampler.wav": {
+      "name": "prc_foryoursampler.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_foryoursampler.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "8251b40adc4ee4eb325556d106c463b5"
+    },
+    "prc_harmony.wav": {
+      "name": "prc_harmony.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_harmony.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 142894,
+      "checksum": "02d6bb96c0f152667f89799cd184217c"
+    },
+    "prc_hit.wav": {
+      "name": "prc_hit.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_hit.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 17326,
+      "checksum": "d22db331a63ea802575a42364bc12df2"
+    },
+    "prc_home.wav": {
+      "name": "prc_home.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_home.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 45268,
+      "checksum": "7d30a84116e5b37edf95962c34d7e3f2"
+    },
+    "prc_itgoespop.wav": {
+      "name": "prc_itgoespop.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_itgoespop.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 56584,
+      "checksum": "dbc7b8f72358a085b1ded00d53f6e23c"
+    },
+    "prc_jungledrummer.wav": {
+      "name": "prc_jungledrummer.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_jungledrummer.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 30556,
+      "checksum": "ed0ed637a0be63baa48d2da5bf4b70ea"
+    },
+    "prc_knockknock.wav": {
+      "name": "prc_knockknock.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_knockknock.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 52240,
+      "checksum": "3676bcbd1f18508930d4c67a040ac1cc"
+    },
+    "prc_reworked.wav": {
+      "name": "prc_reworked.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_reworked.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 33850,
+      "checksum": "1174c666ec9bb6534102fb9c6c2c7052"
+    },
+    "prc_rolled.wav": {
+      "name": "prc_rolled.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_rolled.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 77422,
+      "checksum": "5ed86de2920a704c0f075027ab29d82f"
+    },
+    "prc_syntheticlav.wav": {
+      "name": "prc_syntheticlav.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_syntheticlav.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "2796328df876888a1e8d808489140dd8"
+    },
+    "prc_trainstation.wav": {
+      "name": "prc_trainstation.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_trainstation.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 291418,
+      "checksum": "4f67466362c343548c97d677fe34b41d"
+    },
+    "prc_u5510n.wav": {
+      "name": "prc_u5510n.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_u5510n.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 37768,
+      "checksum": "d8346ed258673c6ce209b63d440fba98"
+    },
+    "prc_vinylshot.wav": {
+      "name": "prc_vinylshot.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_vinylshot.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 361048,
+      "checksum": "84dee7dcf98a6d5c4a24bf6527c4dce2"
+    },
+    "prc_virustiatmos.wav": {
+      "name": "prc_virustiatmos.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_virustiatmos.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 148372,
+      "checksum": "9307e06132e5ebab998ca775e307dc17"
+    },
+    "prc_youpanit.wav": {
+      "name": "prc_youpanit.wav",
+      "file": "samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_youpanit.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "f0279e365788bd8ef111833a342162be"
+    }
+  }
+}

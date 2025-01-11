@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Bonus": {
+      "type": "directory",
+      "name": "Bonus",
+      "dir": "/samples/DRUMS/Juesswork - Roughcuts Drumkit/Bonus"
+    },
+    "Hat": {
+      "type": "directory",
+      "name": "Hat",
+      "dir": "/samples/DRUMS/Juesswork - Roughcuts Drumkit/Hat"
+    },
+    "Kick": {
+      "type": "directory",
+      "name": "Kick",
+      "dir": "/samples/DRUMS/Juesswork - Roughcuts Drumkit/Kick"
+    },
+    "Snare": {
+      "type": "directory",
+      "name": "Snare",
+      "dir": "/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare"
+    },
+    "Vox": {
+      "type": "directory",
+      "name": "Vox",
+      "dir": "/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox"
+    }
+  }
+}

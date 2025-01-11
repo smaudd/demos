@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Basses": {
+      "type": "directory",
+      "name": "Basses",
+      "dir": "/samples/Gremino's Jungle Sample Pack vol 2/Samples/Basses"
+    },
+    "Breaks": {
+      "type": "directory",
+      "name": "Breaks",
+      "dir": "/samples/Gremino's Jungle Sample Pack vol 2/Samples/Breaks"
+    },
+    "Chords": {
+      "type": "directory",
+      "name": "Chords",
+      "dir": "/samples/Gremino's Jungle Sample Pack vol 2/Samples/Chords"
+    },
+    "FXs": {
+      "type": "directory",
+      "name": "FXs",
+      "dir": "/samples/Gremino's Jungle Sample Pack vol 2/Samples/FXs"
+    },
+    "Pianos Rhodesses & Vibes": {
+      "type": "directory",
+      "name": "Pianos Rhodesses & Vibes",
+      "dir": "/samples/Gremino's Jungle Sample Pack vol 2/Samples/Pianos Rhodesses & Vibes"
+    },
+    "Stabs & Synths": {
+      "type": "directory",
+      "name": "Stabs & Synths",
+      "dir": "/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths"
+    }
+  }
+}
