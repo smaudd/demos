@@ -1,14 +1,1 @@
-{
-  "content": {
-    "DNB BREAKS": {
-      "type": "directory",
-      "name": "DNB BREAKS",
-      "dir": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS"
-    },
-    "ESSENTIAL DRUM BREAKS": {
-      "type": "directory",
-      "name": "ESSENTIAL DRUM BREAKS",
-      "dir": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS"
-    }
-  }
-}
+{"content":{"DNB BREAKS":{"name":"DNB BREAKS","type":"directory","dir":"/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS"},"ESSENTIAL DRUM BREAKS":{"name":"ESSENTIAL DRUM BREAKS","type":"directory","dir":"/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS"}}}

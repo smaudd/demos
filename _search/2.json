@@ -2,207 +2,183 @@
   "content": [
     {
       "name": "lakshmana snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lakshmana snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lakshmana snare.wav",
       "type": "file",
       "format": "wav",
       "size": 172726,
       "checksum": "b338ab16703dac850e6f7d9b2374ea79"
     },
     {
-      "name": "libra snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/libra snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 233104,
-      "checksum": "4b6cdc4978cfcc843e2b543d67a557c2"
-    },
-    {
-      "name": "likethis snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/likethis snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 147372,
-      "checksum": "8cb646b14881eda2cd2ceecf892368dc"
-    },
-    {
-      "name": "lofifamily snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lofifamily snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 95554,
-      "checksum": "96ac0157ad7659c5fd9520a645441953"
-    },
-    {
-      "name": "lone snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lone snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 169972,
-      "checksum": "53f6f8439da3e32a41298387d3364a1d"
-    },
-    {
-      "name": "lonenights snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lonenights snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 149704,
-      "checksum": "5c4c0277ea987fe8d5035e28806b4637"
-    },
-    {
-      "name": "mine snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/mine snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 274134,
-      "checksum": "516a5d5c6c91e774a296290c75c3f982"
-    },
-    {
-      "name": "mist snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/mist snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 334732,
-      "checksum": "c09f2bbd861ef09d5f005e7c7330c8e3"
-    },
-    {
-      "name": "moon snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/moon snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 144740,
-      "checksum": "eb908945ef890b4700ed474d180236c7"
-    },
-    {
-      "name": "naked snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/naked snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 272806,
-      "checksum": "c48a0379e8602f3da5acd46750056934"
-    },
-    {
-      "name": "nowhere snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/nowhere snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 109466,
-      "checksum": "e7a8e4a4e03bd73428bd230c6bc23a05"
-    },
-    {
-      "name": "numb snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/numb snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 165938,
-      "checksum": "094e4da0c52f7ef955571811d379b4af"
-    },
-    {
       "name": "outwest snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/outwest snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/outwest snare.wav",
       "type": "file",
       "format": "wav",
       "size": 421498,
       "checksum": "ff7688b2fc165b84a734c275ce9a9755"
     },
     {
-      "name": "owls snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/owls snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 135308,
-      "checksum": "b9a9c2effc9007d682dfeee64f2136a3"
-    },
-    {
-      "name": "palma snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/palma snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 262598,
-      "checksum": "0e4ea3118513ac642a8b88ee4a3edff3"
-    },
-    {
-      "name": "pasay snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/pasay snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 137574,
-      "checksum": "d919decb8bb974108daeb759483813dc"
-    },
-    {
       "name": "raiseup snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/raiseup snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/raiseup snare.wav",
       "type": "file",
       "format": "wav",
       "size": 126658,
       "checksum": "8616f32dcabdf756c6c7483a780ae7ea"
     },
     {
-      "name": "rips snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/rips snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 153278,
-      "checksum": "3016c313d3358956b2e9cc87d512bf1d"
-    },
-    {
-      "name": "rosemary snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/rosemary snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 204852,
-      "checksum": "748dd1c552956c0447ec951b04171f2e"
-    },
-    {
-      "name": "saba snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/saba snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 273180,
-      "checksum": "c0ba8bdc1debe826d58f2fd39128f62b"
-    },
-    {
-      "name": "screwd snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/screwd snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 92034,
-      "checksum": "f0eec158dfe686b81f89ab7e46b6c218"
-    },
-    {
-      "name": "smoke snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/smoke snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 247462,
-      "checksum": "27b42c0585da9ebbde4c47d63e5c6c73"
-    },
-    {
       "name": "springtime snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/springtime snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/springtime snare.wav",
       "type": "file",
       "format": "wav",
       "size": 140680,
       "checksum": "5fd2445fcb77937890df3ace33baaef1"
     },
     {
+      "name": "540 snare 2.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/540 snare 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 148730,
+      "checksum": "28a0c355b299cd1ab6d98fafc366e220"
+    },
+    {
+      "name": "moon snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/moon snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 144740,
+      "checksum": "eb908945ef890b4700ed474d180236c7"
+    },
+    {
+      "name": "numb snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/numb snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 165938,
+      "checksum": "094e4da0c52f7ef955571811d379b4af"
+    },
+    {
+      "name": "naked snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/naked snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 272806,
+      "checksum": "c48a0379e8602f3da5acd46750056934"
+    },
+    {
+      "name": "times snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/times snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 338086,
+      "checksum": "3335b8379edcd8af9788f6ade508e007"
+    },
+    {
+      "name": "aphrodite snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/aphrodite snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 264198,
+      "checksum": "b5175ce71cef493bb9959797c224f1bf"
+    },
+    {
       "name": "stadtchen snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/stadtchen snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/stadtchen snare.wav",
       "type": "file",
       "format": "wav",
       "size": 153574,
       "checksum": "776e36a5e91c33a17ef3111f0e5f1a74"
     },
     {
-      "name": "suga snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/suga snare.wav",
+      "name": "black snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/black snare.wav",
       "type": "file",
       "format": "wav",
-      "size": 248630,
-      "checksum": "3adf821c55cce9a8767ae98bbaf28184"
+      "size": 248882,
+      "checksum": "fb3c8df98b71cdc07d08704a0c8a44bd"
+    },
+    {
+      "name": "lonenights snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lonenights snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 149704,
+      "checksum": "5c4c0277ea987fe8d5035e28806b4637"
+    },
+    {
+      "name": "smoke snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/smoke snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 247462,
+      "checksum": "27b42c0585da9ebbde4c47d63e5c6c73"
+    },
+    {
+      "name": "aire snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/aire snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 143636,
+      "checksum": "7d22ce903230d2501897ff16e4963fbd"
+    },
+    {
+      "name": "awkward snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/awkward snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 76482,
+      "checksum": "434a83a9e04b414c5da8ae2bc0ae4528"
+    },
+    {
+      "name": "badguy snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/badguy snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 239254,
+      "checksum": "98e2515e7cb4870402bac9ab04e56169"
+    },
+    {
+      "name": "screwd snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/screwd snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92034,
+      "checksum": "f0eec158dfe686b81f89ab7e46b6c218"
+    },
+    {
+      "name": "lakfaith snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lakfaith snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101966,
+      "checksum": "e7b63055e3915b063c5d96863ae0f5cb"
+    },
+    {
+      "name": "descenso snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/descenso snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 175774,
+      "checksum": "243d227aa4ba612e7c802aba51c97403"
+    },
+    {
+      "name": "divine snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/divine snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 125688,
+      "checksum": "1f71262516f38fa7ef7b607fc5e3798c"
+    },
+    {
+      "name": "rosemary snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/rosemary snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 204852,
+      "checksum": "748dd1c552956c0447ec951b04171f2e"
     },
     {
       "name": "sunday snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/sunday snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/sunday snare.wav",
       "type": "file",
       "format": "wav",
       "size": 264120,
@@ -210,71 +186,183 @@
     },
     {
       "name": "testone snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/testone snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/testone snare.wav",
       "type": "file",
       "format": "wav",
       "size": 92850,
       "checksum": "b10c7a38bc77a062219858954429b25d"
     },
     {
-      "name": "times snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/times snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 338086,
-      "checksum": "3335b8379edcd8af9788f6ade508e007"
-    },
-    {
-      "name": "viento snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/viento snare.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 154312,
-      "checksum": "a6b2d8b1e0e778abad0112e3e2833873"
-    },
-    {
       "name": "whew snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/whew snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/whew snare.wav",
       "type": "file",
       "format": "wav",
       "size": 273812,
       "checksum": "29417fb11de8e141ee4ddd31c5518201"
     },
     {
-      "name": "winter snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/winter snare.wav",
+      "name": "awkward snare 2.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/awkward snare 2.wav",
       "type": "file",
       "format": "wav",
-      "size": 132304,
-      "checksum": "f55f5c746a2f318c144b8ca08390d4ce"
+      "size": 125190,
+      "checksum": "bb5b7b02797ad8d1139a55f82c0502ee"
+    },
+    {
+      "name": "calambre snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/calambre snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 158270,
+      "checksum": "04626e236bd756b208d2f9c5cc960d6a"
+    },
+    {
+      "name": "pasay snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/pasay snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 137574,
+      "checksum": "d919decb8bb974108daeb759483813dc"
+    },
+    {
+      "name": "saba snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/saba snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 273180,
+      "checksum": "c0ba8bdc1debe826d58f2fd39128f62b"
     },
     {
       "name": "yours snare.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/yours snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/yours snare.wav",
       "type": "file",
       "format": "wav",
       "size": 292678,
       "checksum": "7420e62edb029c6d43140c6360944775"
     },
     {
-      "name": "dilla siren.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/dilla siren.wav",
+      "name": "3000 snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/3000 snare.wav",
       "type": "file",
       "format": "wav",
-      "size": 168480,
-      "checksum": "9f63125f44fbd3b72ce413df8ddf0130"
+      "size": 86916,
+      "checksum": "0f00f476c329a3e95366eebe6c88659a"
     },
     {
-      "name": "insert.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/insert.wav",
+      "name": "bappa snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/bappa snare.wav",
       "type": "file",
       "format": "wav",
-      "size": 460282,
-      "checksum": "dd8590704d9e031032ce2b014ee60ecc"
+      "size": 155956,
+      "checksum": "198b66539f72792ad80410229b67fb2e"
+    },
+    {
+      "name": "rips snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/rips snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 153278,
+      "checksum": "3016c313d3358956b2e9cc87d512bf1d"
+    },
+    {
+      "name": "bucear snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/bucear snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 118608,
+      "checksum": "3d3cc771177986a5d282d90b5f6c4892"
+    },
+    {
+      "name": "jasmine snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/jasmine snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 253282,
+      "checksum": "6fa99df2952446fa40720d6c562a1662"
+    },
+    {
+      "name": "suga snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/suga snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 248630,
+      "checksum": "3adf821c55cce9a8767ae98bbaf28184"
+    },
+    {
+      "name": "eddie snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/eddie snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 146042,
+      "checksum": "71900aaaa95210e409a5cce100598961"
+    },
+    {
+      "name": "mist snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/mist snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 334732,
+      "checksum": "c09f2bbd861ef09d5f005e7c7330c8e3"
+    },
+    {
+      "name": "downhill snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/downhill snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 147182,
+      "checksum": "863d7f70316ccd7b694dd66e8e377a92"
+    },
+    {
+      "name": "likethis snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/likethis snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 147372,
+      "checksum": "8cb646b14881eda2cd2ceecf892368dc"
+    },
+    {
+      "name": "palma snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/palma snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 262598,
+      "checksum": "0e4ea3118513ac642a8b88ee4a3edff3"
+    },
+    {
+      "name": "540 snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/540 snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 128810,
+      "checksum": "d1f919441db531ffc0614877803992f5"
+    },
+    {
+      "name": "burglar snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/burglar snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 246130,
+      "checksum": "772342cb3453996ea154c84b9c21d0e1"
+    },
+    {
+      "name": "libra snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/libra snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 233104,
+      "checksum": "4b6cdc4978cfcc843e2b543d67a557c2"
+    },
+    {
+      "name": "owls snare.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/owls snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135308,
+      "checksum": "b9a9c2effc9007d682dfeee64f2136a3"
     },
     {
       "name": "paah.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/paah.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/paah.wav",
       "type": "file",
       "format": "wav",
       "size": 95510,
@@ -282,7 +370,7 @@
     },
     {
       "name": "token.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/token.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/token.wav",
       "type": "file",
       "format": "wav",
       "size": 347328,
@@ -290,7 +378,7 @@
     },
     {
       "name": "uhh.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/uhh.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/uhh.wav",
       "type": "file",
       "format": "wav",
       "size": 240826,
@@ -298,23 +386,76 @@
     },
     {
       "name": "yo.wav",
-      "file": "samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/yo.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/yo.wav",
       "type": "file",
       "format": "wav",
       "size": 212690,
       "checksum": "54e7d6c7f8c3dbbcabb68c1a010ce09b"
     },
     {
-      "name": "Clap 01 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Claps/Clap 01 - Shining Star.wav",
+      "name": "dilla siren.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/dilla siren.wav",
       "type": "file",
       "format": "wav",
-      "size": 763016,
-      "checksum": "434a18d3291f1ef655c8627e6a08ad47"
+      "size": 168480,
+      "checksum": "9f63125f44fbd3b72ce413df8ddf0130"
+    },
+    {
+      "name": "insert.wav",
+      "file": "/samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/insert.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 460282,
+      "checksum": "dd8590704d9e031032ce2b014ee60ecc"
+    },
+    {
+      "name": "Hats",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Hats"
+    },
+    {
+      "name": "Open hats",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats"
+    },
+    {
+      "name": "Percs",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Percs"
+    },
+    {
+      "name": "Claps",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Claps"
+    },
+    {
+      "name": "Congas",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Congas"
+    },
+    {
+      "name": "Kicks",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks"
+    },
+    {
+      "name": "Loops",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Loops"
+    },
+    {
+      "name": "Snare",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Snare"
+    },
+    {
+      "name": "Toms",
+      "type": "directory",
+      "dir": "/samples2/Earth, Wind \u0026 Fire Kit/Toms"
     },
     {
       "name": "Clap 02 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Claps/Clap 02 - Shining Star.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Claps/Clap 02 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 197508,
@@ -322,7 +463,7 @@
     },
     {
       "name": "Clap 03 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Claps/Clap 03 - Shining Star.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Claps/Clap 03 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 202132,
@@ -330,39 +471,23 @@
     },
     {
       "name": "Clap 04 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Claps/Clap 04 - Shining Star.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Claps/Clap 04 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 198552,
       "checksum": "3e55068f3859c674f6d174627727fead"
     },
     {
-      "name": "Conga 01 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 01 - Fantasy.wav",
+      "name": "Clap 01 - Shining Star.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Claps/Clap 01 - Shining Star.wav",
       "type": "file",
       "format": "wav",
-      "size": 117982,
-      "checksum": "9b900783a86375fa3fd83e213293698c"
-    },
-    {
-      "name": "Conga 02 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 02 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 61782,
-      "checksum": "72d94a927fa5a1b08cebc0fb423a22c4"
-    },
-    {
-      "name": "Conga 03 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 03 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 66830,
-      "checksum": "d632f3ea18f3c48506ebd275a605c1c7"
+      "size": 763016,
+      "checksum": "434a18d3291f1ef655c8627e6a08ad47"
     },
     {
       "name": "Conga 04 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 04 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 04 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 118238,
@@ -370,7 +495,7 @@
     },
     {
       "name": "Conga 05 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 05 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 05 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 67510,
@@ -378,167 +503,103 @@
     },
     {
       "name": "Conga 06 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 06 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 06 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 56502,
       "checksum": "aa07517a3a1ffea11af0aa096d2367d3"
     },
     {
-      "name": "Conga 07 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 07 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 135358,
-      "checksum": "398e751cc394168115a8856c886f33ce"
-    },
-    {
       "name": "Conga 08 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 08 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 08 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 90550,
       "checksum": "a7c42ac4d7c0e4a6f373950cde2142bf"
     },
     {
-      "name": "Conga 09 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 09 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 133974,
-      "checksum": "4e536939d7649af2d9e074d991e4cc50"
-    },
-    {
-      "name": "Conga 10 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 10 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 122174,
-      "checksum": "08e6019413c7e65dc9cf9bd02064faea"
-    },
-    {
-      "name": "Conga 11 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 11 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 70070,
-      "checksum": "2ef96315aa8dfce27a42bb04a6ab0752"
-    },
-    {
-      "name": "Conga 12 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 12 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 51558,
-      "checksum": "7a6b9e2f7f89aac28114f20aa78c95d6"
-    },
-    {
       "name": "Conga 13 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Congas/Conga 13 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 13 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 112862,
       "checksum": "b581705ec6656f40148d31aa03b152bf"
     },
     {
-      "name": "Hat 01 - Boogie Wonderland.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 01 - Boogie Wonderland.wav",
+      "name": "Conga 02 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 02 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 42320,
-      "checksum": "42c771c938d39617e2a73a55cbf05ab7"
+      "size": 61782,
+      "checksum": "72d94a927fa5a1b08cebc0fb423a22c4"
     },
     {
-      "name": "Hat 02 - Boogie Wonderland.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 02 - Boogie Wonderland.wav",
+      "name": "Conga 11 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 11 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 79244,
-      "checksum": "9b9fe01c2efcde02c955c88d2ad37f29"
+      "size": 70070,
+      "checksum": "2ef96315aa8dfce27a42bb04a6ab0752"
     },
     {
-      "name": "Hat 03 - Boogie Wonderland.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 03 - Boogie Wonderland.wav",
+      "name": "Conga 07 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 07 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 80460,
-      "checksum": "0c7927b0c8301f04e799f914cfecd2c8"
+      "size": 135358,
+      "checksum": "398e751cc394168115a8856c886f33ce"
     },
     {
-      "name": "Hat 04 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 04 - Fantasy.wav",
+      "name": "Conga 03 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 03 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 64390,
-      "checksum": "0be9619e175331d6390b12da49ea924f"
+      "size": 66830,
+      "checksum": "d632f3ea18f3c48506ebd275a605c1c7"
     },
     {
-      "name": "Hat 05 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 05 - After the Love Has Gone.wav",
+      "name": "Conga 01 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 01 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 128796,
-      "checksum": "0e950cf7019541536cf95af88e92f8f8"
+      "size": 117982,
+      "checksum": "9b900783a86375fa3fd83e213293698c"
     },
     {
-      "name": "Hat 06 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 06 - After the Love Has Gone.wav",
+      "name": "Conga 10 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 10 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 130932,
-      "checksum": "92a0b56010aa3f1ad59025805d6051ce"
+      "size": 122174,
+      "checksum": "08e6019413c7e65dc9cf9bd02064faea"
     },
     {
-      "name": "Hat 07 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 07 - After the Love Has Gone.wav",
+      "name": "Conga 12 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 12 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 74852,
-      "checksum": "dac41fd6e5a4e029913d488e22ebf99d"
+      "size": 51558,
+      "checksum": "7a6b9e2f7f89aac28114f20aa78c95d6"
     },
     {
-      "name": "Hat 08 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 08 - Can't Hide Love.wav",
+      "name": "Conga 09 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Congas/Conga 09 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 67358,
-      "checksum": "0b265bf5940b2039c886ef514acb4e1c"
+      "size": 133974,
+      "checksum": "4e536939d7649af2d9e074d991e4cc50"
     },
     {
       "name": "Hat 09 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 09 - Can't Hide Love.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 09 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 80502,
       "checksum": "0d689c656d3fd08cfd595a0b2ba1b5da"
     },
     {
-      "name": "Hat 10 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 10 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 69894,
-      "checksum": "4bf250803af08bbb0eea3638dfc40950"
-    },
-    {
-      "name": "Hat 11 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 11 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 72678,
-      "checksum": "c3ff35aeb73b47352103befc21d7f313"
-    },
-    {
-      "name": "Hat 12 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 12 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 68406,
-      "checksum": "e34fee5855e7df04c7bd7f445ffeb180"
-    },
-    {
       "name": "Hat 13 - Mighty Mighty.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 13 - Mighty Mighty.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 13 - Mighty Mighty.wav",
       "type": "file",
       "format": "wav",
       "size": 96462,
@@ -546,47 +607,15 @@
     },
     {
       "name": "Hat 14 - Mighty Mighty.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 14 - Mighty Mighty.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 14 - Mighty Mighty.wav",
       "type": "file",
       "format": "wav",
       "size": 48966,
       "checksum": "792dc5cd2a695ef2fc6b3f0b5a02d146"
     },
     {
-      "name": "Hat 15 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 15 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 84500,
-      "checksum": "17167f15c684d3abf4de2a3623bd90d0"
-    },
-    {
-      "name": "Hat 16 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 16 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 79908,
-      "checksum": "69d77c5254abb2dd196ad83c42043eb5"
-    },
-    {
-      "name": "Hat 17 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 17 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 86100,
-      "checksum": "02f05fa01d84a2d02ef78b45a3d217e8"
-    },
-    {
-      "name": "Hat 18 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 18 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 44460,
-      "checksum": "57d9a1291a3664ee9b494f7295bd3cb3"
-    },
-    {
       "name": "Hat 19 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 19 - September.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 19 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 43508,
@@ -594,39 +623,135 @@
     },
     {
       "name": "Hat 20 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Hats/Hat 20 - September.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 20 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 46332,
       "checksum": "46abb795e5ca2dd7cdf78662ccd113b9"
     },
     {
-      "name": "Kick 01 - Fantasy.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 01 - Fantasy.wav",
+      "name": "Hat 05 - After the Love Has Gone.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 05 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
-      "size": 181742,
-      "checksum": "2fd48447810ce5f1fd58eeac3c92145b"
+      "size": 128796,
+      "checksum": "0e950cf7019541536cf95af88e92f8f8"
     },
     {
-      "name": "Kick 02 - In The Stone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 02 - In The Stone.wav",
+      "name": "Hat 08 - Can't Hide Love.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 08 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
-      "size": 100604,
-      "checksum": "44045afc70a58340f58315e52eb7196f"
+      "size": 67358,
+      "checksum": "0b265bf5940b2039c886ef514acb4e1c"
     },
     {
-      "name": "Kick 03 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 03 - Shining Star.wav",
+      "name": "Hat 17 - September.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 17 - September.wav",
       "type": "file",
       "format": "wav",
-      "size": 103564,
-      "checksum": "03b0b72342b2483985ec7855d0ed35fd"
+      "size": 86100,
+      "checksum": "02f05fa01d84a2d02ef78b45a3d217e8"
+    },
+    {
+      "name": "Hat 01 - Boogie Wonderland.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 01 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 42320,
+      "checksum": "42c771c938d39617e2a73a55cbf05ab7"
+    },
+    {
+      "name": "Hat 03 - Boogie Wonderland.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 03 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 80460,
+      "checksum": "0c7927b0c8301f04e799f914cfecd2c8"
+    },
+    {
+      "name": "Hat 04 - Fantasy.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 04 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 64390,
+      "checksum": "0be9619e175331d6390b12da49ea924f"
+    },
+    {
+      "name": "Hat 12 - Can't Hide Love.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 12 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68406,
+      "checksum": "e34fee5855e7df04c7bd7f445ffeb180"
+    },
+    {
+      "name": "Hat 16 - September.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 16 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 79908,
+      "checksum": "69d77c5254abb2dd196ad83c42043eb5"
+    },
+    {
+      "name": "Hat 18 - September.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 18 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 44460,
+      "checksum": "57d9a1291a3664ee9b494f7295bd3cb3"
+    },
+    {
+      "name": "Hat 02 - Boogie Wonderland.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 02 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 79244,
+      "checksum": "9b9fe01c2efcde02c955c88d2ad37f29"
+    },
+    {
+      "name": "Hat 07 - After the Love Has Gone.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 07 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 74852,
+      "checksum": "dac41fd6e5a4e029913d488e22ebf99d"
+    },
+    {
+      "name": "Hat 10 - Can't Hide Love.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 10 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 69894,
+      "checksum": "4bf250803af08bbb0eea3638dfc40950"
+    },
+    {
+      "name": "Hat 11 - Can't Hide Love.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 11 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 72678,
+      "checksum": "c3ff35aeb73b47352103befc21d7f313"
+    },
+    {
+      "name": "Hat 15 - September.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 15 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 84500,
+      "checksum": "17167f15c684d3abf4de2a3623bd90d0"
+    },
+    {
+      "name": "Hat 06 - After the Love Has Gone.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Hats/Hat 06 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 130932,
+      "checksum": "92a0b56010aa3f1ad59025805d6051ce"
     },
     {
       "name": "Kick 04 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 04 - Shining Star.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 04 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 189644,
@@ -634,173 +759,22 @@
     },
     {
       "name": "Kick 05 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 05 - After the Love Has Gone.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 05 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 76692,
       "checksum": "418547985044b2736e0a5668d474bff9"
     },
     {
-      "name": "Kick 06 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 06 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 212620,
-      "checksum": "f4759e5283ae921e27e2a4a5f65c19b5"
-    },
-    {
-      "name": "Kick 07 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 07 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 92356,
-      "checksum": "ee3165205580dd08bf2de26817ab1395"
-    },
-    {
-      "name": "Kick 08 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 08 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 72132,
-      "checksum": "ffe5feeb905297764edf387112616ef6"
-    },
-    {
       "name": "Kick 09 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 09 - After the Love Has Gone.wav",
+      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 09 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 77420,
       "checksum": "903f92ddafa27dc123e4a6c1e948a0cf"
-    },
-    {
-      "name": "Kick 10 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 10 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 188798,
-      "checksum": "596adda28a5305676c69fc81cc9996cd"
-    },
-    {
-      "name": "Kick 11 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 11 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 73318,
-      "checksum": "478087b90a7e6a6c578035ff9f70b8a1"
-    },
-    {
-      "name": "Kick 12 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 12 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 123142,
-      "checksum": "36a700d757d77f3a39db549291d8deea"
-    },
-    {
-      "name": "Kick 13 - Mighty Mighty.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 13 - Mighty Mighty.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 149406,
-      "checksum": "cff7f1321cea7e805e2004c6aaf597ff"
-    },
-    {
-      "name": "Kick 14 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 14 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 82580,
-      "checksum": "0c5d63e8dcd4e7db525cd5c33a1feb25"
-    },
-    {
-      "name": "Kick 15 - Serpentine Fire.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Kicks/Kick 15 - Serpentine Fire.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 137940,
-      "checksum": "a651cd53dd1195a861219336969b0b55"
-    },
-    {
-      "name": "Fill 01 - Shining Star.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 01 - Shining Star.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 209908,
-      "checksum": "38aab61d047dc14f345a7d030e2d0218"
-    },
-    {
-      "name": "Fill 02 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 02 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 434564,
-      "checksum": "371df2a5ea8140005d09034e5eacb842"
-    },
-    {
-      "name": "Fill 03 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 03 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 1354692,
-      "checksum": "bc257285606282cf97bbffc4736e7dbb"
-    },
-    {
-      "name": "Fill 04 - After the Love Has Gone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 04 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 691916,
-      "checksum": "97e9da039964243f65c705119c4b469e"
-    },
-    {
-      "name": "Fill 05 - Can't Hide Love.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 05 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 956094,
-      "checksum": "daa068df4330c1db4cbc43826c0d9c42"
-    },
-    {
-      "name": "Fill 06 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 06 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 162532,
-      "checksum": "a485d8721e01b88c752ec833d0e1f2f8"
-    },
-    {
-      "name": "Fill 07 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 07 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 320524,
-      "checksum": "58d0bfcf800e2a528fa436b31e38e9fa"
-    },
-    {
-      "name": "Fill 08 - September.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Fill 08 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 815836,
-      "checksum": "b9b1c66a0cf1b4674b1faf25efa29c70"
-    },
-    {
-      "name": "Perc loop 01 - In The Stone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Perc loop 01 - In The Stone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 383124,
-      "checksum": "c1d4037f0a55601db7f01e556057928a"
-    },
-    {
-      "name": "Perc loop 02 - In The Stone.wav",
-      "file": "samples/Earth, Wind & Fire Kit/Loops/Perc loop 02 - In The Stone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 734388,
-      "checksum": "0e25f1082fa1cd0b8c8457781a47147e"
     }
   ],
   "next": true,
-  "total": 8
+  "totalCount": 838,
+  "totalPages": 9
 }

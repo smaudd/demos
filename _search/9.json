@@ -1,0 +1,311 @@
+{
+  "content": [
+    {
+      "name": "shaker_broom.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_broom.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109936,
+      "checksum": "d606c9751f30ef8f2f836e1b82fb4c60"
+    },
+    {
+      "name": "shaker_command.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_command.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 83476,
+      "checksum": "8ecc8b1af1cf70edc7d0d82fe434db15"
+    },
+    {
+      "name": "shaker_quicky.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_quicky.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 30556,
+      "checksum": "89dcd9e0817ba8d454172fbe908eeae4"
+    },
+    {
+      "name": "shaker_really.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_really.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 66676,
+      "checksum": "62ee9b75bed43fdb139d8fe10afbbf12"
+    },
+    {
+      "name": "tam_lifein2d.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_lifein2d.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 51808,
+      "checksum": "175c95096cd895733211cc1d1341be03"
+    },
+    {
+      "name": "shaker_halfshake.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_halfshake.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 130192,
+      "checksum": "0a7829ca22845eb8f700cb1e3fb17fdc"
+    },
+    {
+      "name": "shaker_pause.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_pause.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 80854,
+      "checksum": "419567a85ece7bdb91027ec26626c5be"
+    },
+    {
+      "name": "tam_christmassy.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_christmassy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 90592,
+      "checksum": "6039db7d33991ccde8ad1596db234d49"
+    },
+    {
+      "name": "tam_extras.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_extras.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 104266,
+      "checksum": "afcb6cea0d6a18f265f00f31c9b18ea0"
+    },
+    {
+      "name": "tam_hohoho.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_hohoho.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 126076,
+      "checksum": "2fb122baa664e496e65b709182fb8e44"
+    },
+    {
+      "name": "tam_mrhat.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_mrhat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82174,
+      "checksum": "99479f4044c7dcf44218113b429f5510"
+    },
+    {
+      "name": "snr_dwreal.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_dwreal.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 56512,
+      "checksum": "9babbeb7af7f5f1f8fec0f3d475c1539"
+    },
+    {
+      "name": "snr_housey.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_housey.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "86800e65284e08d52d82d4b4b867c6d5"
+    },
+    {
+      "name": "snr_mpc.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_mpc.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "48ee0d1b8c478d7eb20a5488c74e0f23"
+    },
+    {
+      "name": "snr_myclassicsnare.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_myclassicsnare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 239296,
+      "checksum": "2e69a91806add123eec9de0f34c9a771"
+    },
+    {
+      "name": "snr_analogging.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_analogging.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 254116,
+      "checksum": "94189d78b4e16f2660aeb95c85950ddf"
+    },
+    {
+      "name": "snr_answer8bit.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_answer8bit.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 21736,
+      "checksum": "4757820e8ff0862d93015e3d89ea7807"
+    },
+    {
+      "name": "snr_bland.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_bland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 90784,
+      "checksum": "b148be5b99a5bb3deca141f4f84a7e84"
+    },
+    {
+      "name": "snr_drm909kit.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_drm909kit.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 249388,
+      "checksum": "31ab0d9fc036df93e63ea931f6a90fbf"
+    },
+    {
+      "name": "snr_royalty.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_royalty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 47392,
+      "checksum": "6e21838fd3d85c253dc2a1cd2a000992"
+    },
+    {
+      "name": "snr_rusnarious.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_rusnarious.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65386,
+      "checksum": "411af636fc5702faccd77b53d3ed9ec6"
+    },
+    {
+      "name": "snr_owned.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_owned.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 51472,
+      "checksum": "4969789ee0cb72ad1e6f28320c0bb685"
+    },
+    {
+      "name": "snr_truevintage.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_truevintage.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 74122,
+      "checksum": "3449bea26bb3d71282bbd534edef1524"
+    },
+    {
+      "name": "tom_taste.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_taste.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 79360,
+      "checksum": "afb01c4a4b98201a8f135a8fe7edd96a"
+    },
+    {
+      "name": "tom_ofalltoms.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_ofalltoms.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 102328,
+      "checksum": "745cb7e8dfe2ed3ace4d4197ad64ec00"
+    },
+    {
+      "name": "tom_summerdayze.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_summerdayze.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 89380,
+      "checksum": "77237ff69d98f5e7c211d5859c307339"
+    },
+    {
+      "name": "tom_discodisco.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_discodisco.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 156856,
+      "checksum": "0f97b4e7e310ea61a835f29ac93bff17"
+    },
+    {
+      "name": "tom_eclipse.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_eclipse.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 103606,
+      "checksum": "e798814a0c4a12b2b1cab085d1d8135e"
+    },
+    {
+      "name": "tom_909onvinyl.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909onvinyl.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 73516,
+      "checksum": "a5934a63d23c623202c3a7c79aa92043"
+    },
+    {
+      "name": "tom_dept.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_dept.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 141256,
+      "checksum": "00b04c6d25c9b6d7aae3482c4ffef2b2"
+    },
+    {
+      "name": "tom_enriched.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_enriched.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 179356,
+      "checksum": "ebaa7c27c025af4ac14d098c37933cd3"
+    },
+    {
+      "name": "tom_enrico.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_enrico.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 62728,
+      "checksum": "1b9d3224855786400ce7dd70004c08da"
+    },
+    {
+      "name": "tom_madisonave.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_madisonave.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 117712,
+      "checksum": "77f8ca6db1d414d570a1ba8a25b78f25"
+    },
+    {
+      "name": "tom_909fatty.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909fatty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 203086,
+      "checksum": "237fdf55dd8e6ef26b59248e59911585"
+    },
+    {
+      "name": "tom_cleansweep.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_cleansweep.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 99172,
+      "checksum": "139388013a15e002840698155d914cf4"
+    },
+    {
+      "name": "tom_vsneve.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_vsneve.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 154000,
+      "checksum": "831e48a0964d4d76641b189bba50b68f"
+    },
+    {
+      "name": "tom_greatwhite.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_greatwhite.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 74782,
+      "checksum": "97a2be6861c8248f0f8d78202d22e43c"
+    },
+    {
+      "name": "tom_iloveroland.wav",
+      "file": "/samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_iloveroland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 96043,
+      "checksum": "c978ad4f01c230bad5259483ee1ede85"
+    }
+  ],
+  "next": false,
+  "totalCount": 838,
+  "totalPages": 9
+}
