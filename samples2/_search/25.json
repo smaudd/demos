@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Snare roll 02 - September.wav",
+      "file": "Earth, Wind & Fire Kit/Snare/Snare roll 02 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 83460,
+      "checksum": "e9f22cdb062e72b0608d610829d8a349"
+    },
+    {
+      "name": "Tom 01 - Boogie Wonderland.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 01 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 244332,
+      "checksum": "3baee1c2a87d678ab26bfba683863421"
+    },
+    {
+      "name": "Tom 02 - In The Stone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 02 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 48196,
+      "checksum": "6810ef40e637d97a5c4b0f599d4cc82c"
+    },
+    {
+      "name": "Tom 03 - In The Stone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 03 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 25628,
+      "checksum": "b68dd9d649c9ddc2e2515def1b5cedb4"
+    },
+    {
+      "name": "Tom 04 - In The Stone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 04 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 100036,
+      "checksum": "91510f455fdd878ef5366567ec434be6"
+    },
+    {
+      "name": "Tom 05 - In The Stone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 05 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 48796,
+      "checksum": "9837d387e8c99bf848ebc18e668122c7"
+    },
+    {
+      "name": "Tom 06 - After the Love Has Gone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 06 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 164876,
+      "checksum": "9e9b5a07a1d04a39014cc435d5f971ca"
+    },
+    {
+      "name": "Tom 07 - After the Love Has Gone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 07 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 176172,
+      "checksum": "dd7376694f8b93f167cfe202aedda92d"
+    },
+    {
+      "name": "Tom 08 - After the Love Has Gone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 08 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92476,
+      "checksum": "1ea50b0e8a6526dadf70dd4526f1b20c"
+    },
+    {
+      "name": "Tom 09 - After the Love Has Gone.wav",
+      "file": "Earth, Wind & Fire Kit/Toms/Tom 09 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 158924,
+      "checksum": "dfff805b5bc3b8ef539ad6a5314455bb"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

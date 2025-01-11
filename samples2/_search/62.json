@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "7.wav",
+      "file": "chops2/7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "e850e88d9b1d5b39192d906ba0a0c451"
+    },
+    {
+      "name": "8.wav",
+      "file": "chops2/8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "9b6d6d52121b21218f63361b5d9c6ed9"
+    },
+    {
+      "name": "9.wav",
+      "file": "chops2/9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "91d96a6205df584fa5df2926fb21afb4"
+    },
+    {
+      "name": "mmm.wav",
+      "file": "chops2/mmm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "90ab87ce2786ee00f2c9e49039c6408a"
+    },
+    {
+      "name": "soundpacks.com.wav",
+      "file": "deep_house_drum_samples/soundpacks.com.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1052114,
+      "checksum": "7609275bacad3109ef3e4145d3a9fea6"
+    },
+    {
+      "name": "bd_909dwsd.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_909dwsd.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 45692,
+      "checksum": "c24ebe962b06aa46d6e1fd2242379485"
+    },
+    {
+      "name": "bd_chicago.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_chicago.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 130656,
+      "checksum": "3208889b60a7a22976d748d5bfbfd5b5"
+    },
+    {
+      "name": "bd_dandans.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_dandans.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 136586,
+      "checksum": "5dc9d78a7fe8843d4953fb6e6e8ef17e"
+    },
+    {
+      "name": "bd_deephouser.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_deephouser.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 133570,
+      "checksum": "801e21f2861c3d25000cebc90bda40cb"
+    },
+    {
+      "name": "bd_diesel.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_diesel.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65550,
+      "checksum": "33cd4903bb5b7d43ad6d3c54cc2c94c9"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

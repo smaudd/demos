@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "Gimme_Snare17.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_Snare17.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "01ba4d2278c2e4e94136bb1c75248bdf"
+    },
+    {
+      "name": "Gimme_SnareForFills7.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_SnareForFills7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 556220,
+      "checksum": "5d5991842752b5ff79fb3fd0e2f6906b"
+    },
+    {
+      "name": "Gimme_SnareForFills8.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 6/Gimme_SnareForFills8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 347876,
+      "checksum": "fbf2be3b21819c405d3173f15f963a55"
+    },
+    {
+      "name": "Gimme_ClosedHat10.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_ClosedHat10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57128,
+      "checksum": "3691a889e2264e1b89ef993a101358c8"
+    },
+    {
+      "name": "Gimme_Kick16.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Kick16.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 278576,
+      "checksum": "2a7acaaa49848f8713c6c25ea715a830"
+    },
+    {
+      "name": "Gimme_Kick17.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Kick17.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 557102,
+      "checksum": "280a9569c041e310c5d62bd12773705a"
+    },
+    {
+      "name": "Gimme_Kick18.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Kick18.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 174128,
+      "checksum": "6df838950ede678cd2677380ae5b9e1b"
+    },
+    {
+      "name": "Gimme_Musical10.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Musical10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1043192,
+      "checksum": "eeaba6900d6156c43b3d8705097a51ec"
+    },
+    {
+      "name": "Gimme_Musical8.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Musical8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 973118,
+      "checksum": "9be22e0a7f549369cbd1f5c9f4498d6c"
+    },
+    {
+      "name": "Gimme_Musical9.wav",
+      "file": "Gimme All Your Drums (Vol. 1)/Kit 7/Gimme_Musical9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1009802,
+      "checksum": "afb3624ab3ff6164534325f3dde5c213"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

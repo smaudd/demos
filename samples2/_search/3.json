@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "likethis hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/likethis hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 139736,
+      "checksum": "f86d80f089546568f8a486b19b84bc97"
+    },
+    {
+      "name": "lone hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/lone hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 103160,
+      "checksum": "2c2762d45921029fbd2826c860a3dfca"
+    },
+    {
+      "name": "lowrider hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/lowrider hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 70248,
+      "checksum": "c177917e834196ddb9a8d53c72ce8124"
+    },
+    {
+      "name": "moon hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/moon hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 99888,
+      "checksum": "49801cfe65a4cded626209f7c7a4e4df"
+    },
+    {
+      "name": "nevoeiro hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/nevoeiro hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 71792,
+      "checksum": "3e8caa18ef8b1d8a6e54e46e561408a8"
+    },
+    {
+      "name": "numb hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/numb hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101882,
+      "checksum": "c617dff01c4efb6ec7f455b5ea54bf92"
+    },
+    {
+      "name": "owls hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/owls hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 128952,
+      "checksum": "03162f1758d6d2bb542095c5297fa2ce"
+    },
+    {
+      "name": "pasay hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/pasay hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 91642,
+      "checksum": "25aa23ecbc7a2db8dcc6d998965c0e42"
+    },
+    {
+      "name": "reinvent hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/reinvent hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 93472,
+      "checksum": "46a6406ba31638d081643091e9d6ca09"
+    },
+    {
+      "name": "rghthook hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/rghthook hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 117066,
+      "checksum": "fa9320a514f959f84a54376e6cc7a507"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

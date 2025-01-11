@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "hat_classichousehat.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_classichousehat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 95434,
+      "checksum": "d26399a7d4843bea26bcb796ebc8a11c"
+    },
+    {
+      "name": "hat_closer.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_closer.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57016,
+      "checksum": "33568683bc3ec27f6923aa4f0f36ac19"
+    },
+    {
+      "name": "hat_collective.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_collective.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 129796,
+      "checksum": "c55ac6ec45095046434ece4bf571388b"
+    },
+    {
+      "name": "hat_crackers.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_crackers.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68476,
+      "checksum": "4391144b5c2e59723515946f825c86df"
+    },
+    {
+      "name": "hat_critters.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_critters.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 48034,
+      "checksum": "3ce4d1187fa89bf94ce5402ad28a424c"
+    },
+    {
+      "name": "hat_cuppa.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_cuppa.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109936,
+      "checksum": "51e468b3456176cdf1246d8e49d606eb"
+    },
+    {
+      "name": "hat_darkstar.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_darkstar.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 27376,
+      "checksum": "8e1bcaee8ee8534fddf304852c5d1e44"
+    },
+    {
+      "name": "hat_deephouseopen.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_deephouseopen.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68056,
+      "checksum": "59f9d1a13f3e222fb8048ef1075db2c8"
+    },
+    {
+      "name": "hat_drawn.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_drawn.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 58588,
+      "checksum": "1a8eb20eb2c52a7498593271ad568ae9"
+    },
+    {
+      "name": "hat_freekn.wav",
+      "file": "deep_house_drum_samples/Deep House Drum Samples/hats/hat_freekn.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 30556,
+      "checksum": "88bdb67bb9214848978c0c3692795cf7"
+    }
+  ],
+  "next": true,
+  "total": 80
+}

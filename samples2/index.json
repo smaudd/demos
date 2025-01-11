@@ -25,6 +25,11 @@
       "name": "JOONIES DNB DRUM COLLECTION VOL1",
       "dir": "/samples2/JOONIES DNB DRUM COLLECTION VOL1"
     },
+    "_search": {
+      "type": "directory",
+      "name": "_search",
+      "dir": "/samples2/_search"
+    },
     "chops2": {
       "type": "directory",
       "name": "chops2",

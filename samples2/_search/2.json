@@ -1,0 +1,86 @@
+{
+  "content": [
+    {
+      "name": "disera hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/disera hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 94494,
+      "checksum": "68c45f97503a63aa0142212312fea427"
+    },
+    {
+      "name": "divine hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/divine hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109756,
+      "checksum": "4fc3df32eda5016d378abd7b96cdeeac"
+    },
+    {
+      "name": "downhill shaker.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/downhill shaker.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 69278,
+      "checksum": "063fe7c37350adfe87d63241174d682c"
+    },
+    {
+      "name": "dybrk hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/dybrk hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135690,
+      "checksum": "d42bc92e9283a9f78c6901c74a7612eb"
+    },
+    {
+      "name": "frinary open hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/frinary open hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 71786,
+      "checksum": "8c46c91d97b52af143edab227ef2468c"
+    },
+    {
+      "name": "gunshotta hat loop.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/gunshotta hat loop.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 251958,
+      "checksum": "088801d96f9a83b3bd9304793834ee56"
+    },
+    {
+      "name": "hat taptap.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/hat taptap.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 15056,
+      "checksum": "0d70cdf543b4697a687e1c47470c9588"
+    },
+    {
+      "name": "lakshmana hat 2.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/lakshmana hat 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 110910,
+      "checksum": "a687563ab10a57f8cdf33127bd613c12"
+    },
+    {
+      "name": "lakshmana hat 3.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/lakshmana hat 3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 89326,
+      "checksum": "4f799df41b87a2c4f50ab92e96f0045b"
+    },
+    {
+      "name": "lakshmana hat.wav",
+      "file": "DRUMS/Juesswork - Roughcuts Drumkit/Hat/lakshmana hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 95514,
+      "checksum": "98c3d151fadb7c44dc729fbf3b22c60d"
+    }
+  ],
+  "next": true,
+  "total": 80
+}
