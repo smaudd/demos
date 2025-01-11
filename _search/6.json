@@ -1,807 +1,807 @@
 {
   "content": [
     {
-      "name": "DNB_BREAK_97.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_97.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "02e316f3005fe5a6ea909754eb362f22"
-    },
-    {
-      "name": "DNB_BREAK_43.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_43.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "016c51925d8268568cf7bedd41a4dbd9"
-    },
-    {
-      "name": "DNB_BREAK_54.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_54.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "b3a899b90020a958ecd8d852510e6cd8"
-    },
-    {
-      "name": "DNB_BREAK_41.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_41.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "197c341075c57878e8238e54aadee84c"
-    },
-    {
-      "name": "DNB_BREAK_95.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_95.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "df031720020ebc3e188c651aca7728fe"
-    },
-    {
-      "name": "DNB_BREAK_65.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_65.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "083830d95782e2009dcee93b29cf29c0"
-    },
-    {
-      "name": "DNB_BREAK_99.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_99.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "9759b16949e3f9448ca10e5a32df96fa"
-    },
-    {
-      "name": "DNB_BREAK_06.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_06.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "e684c313984c99362c3fa9da60b1bd93"
-    },
-    {
-      "name": "DNB_BREAK_47.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_47.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "c346419ffb78d723fefd629838f599aa"
-    },
-    {
-      "name": "DNB_BREAK_61.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_61.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "bd0458f4d9a5b2351146e2345cb46319"
-    },
-    {
-      "name": "DNB_BREAK_77.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_77.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "dd922aff2ed42771bb6991846ba2fd66"
-    },
-    {
-      "name": "DNB_BREAK_01.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_01.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "fa218c361928b2f0a0da66c106079a95"
-    },
-    {
-      "name": "DNB_BREAK_08.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_08.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "f7ec8a2d804faf9512f48411cf836022"
-    },
-    {
-      "name": "DNB_BREAK_85.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_85.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "e18455845908a6ac4a7ba3fb5b7939cd"
-    },
-    {
-      "name": "DNB_BREAK_52.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_52.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "24599416b5b485de10324e6508a869c8"
-    },
-    {
       "name": "DNB_BREAK_53.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_53.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_53.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
       "checksum": "5c695d6ddd6cc3c5a90fdefd0891f3d4"
     },
     {
-      "name": "DNB_BREAK_27.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_27.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "df0b565d0e89ebc4a6f8bbdf4f46e7b1"
-    },
-    {
-      "name": "DNB_BREAK_32.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_32.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "c4064500cec895723d176e9546c0370c"
-    },
-    {
-      "name": "DNB_BREAK_22.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_22.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "5b37e7fbffe3b95ae6acb353bd02de15"
-    },
-    {
-      "name": "DNB_BREAK_25.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_25.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "2f073fbaf067f937070cc2c5e2a3c40b"
-    },
-    {
-      "name": "DNB_BREAK_35.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_35.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "c1de25842d1d3bd2c73f71f2551ade56"
-    },
-    {
-      "name": "DNB_BREAK_03.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_03.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "840ac9713ec2ad7ad999eda431f14d53"
-    },
-    {
-      "name": "DNB_BREAK_14.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_14.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "c7196a70e75a792e10383aaadd2654bf"
-    },
-    {
-      "name": "DNB_BREAK_36.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_36.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "aa39594c413881fdbd7e81fe2e2e9a0f"
-    },
-    {
-      "name": "DNB_BREAK_63.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_63.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "e1551fed87a496bea3094d037980bf43"
-    },
-    {
-      "name": "DNB_BREAK_42.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_42.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "9fc7f705b2d444edf6a04814fdd47a59"
-    },
-    {
-      "name": "DNB_BREAK_82.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_82.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "d0d63f766c3095735a6ebf9d72b34e25"
-    },
-    {
-      "name": "DNB_BREAK_98.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_98.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "3c84dac39f2f847d4c75938935126185"
-    },
-    {
-      "name": "DNB_BREAK_19.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_19.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "e49b61f4ad80f603db007fbe374c6764"
-    },
-    {
-      "name": "DNB_BREAK_28.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_28.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "55eada0b672915d478165eede3322d5d"
-    },
-    {
-      "name": "DNB_BREAK_62.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_62.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "0f68f6dbe7045e1dfd341a5018845be5"
-    },
-    {
-      "name": "DNB_BREAK_73.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_73.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "c3193df0fc6df4c9704587c0aff26b68"
-    },
-    {
-      "name": "DNB_BREAK_13.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_13.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "52db33a0a1515f0aef14f67ed8ed8a1f"
-    },
-    {
-      "name": "DNB_BREAK_15.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_15.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "8f191c537e8a8eac22d3b86961d6d6dc"
-    },
-    {
-      "name": "DNB_BREAK_55.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_55.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "b9e52ee2514276738d07b142fc811bc8"
-    },
-    {
-      "name": "DNB_BREAK_24.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_24.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "ba1357e1bdae6d288cb63306edde1b5c"
-    },
-    {
-      "name": "DNB_BREAK_46.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_46.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "29f10346f41423201e1b516612b2a95a"
-    },
-    {
-      "name": "DNB_BREAK_66.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_66.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "8d7cfefd1345a15d91305c8a71300281"
-    },
-    {
-      "name": "DNB_BREAK_93.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_93.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "b495869b8924daabe08eab64a88fa777"
-    },
-    {
-      "name": "DNB_BREAK_96.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_96.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "024739e64a6b1024f0857cd6dd0deb93"
-    },
-    {
-      "name": "DNB_BREAK_09.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_09.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "f33641c7249624840a51eba912eea161"
-    },
-    {
-      "name": "DNB_BREAK_26.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_26.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "781be072b98cad7a79f82d29a97da03c"
-    },
-    {
-      "name": "DNB_BREAK_60.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_60.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "2906e7272bd53bfdc6885e1b1c00ed86"
-    },
-    {
-      "name": "DNB_BREAK_69.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_69.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "d94471233c0d99a615e12793fa96fbaa"
-    },
-    {
-      "name": "DNB_BREAK_88.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_88.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "5aaabdc23a17c4467f44e5f34da31159"
-    },
-    {
-      "name": "DNB_BREAK_37.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_37.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "71aa24d3dad5ef17b4d53e18ba729f3d"
-    },
-    {
-      "name": "DNB_BREAK_05.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_05.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "e44aa6e4b95b12c3d9a15b68312839a9"
-    },
-    {
-      "name": "DNB_BREAK_16.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_16.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "1e56d9a3b9062a0cb963ac75932adfbb"
-    },
-    {
-      "name": "DNB_BREAK_17.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_17.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "f0125b3df61d5e19c602b77b0a7f6858"
-    },
-    {
-      "name": "DNB_BREAK_29.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_29.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "7f61f790d855d3e95128f5c931b7b19f"
-    },
-    {
-      "name": "DNB_BREAK_39.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_39.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "37865d307bdeaabe83b417617a734226"
-    },
-    {
-      "name": "DNB_BREAK_56.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_56.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "2db4ebb94a92dd9ce5fc9dfc0cd45a44"
-    },
-    {
-      "name": "DNB_BREAK_87.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_87.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "f0fac3f85e897f90c4508cb2aa20e79c"
-    },
-    {
-      "name": "DNB_BREAK_02.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_02.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "277e64492cfc30d7bedf33d6c98f811a"
-    },
-    {
-      "name": "DNB_BREAK_12.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_12.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "61fb4146ce98dd11f87f6db57667ca5e"
-    },
-    {
-      "name": "DNB_BREAK_81.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_81.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "89cda42e3dab12a4b7041472e018fe89"
-    },
-    {
-      "name": "DNB_BREAK_58.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_58.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "312394ce054f17ca6916b230032a90bf"
-    },
-    {
       "name": "DNB_BREAK_64.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_64.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_64.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
       "checksum": "14db3e79e1f11d682212a0df274d5639"
     },
     {
-      "name": "DNB_BREAK_72.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_72.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "455fa9c308fa37635f016335e7d1e023"
-    },
-    {
-      "name": "DNB_BREAK_74.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_74.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "610dbb61719b2b95de46fa75a9b73d65"
-    },
-    {
-      "name": "DNB_BREAK_78.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_78.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "0ddfe926096d50782b30a4ee28ed5eb4"
-    },
-    {
-      "name": "DNB_BREAK_04.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_04.wav",
+      "name": "DNB_BREAK_66.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_66.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
-      "checksum": "c8d5f5c10eb170bcdab7559d5eeb9101"
+      "checksum": "8d7cfefd1345a15d91305c8a71300281"
     },
     {
-      "name": "DNB_BREAK_23.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_23.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "f2cccb39162f3eb33573586eacf6558a"
-    },
-    {
-      "name": "DNB_BREAK_90.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_90.wav",
+      "name": "DNB_BREAK_73.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_73.wav",
       "type": "file",
       "format": "wav",
       "size": 731628,
-      "checksum": "9b638e593d1d4faa5e2b8c2f1a0e3126"
+      "checksum": "c3193df0fc6df4c9704587c0aff26b68"
     },
     {
-      "name": "DNB_BREAK_71.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_71.wav",
+      "name": "DNB_BREAK_82.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_82.wav",
       "type": "file",
       "format": "wav",
       "size": 731628,
-      "checksum": "74b0c1399c0601f6a40fe98477a0875c"
+      "checksum": "d0d63f766c3095735a6ebf9d72b34e25"
     },
     {
-      "name": "DNB_BREAK_21.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_21.wav",
+      "name": "DNB_BREAK_03.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_03.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
-      "checksum": "5dff71fd89593a5d5a047a048c83c964"
+      "checksum": "840ac9713ec2ad7ad999eda431f14d53"
+    },
+    {
+      "name": "DNB_BREAK_19.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_19.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "e49b61f4ad80f603db007fbe374c6764"
+    },
+    {
+      "name": "DNB_BREAK_50.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_50.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "352100c143cc50441a75f0c685260c31"
+    },
+    {
+      "name": "DNB_BREAK_95.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_95.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "df031720020ebc3e188c651aca7728fe"
+    },
+    {
+      "name": "DNB_BREAK_99.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_99.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "9759b16949e3f9448ca10e5a32df96fa"
     },
     {
       "name": "DNB_BREAK_44.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_44.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_44.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
       "checksum": "a1beeab2f5a49f8c84d7ecb6f5bee5ac"
     },
     {
-      "name": "DNB_BREAK_49.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_49.wav",
+      "name": "DNB_BREAK_60.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_60.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
-      "checksum": "007908e67639af65f15a8fe012e24d39"
+      "checksum": "2906e7272bd53bfdc6885e1b1c00ed86"
     },
     {
-      "name": "DNB_BREAK_70.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_70.wav",
+      "name": "DNB_BREAK_62.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_62.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "0f68f6dbe7045e1dfd341a5018845be5"
+    },
+    {
+      "name": "DNB_BREAK_92.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_92.wav",
       "type": "file",
       "format": "wav",
       "size": 731628,
-      "checksum": "8cc1465a8c3ba33d49932869931e85f4"
+      "checksum": "059bcd822b6d0227774159cad3777ec5"
     },
     {
-      "name": "DNB_BREAK_79.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_79.wav",
+      "name": "DNB_BREAK_96.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_96.wav",
       "type": "file",
       "format": "wav",
       "size": 731628,
-      "checksum": "5b256c2e812f5f6c5b12fbfd039776ff"
+      "checksum": "024739e64a6b1024f0857cd6dd0deb93"
+    },
+    {
+      "name": "DNB_BREAK_14.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_14.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "c7196a70e75a792e10383aaadd2654bf"
+    },
+    {
+      "name": "DNB_BREAK_18.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_18.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "ddfe0dda72d068c074ab698a58499389"
+    },
+    {
+      "name": "DNB_BREAK_35.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_35.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "c1de25842d1d3bd2c73f71f2551ade56"
+    },
+    {
+      "name": "DNB_BREAK_39.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_39.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "37865d307bdeaabe83b417617a734226"
+    },
+    {
+      "name": "DNB_BREAK_87.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_87.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "f0fac3f85e897f90c4508cb2aa20e79c"
+    },
+    {
+      "name": "DNB_BREAK_05.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_05.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "e44aa6e4b95b12c3d9a15b68312839a9"
+    },
+    {
+      "name": "DNB_BREAK_06.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_06.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "e684c313984c99362c3fa9da60b1bd93"
+    },
+    {
+      "name": "DNB_BREAK_37.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_37.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "71aa24d3dad5ef17b4d53e18ba729f3d"
+    },
+    {
+      "name": "DNB_BREAK_31.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_31.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "89fd2dfdc111ed2bb4a776b24abf2696"
+    },
+    {
+      "name": "DNB_BREAK_55.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_55.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "b9e52ee2514276738d07b142fc811bc8"
+    },
+    {
+      "name": "DNB_BREAK_77.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_77.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "dd922aff2ed42771bb6991846ba2fd66"
+    },
+    {
+      "name": "DNB_BREAK_81.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_81.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "89cda42e3dab12a4b7041472e018fe89"
+    },
+    {
+      "name": "DNB_BREAK_11.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_11.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "32008a301b6fc9345af5798cb555f2d0"
+    },
+    {
+      "name": "DNB_BREAK_12.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_12.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "61fb4146ce98dd11f87f6db57667ca5e"
+    },
+    {
+      "name": "DNB_BREAK_25.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_25.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "2f073fbaf067f937070cc2c5e2a3c40b"
     },
     {
       "name": "DNB_BREAK_84.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_84.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_84.wav",
       "type": "file",
       "format": "wav",
       "size": 731628,
       "checksum": "302008ff789df107d6b5a2b3ce0d9ba1"
     },
     {
-      "name": "DNB_BREAK_91.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_91.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731628,
-      "checksum": "5e280e7af340af343046c0b556ac014c"
-    },
-    {
-      "name": "DNB_BREAK_38.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_38.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "6a346006664413de3f0d639972f6f5ba"
-    },
-    {
-      "name": "DNB_BREAK_48.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_48.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 731634,
-      "checksum": "17e2c7a7844115f27f7e4aac9f7df13f"
-    },
-    {
       "name": "DNB_BREAK_94.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_94.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_94.wav",
       "type": "file",
       "format": "wav",
       "size": 731628,
       "checksum": "f4c3da7a1b4d83c7a7d293696b52bded"
     },
     {
-      "name": "soulpatrol-peterpan.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/soulpatrol-peterpan.wav",
+      "name": "DNB_BREAK_21.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_21.wav",
       "type": "file",
       "format": "wav",
-      "size": 414212,
-      "checksum": "5303c9b2e26f50e857a0186fe21f7bab"
+      "size": 731634,
+      "checksum": "5dff71fd89593a5d5a047a048c83c964"
     },
     {
-      "name": "DOUBLE.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/DOUBLE.wav",
+      "name": "DNB_BREAK_61.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_61.wav",
       "type": "file",
       "format": "wav",
-      "size": 158564,
-      "checksum": "c13e0216aa6adb9d78a69f801515ca3f"
+      "size": 731634,
+      "checksum": "bd0458f4d9a5b2351146e2345cb46319"
     },
     {
-      "name": "aerosmith-walkthisway-107.4bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/aerosmith-walkthisway-107.4bpm.wav",
+      "name": "DNB_BREAK_65.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_65.wav",
       "type": "file",
       "format": "wav",
-      "size": 394662,
-      "checksum": "b3585557191eb7901426c80e13f0fbc7"
+      "size": 731634,
+      "checksum": "083830d95782e2009dcee93b29cf29c0"
     },
     {
-      "name": "raycharles-neverendingsong-102.2bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/raycharles-neverendingsong-102.2bpm.wav",
+      "name": "DNB_BREAK_54.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_54.wav",
       "type": "file",
       "format": "wav",
-      "size": 206826,
-      "checksum": "1ed66c4a339cc719ec502d2c0809fea4"
+      "size": 731634,
+      "checksum": "b3a899b90020a958ecd8d852510e6cd8"
     },
     {
-      "name": "allentoussaint-getoutmylifewoman-86.4bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/allentoussaint-getoutmylifewoman-86.4bpm.wav",
+      "name": "DNB_BREAK_59.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_59.wav",
       "type": "file",
       "format": "wav",
-      "size": 490182,
-      "checksum": "484aacfd4173a5c14ba5cbae69b946ca"
+      "size": 731634,
+      "checksum": "39dee95a8d9d06b14e744673eb7fde2d"
     },
     {
-      "name": "royporter-partytime.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/royporter-partytime.wav",
+      "name": "DNB_BREAK_69.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_69.wav",
       "type": "file",
       "format": "wav",
-      "size": 424460,
-      "checksum": "9f4112669fbf161cfaff181f74b485d9"
+      "size": 731628,
+      "checksum": "d94471233c0d99a615e12793fa96fbaa"
     },
     {
-      "name": "EURO.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/EURO.wav",
+      "name": "DNB_BREAK_36.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_36.wav",
       "type": "file",
       "format": "wav",
-      "size": 397254,
-      "checksum": "6b1dc2b78f9e80d81e66ba3f477a4e93"
+      "size": 731634,
+      "checksum": "aa39594c413881fdbd7e81fe2e2e9a0f"
     },
     {
-      "name": "fivestairsteps-dontchangeyourlove-92.2bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/fivestairsteps-dontchangeyourlove-92.2bpm.wav",
+      "name": "DNB_BREAK_43.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_43.wav",
       "type": "file",
       "format": "wav",
-      "size": 458914,
-      "checksum": "c519a079ec1e0a659ccbec0473e5f57a"
+      "size": 731634,
+      "checksum": "016c51925d8268568cf7bedd41a4dbd9"
     },
     {
-      "name": "madlads-getoutmylifewoman-94.3bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/madlads-getoutmylifewoman-94.3bpm.wav",
+      "name": "DNB_BREAK_47.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_47.wav",
       "type": "file",
       "format": "wav",
-      "size": 449198,
-      "checksum": "80d755c17874dc2faf358323aae0cb69"
+      "size": 731634,
+      "checksum": "c346419ffb78d723fefd629838f599aa"
+    },
+    {
+      "name": "DNB_BREAK_52.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_52.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "24599416b5b485de10324e6508a869c8"
+    },
+    {
+      "name": "DNB_BREAK_56.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_56.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "2db4ebb94a92dd9ce5fc9dfc0cd45a44"
+    },
+    {
+      "name": "DNB_BREAK_15.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_15.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "8f191c537e8a8eac22d3b86961d6d6dc"
+    },
+    {
+      "name": "DNB_BREAK_30.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_30.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "e3f5c3b9948557a8a439fe11803c8e91"
+    },
+    {
+      "name": "DNB_BREAK_33.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_33.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "ef6c1656ece5390c0e58df6e7da462eb"
+    },
+    {
+      "name": "DNB_BREAK_67.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_67.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "d224cec00d90acfa2ad2fef9b245af21"
+    },
+    {
+      "name": "DNB_BREAK_68.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_68.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "46faa86049d6a57d0fcff73893231ba1"
+    },
+    {
+      "name": "DNB_BREAK_42.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_42.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "9fc7f705b2d444edf6a04814fdd47a59"
+    },
+    {
+      "name": "DNB_BREAK_45.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_45.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "68391d8a5e9b76478cdf0df8a8daef76"
+    },
+    {
+      "name": "DNB_BREAK_46.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_46.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "29f10346f41423201e1b516612b2a95a"
+    },
+    {
+      "name": "DNB_BREAK_90.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_90.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "9b638e593d1d4faa5e2b8c2f1a0e3126"
+    },
+    {
+      "name": "DNB_BREAK_08.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_08.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "f7ec8a2d804faf9512f48411cf836022"
+    },
+    {
+      "name": "DNB_BREAK_09.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_09.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "f33641c7249624840a51eba912eea161"
+    },
+    {
+      "name": "DNB_BREAK_24.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_24.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "ba1357e1bdae6d288cb63306edde1b5c"
+    },
+    {
+      "name": "DNB_BREAK_83.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_83.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "7de8fe2d9be34faa899d40a2c1a37188"
+    },
+    {
+      "name": "DNB_BREAK_91.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_91.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "5e280e7af340af343046c0b556ac014c"
+    },
+    {
+      "name": "DNB_BREAK_98.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_98.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "3c84dac39f2f847d4c75938935126185"
+    },
+    {
+      "name": "DNB_BREAK_10.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_10.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "47be981309176fa7769bb304fd6556c2"
+    },
+    {
+      "name": "DNB_BREAK_28.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_28.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "55eada0b672915d478165eede3322d5d"
+    },
+    {
+      "name": "DNB_BREAK_40.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_40.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "38fa09eae04fc081077319e8d9de2665"
+    },
+    {
+      "name": "DNB_BREAK_51.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_51.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "5d595c4ce59215679e6bfd518fa81000"
+    },
+    {
+      "name": "DNB_BREAK_58.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_58.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "312394ce054f17ca6916b230032a90bf"
+    },
+    {
+      "name": "DNB_BREAK_85.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_85.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "e18455845908a6ac4a7ba3fb5b7939cd"
+    },
+    {
+      "name": "DNB_BREAK_89.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_89.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "79b32872b84dc3c8b04dc4d1bcdb3073"
+    },
+    {
+      "name": "DNB_BREAK_93.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_93.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "b495869b8924daabe08eab64a88fa777"
+    },
+    {
+      "name": "DNB_BREAK_07.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_07.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "a0abd3323d754e72df52d5207662cbd1"
+    },
+    {
+      "name": "DNB_BREAK_38.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_38.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "6a346006664413de3f0d639972f6f5ba"
+    },
+    {
+      "name": "DNB_BREAK_41.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_41.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "197c341075c57878e8238e54aadee84c"
+    },
+    {
+      "name": "DNB_BREAK_78.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_78.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "0ddfe926096d50782b30a4ee28ed5eb4"
+    },
+    {
+      "name": "DNB_BREAK_86.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_86.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "108fc084995160bf7e1d450db0a6e9e2"
+    },
+    {
+      "name": "DNB_BREAK_97.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_97.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "02e316f3005fe5a6ea909754eb362f22"
+    },
+    {
+      "name": "DNB_BREAK_02.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_02.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "277e64492cfc30d7bedf33d6c98f811a"
+    },
+    {
+      "name": "DNB_BREAK_29.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_29.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "7f61f790d855d3e95128f5c931b7b19f"
+    },
+    {
+      "name": "DNB_BREAK_57.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_57.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731634,
+      "checksum": "73bc651ce6b5435004c51ba3ffec0cce"
+    },
+    {
+      "name": "DNB_BREAK_80.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_80.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 731628,
+      "checksum": "351e7bd7a35e850ac97812431d695610"
+    },
+    {
+      "name": "deodato-september13-94.5bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/deodato-september13-94.5bpm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 447546,
+      "checksum": "285a8c433c2c2905c58be07af694096a"
+    },
+    {
+      "name": "fredwesley-fourplay-93.2bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/fredwesley-fourplay-93.2bpm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 454490,
+      "checksum": "a517b25c8ea02cacaf54b0ff21d10349"
+    },
+    {
+      "name": "LIB.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/LIB.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 301568,
+      "checksum": "e7449f24a29d9419c731746689e6b0f8"
     },
     {
       "name": "bobazzam-raingoaway-74.2bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/bobazzam-raingoaway-74.2bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/bobazzam-raingoaway-74.2bpm.wav",
       "type": "file",
       "format": "wav",
       "size": 288042,
       "checksum": "54ee13e66e18e36f169c222da7d41da2"
     },
     {
-      "name": "iketinaturner-honkytonkwoman-105bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/iketinaturner-honkytonkwoman-105bpm.wav",
+      "name": "cameo-rigormortis-111.5bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/cameo-rigormortis-111.5bpm.wav",
       "type": "file",
       "format": "wav",
-      "size": 403434,
-      "checksum": "07405e353825e5aaf10c93279b9ea080"
+      "size": 380010,
+      "checksum": "e785ad6ad8392b2941d5a7dd105c6185"
     },
     {
-      "name": "sugarbilly-igotsome-91.5bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/sugarbilly-igotsome-91.5bpm.wav",
+      "name": "rufusthomas-thebreakdown-100.3bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/rufusthomas-thebreakdown-100.3bpm.wav",
       "type": "file",
       "format": "wav",
-      "size": 463258,
-      "checksum": "74a1e8f10dabe04b8e4a5d208be5669d"
+      "size": 422650,
+      "checksum": "6904b4aadb717787b5731cc3e5474af7"
     },
     {
-      "name": "q65-getoutmylifewoman-89.5bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/q65-getoutmylifewoman-89.5bpm.wav",
+      "name": "stevearrington-nobodycanbeyou-111bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/stevearrington-nobodycanbeyou-111bpm.wav",
       "type": "file",
       "format": "wav",
-      "size": 472778,
-      "checksum": "8bc8df2e085bb14f0645c62c25f55143"
-    },
-    {
-      "name": "btexpress-stillgood.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/btexpress-stillgood.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 346818,
-      "checksum": "4a2f4a2ac074345b4240ae0d00f5981b"
-    },
-    {
-      "name": "leedorsey-getoutmylifewoman-90.5bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/leedorsey-getoutmylifewoman-90.5bpm.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 468438,
-      "checksum": "73948f2d9572953f0db46f7474754066"
-    },
-    {
-      "name": "meters-heylastminute1-92.8bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/meters-heylastminute1-92.8bpm.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 458282,
-      "checksum": "e24e5f8f2d5a0905c74816a924442d3c"
-    },
-    {
-      "name": "sob-thesoilitilledforyou.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/sob-thesoilitilledforyou.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 469792,
-      "checksum": "7ba03e938cb908803f40d02f51c05c77"
-    },
-    {
-      "name": "stevearrington-weakatheknees-105bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/stevearrington-weakatheknees-105bpm.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 406506,
-      "checksum": "e092067e43ba234e06b76c037d53ff2c"
+      "size": 382722,
+      "checksum": "13ab454bd1bf3e799b828eeffe5331ba"
     },
     {
       "name": "thinlizzy-johnnythefox-102.5bpm.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/thinlizzy-johnnythefox-102.5bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/thinlizzy-johnnythefox-102.5bpm.wav",
       "type": "file",
       "format": "wav",
       "size": 412786,
       "checksum": "e8b8d1e79a8f11da3dca6a4aad98bc29"
     },
     {
-      "name": "BOTTLED.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/BOTTLED.wav",
+      "name": "PROG.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/PROG.wav",
       "type": "file",
       "format": "wav",
-      "size": 405738,
-      "checksum": "94a43c6da8c27fad3873977ef9ce1009"
+      "size": 347332,
+      "checksum": "e0b62eb61b0272e0db6f38a504735f80"
+    },
+    {
+      "name": "aalonbutler-gettinsoul.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/aalonbutler-gettinsoul.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 305520,
+      "checksum": "4a3dd93425ad7240131ef3f91109981b"
+    },
+    {
+      "name": "lyncollins-thinkaboutit.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/lyncollins-thinkaboutit.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 374226,
+      "checksum": "6730cf24cefaa990d2c45778fbdcb16f"
+    },
+    {
+      "name": "soulpatrol-peterpan.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/soulpatrol-peterpan.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 414212,
+      "checksum": "5303c9b2e26f50e857a0186fe21f7bab"
+    },
+    {
+      "name": "serguei-ourico.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/serguei-ourico.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 408256,
+      "checksum": "68123a133d3d2ee136ff02220f594b0a"
+    },
+    {
+      "name": "walterbranco-mangowalk.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/walterbranco-mangowalk.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 486244,
+      "checksum": "84edee0cb1d9ff64bf4b19553339d4f8"
+    },
+    {
+      "name": "winstons-amenbrother-137.2bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/winstons-amenbrother-137.2bpm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 308490,
+      "checksum": "9d9960b807208062e57ff8eb301ecf01"
+    },
+    {
+      "name": "btexpress-stillgood.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/btexpress-stillgood.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 346818,
+      "checksum": "4a2f4a2ac074345b4240ae0d00f5981b"
+    },
+    {
+      "name": "raycharles-neverendingsong-102.2bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/raycharles-neverendingsong-102.2bpm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 206826,
+      "checksum": "1ed66c4a339cc719ec502d2c0809fea4"
     },
     {
       "name": "blazers-letawomanbeawoman.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/blazers-letawomanbeawoman.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/blazers-letawomanbeawoman.wav",
       "type": "file",
       "format": "wav",
       "size": 187954,
       "checksum": "dd3ea6100bd666e433ec5e97f1cf9ce0"
     },
     {
-      "name": "harvey-soulandsunshine.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/harvey-soulandsunshine.wav",
+      "name": "fivestairsteps-dontchangeyourlove-92.2bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/fivestairsteps-dontchangeyourlove-92.2bpm.wav",
       "type": "file",
       "format": "wav",
-      "size": 435356,
-      "checksum": "f303278ddb897727ab053a49847f36bc"
+      "size": 458914,
+      "checksum": "c519a079ec1e0a659ccbec0473e5f57a"
     },
     {
-      "name": "themeters-sameoldthing.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/themeters-sameoldthing.wav",
+      "name": "leedorsey-getoutmylifewoman-90.5bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/leedorsey-getoutmylifewoman-90.5bpm.wav",
       "type": "file",
       "format": "wav",
-      "size": 430204,
-      "checksum": "7a6c28d48f14858ae775aad3c233159e"
+      "size": 468438,
+      "checksum": "73948f2d9572953f0db46f7474754066"
     },
     {
-      "name": "vaughnmason-bouncerockskate.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/vaughnmason-bouncerockskate.wav",
+      "name": "q65-getoutmylifewoman-89.5bpm.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/q65-getoutmylifewoman-89.5bpm.wav",
       "type": "file",
       "format": "wav",
-      "size": 369306,
-      "checksum": "ea4cbe980ce6e070dbdec5b0bc197820"
+      "size": 472778,
+      "checksum": "8bc8df2e085bb14f0645c62c25f55143"
     },
     {
-      "name": "chicobatera-oxossi.wav",
-      "file": "/samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/chicobatera-oxossi.wav",
+      "name": "unknown-vinylbreak9.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/unknown-vinylbreak9.wav",
       "type": "file",
       "format": "wav",
-      "size": 350484,
-      "checksum": "3bc8913833d97489195f190fc1e22b8c"
+      "size": 295788,
+      "checksum": "5072cff38a761a2e84d5caf41e341b5b"
+    },
+    {
+      "name": "vibrettes-humptydump.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/vibrettes-humptydump.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 393338,
+      "checksum": "6af2ea31039d35d34e51715c4ea55a59"
+    },
+    {
+      "name": "RATTLE.wav",
+      "file": "/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/RATTLE.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 426920,
+      "checksum": "4bcce4b9ca3c166ac4be3b63adf0c74a"
     }
   ],
   "next": true,
-  "totalCount": 838,
+  "totalCount": 839,
   "totalPages": 9
 }

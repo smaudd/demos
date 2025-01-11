@@ -1,168 +1,168 @@
 {
   "content": [
     {
-      "name": "Kick 13 - Mighty Mighty.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 13 - Mighty Mighty.wav",
+      "name": "Kick 09 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 09 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
-      "size": 149406,
-      "checksum": "cff7f1321cea7e805e2004c6aaf597ff"
-    },
-    {
-      "name": "Kick 03 - Shining Star.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 03 - Shining Star.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 103564,
-      "checksum": "03b0b72342b2483985ec7855d0ed35fd"
-    },
-    {
-      "name": "Kick 02 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 02 - In The Stone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 100604,
-      "checksum": "44045afc70a58340f58315e52eb7196f"
-    },
-    {
-      "name": "Kick 10 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 10 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 188798,
-      "checksum": "596adda28a5305676c69fc81cc9996cd"
-    },
-    {
-      "name": "Kick 14 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 14 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 82580,
-      "checksum": "0c5d63e8dcd4e7db525cd5c33a1feb25"
-    },
-    {
-      "name": "Kick 15 - Serpentine Fire.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 15 - Serpentine Fire.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 137940,
-      "checksum": "a651cd53dd1195a861219336969b0b55"
-    },
-    {
-      "name": "Kick 01 - Fantasy.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 01 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 181742,
-      "checksum": "2fd48447810ce5f1fd58eeac3c92145b"
-    },
-    {
-      "name": "Kick 08 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 08 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 72132,
-      "checksum": "ffe5feeb905297764edf387112616ef6"
+      "size": 77420,
+      "checksum": "903f92ddafa27dc123e4a6c1e948a0cf"
     },
     {
       "name": "Kick 11 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 11 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 11 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 73318,
       "checksum": "478087b90a7e6a6c578035ff9f70b8a1"
     },
     {
-      "name": "Kick 07 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 07 - After the Love Has Gone.wav",
+      "name": "Kick 14 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 14 - September.wav",
       "type": "file",
       "format": "wav",
-      "size": 92356,
-      "checksum": "ee3165205580dd08bf2de26817ab1395"
+      "size": 82580,
+      "checksum": "0c5d63e8dcd4e7db525cd5c33a1feb25"
+    },
+    {
+      "name": "Kick 04 - Shining Star.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 04 - Shining Star.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 189644,
+      "checksum": "918ec80e9aca8fad6453f59bbdbf3c19"
+    },
+    {
+      "name": "Kick 10 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 10 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 188798,
+      "checksum": "596adda28a5305676c69fc81cc9996cd"
     },
     {
       "name": "Kick 12 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 12 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 12 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 123142,
       "checksum": "36a700d757d77f3a39db549291d8deea"
     },
     {
-      "name": "Kick 06 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Kicks/Kick 06 - After the Love Has Gone.wav",
+      "name": "Kick 01 - Fantasy.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 01 - Fantasy.wav",
       "type": "file",
       "format": "wav",
-      "size": 212620,
-      "checksum": "f4759e5283ae921e27e2a4a5f65c19b5"
+      "size": 181742,
+      "checksum": "2fd48447810ce5f1fd58eeac3c92145b"
+    },
+    {
+      "name": "Kick 02 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 02 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 100604,
+      "checksum": "44045afc70a58340f58315e52eb7196f"
+    },
+    {
+      "name": "Kick 07 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 07 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92356,
+      "checksum": "ee3165205580dd08bf2de26817ab1395"
+    },
+    {
+      "name": "Kick 13 - Mighty Mighty.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 13 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 149406,
+      "checksum": "cff7f1321cea7e805e2004c6aaf597ff"
+    },
+    {
+      "name": "Kick 05 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 05 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 76692,
+      "checksum": "418547985044b2736e0a5668d474bff9"
+    },
+    {
+      "name": "Kick 08 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 08 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 72132,
+      "checksum": "ffe5feeb905297764edf387112616ef6"
+    },
+    {
+      "name": "Kick 15 - Serpentine Fire.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Kicks/Kick 15 - Serpentine Fire.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 137940,
+      "checksum": "a651cd53dd1195a861219336969b0b55"
     },
     {
       "name": "Fill 01 - Shining Star.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 01 - Shining Star.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 01 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 209908,
       "checksum": "38aab61d047dc14f345a7d030e2d0218"
     },
     {
-      "name": "Fill 02 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 02 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 434564,
-      "checksum": "371df2a5ea8140005d09034e5eacb842"
-    },
-    {
-      "name": "Fill 08 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 08 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 815836,
-      "checksum": "b9b1c66a0cf1b4674b1faf25efa29c70"
-    },
-    {
-      "name": "Perc loop 03 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 03 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 589478,
-      "checksum": "2e8aaf78280c8b45ec297b83c531ad87"
-    },
-    {
-      "name": "Perc loop 02 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 02 - In The Stone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 734388,
-      "checksum": "0e25f1082fa1cd0b8c8457781a47147e"
-    },
-    {
-      "name": "Perc loop 04 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 04 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 1422292,
-      "checksum": "7423e22cbfdac0675f482bdc6c735f8a"
-    },
-    {
-      "name": "Fill 03 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 03 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 1354692,
-      "checksum": "bc257285606282cf97bbffc4736e7dbb"
-    },
-    {
       "name": "Fill 04 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 04 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 04 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 691916,
       "checksum": "97e9da039964243f65c705119c4b469e"
     },
     {
+      "name": "Fill 08 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 08 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 815836,
+      "checksum": "b9b1c66a0cf1b4674b1faf25efa29c70"
+    },
+    {
+      "name": "Perc loop 01 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 01 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 383124,
+      "checksum": "c1d4037f0a55601db7f01e556057928a"
+    },
+    {
+      "name": "Perc loop 02 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 02 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 734388,
+      "checksum": "0e25f1082fa1cd0b8c8457781a47147e"
+    },
+    {
+      "name": "Fill 02 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 02 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 434564,
+      "checksum": "371df2a5ea8140005d09034e5eacb842"
+    },
+    {
+      "name": "Fill 03 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 03 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1354692,
+      "checksum": "bc257285606282cf97bbffc4736e7dbb"
+    },
+    {
       "name": "Fill 05 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 05 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 05 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 956094,
@@ -170,7 +170,7 @@
     },
     {
       "name": "Fill 06 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 06 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 06 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 162532,
@@ -178,23 +178,63 @@
     },
     {
       "name": "Fill 07 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Fill 07 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Fill 07 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 320524,
       "checksum": "58d0bfcf800e2a528fa436b31e38e9fa"
     },
     {
-      "name": "Perc loop 01 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 01 - In The Stone.wav",
+      "name": "Perc loop 03 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 03 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
-      "size": 383124,
-      "checksum": "c1d4037f0a55601db7f01e556057928a"
+      "size": 589478,
+      "checksum": "2e8aaf78280c8b45ec297b83c531ad87"
+    },
+    {
+      "name": "Perc loop 04 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Loops/Perc loop 04 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 1422292,
+      "checksum": "7423e22cbfdac0675f482bdc6c735f8a"
+    },
+    {
+      "name": "Open hat 08 - Mighty Mighty.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 08 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 106078,
+      "checksum": "f2aa7fb7f417b611163a645d148cf1c3"
+    },
+    {
+      "name": "Ride 03 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Ride 03 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 333924,
+      "checksum": "ae1d5d17c619ffc310ae787b96438aed"
+    },
+    {
+      "name": "Ride 04 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Ride 04 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 333276,
+      "checksum": "7e26805e6e9163145e143def91b47b8b"
+    },
+    {
+      "name": "Open hat 03 - Fantasy.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 03 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 123558,
+      "checksum": "284d152b6fb08289de4cc37ff4b580b4"
     },
     {
       "name": "Open hat 06 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 06 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 06 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 357310,
@@ -202,71 +242,55 @@
     },
     {
       "name": "Open hat 07 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 07 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 07 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 148566,
       "checksum": "942c53aff18b380fb534e45607304e9d"
     },
     {
-      "name": "Open hat 11 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 11 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 126324,
-      "checksum": "294159b4e354afad647294136242ed94"
-    },
-    {
-      "name": "Open hat 03 - Fantasy.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 03 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 123558,
-      "checksum": "284d152b6fb08289de4cc37ff4b580b4"
-    },
-    {
-      "name": "Ride 01 - Fantasy.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Ride 01 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 502998,
-      "checksum": "d53ebba5873e4b7dd6ca334a2385ada5"
-    },
-    {
-      "name": "Open hat 05 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 05 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 331068,
-      "checksum": "a982e461f6197130de667e768baf9f35"
-    },
-    {
-      "name": "Ride 02 - Fantasy.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Ride 02 - Fantasy.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 421126,
-      "checksum": "530c575a2a72884b73a1271480517a25"
-    },
-    {
-      "name": "Ride 03 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Ride 03 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 333924,
-      "checksum": "ae1d5d17c619ffc310ae787b96438aed"
-    },
-    {
       "name": "Ride 05 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Ride 05 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Ride 05 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 327972,
       "checksum": "445892c128bacea668004c718c3f157a"
     },
     {
+      "name": "Open hat 10 - Mighty Mighty.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 10 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 143230,
+      "checksum": "f778a4245c5161b1d7f7bafc9dddf9e4"
+    },
+    {
+      "name": "Ride 01 - Fantasy.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Ride 01 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 502998,
+      "checksum": "d53ebba5873e4b7dd6ca334a2385ada5"
+    },
+    {
+      "name": "Ride 02 - Fantasy.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Ride 02 - Fantasy.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 421126,
+      "checksum": "530c575a2a72884b73a1271480517a25"
+    },
+    {
+      "name": "Open hat 01 - Boogie Wonderland.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 01 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 157708,
+      "checksum": "faa782119f074fd49229553766f9855e"
+    },
+    {
       "name": "Open hat 02 - Fantasy.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 02 - Fantasy.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 02 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 134462,
@@ -274,71 +298,39 @@
     },
     {
       "name": "Open hat 04 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 04 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 04 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 342404,
       "checksum": "bdce2dab3f2c28cf966a084f2439cc1d"
     },
     {
-      "name": "Open hat 08 - Mighty Mighty.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 08 - Mighty Mighty.wav",
+      "name": "Open hat 05 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 05 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
-      "size": 106078,
-      "checksum": "f2aa7fb7f417b611163a645d148cf1c3"
+      "size": 331068,
+      "checksum": "a982e461f6197130de667e768baf9f35"
     },
     {
       "name": "Open hat 09 - Mighty Mighty.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 09 - Mighty Mighty.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 09 - Mighty Mighty.wav",
       "type": "file",
       "format": "wav",
       "size": 101486,
       "checksum": "9d50eb6c3878b685048abe958ebd885b"
     },
     {
-      "name": "Open hat 10 - Mighty Mighty.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 10 - Mighty Mighty.wav",
+      "name": "Open hat 11 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 11 - September.wav",
       "type": "file",
       "format": "wav",
-      "size": 143230,
-      "checksum": "f778a4245c5161b1d7f7bafc9dddf9e4"
-    },
-    {
-      "name": "Ride 04 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Ride 04 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 333276,
-      "checksum": "7e26805e6e9163145e143def91b47b8b"
-    },
-    {
-      "name": "Open hat 01 - Boogie Wonderland.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Open hats/Open hat 01 - Boogie Wonderland.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 157708,
-      "checksum": "faa782119f074fd49229553766f9855e"
-    },
-    {
-      "name": "Cowbell 01 - Serpentine Fire.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Cowbell 01 - Serpentine Fire.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 68494,
-      "checksum": "e850754aaf20bc00e1e52ff0e42c548f"
-    },
-    {
-      "name": "Cowbell 02 - Serpentine Fire.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Cowbell 02 - Serpentine Fire.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 80270,
-      "checksum": "2032dad4ab5bcc65ef84065f9a28e84f"
+      "size": 126324,
+      "checksum": "294159b4e354afad647294136242ed94"
     },
     {
       "name": "Cowbell 03 - Serpentine Fire.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Cowbell 03 - Serpentine Fire.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Cowbell 03 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
       "size": 67454,
@@ -346,7 +338,7 @@
     },
     {
       "name": "Perc 01 - Serpentine Fire.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Perc 01 - Serpentine Fire.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Perc 01 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
       "size": 58084,
@@ -354,7 +346,7 @@
     },
     {
       "name": "Perc 02 - Serpentine Fire.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Perc 02 - Serpentine Fire.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Perc 02 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
       "size": 67604,
@@ -362,7 +354,7 @@
     },
     {
       "name": "Stick 01 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Stick 01 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Stick 01 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 82478,
@@ -370,87 +362,103 @@
     },
     {
       "name": "Stick 02 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Percs/Stick 02 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Stick 02 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 55846,
       "checksum": "8b05b04da962b545f7c43d9a5e21ae00"
     },
     {
-      "name": "Snare 01 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 01 - In The Stone.wav",
+      "name": "Cowbell 01 - Serpentine Fire.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Cowbell 01 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
-      "size": 88588,
-      "checksum": "641661a31c3af03149c427fd20dcb124"
+      "size": 68494,
+      "checksum": "e850754aaf20bc00e1e52ff0e42c548f"
     },
     {
-      "name": "Snare 05 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 05 - After the Love Has Gone.wav",
+      "name": "Cowbell 02 - Serpentine Fire.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Percs/Cowbell 02 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
-      "size": 73940,
-      "checksum": "0cc06299a822ccbce1d99390f9b57968"
-    },
-    {
-      "name": "Snare 06 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 06 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 229158,
-      "checksum": "2f38527bfd6a3a9244284f1d3748dce0"
-    },
-    {
-      "name": "Snare 08 - Mighty Mighty.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 08 - Mighty Mighty.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 387622,
-      "checksum": "b8a0b564debd8cb271b539b48ae11036"
-    },
-    {
-      "name": "Snare 10 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 10 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 82844,
-      "checksum": "7c88c536df9003131696a406730b72f7"
+      "size": 80270,
+      "checksum": "2032dad4ab5bcc65ef84065f9a28e84f"
     },
     {
       "name": "Rim 02 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Rim 02 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Rim 02 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 72172,
       "checksum": "d7726efb88741339650eb56c3f6692a0"
     },
     {
-      "name": "Snare 09 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 09 - September.wav",
+      "name": "Snare 01 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 01 - In The Stone.wav",
       "type": "file",
       "format": "wav",
-      "size": 79860,
-      "checksum": "85028ac2b9cf4e48a45050633d9a77e0"
+      "size": 88588,
+      "checksum": "641661a31c3af03149c427fd20dcb124"
+    },
+    {
+      "name": "Snare 04 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 04 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 78356,
+      "checksum": "879c16a62db7854de5b972a38c674f58"
+    },
+    {
+      "name": "Snare 10 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 10 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82844,
+      "checksum": "7c88c536df9003131696a406730b72f7"
+    },
+    {
+      "name": "Rim 01 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Rim 01 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 73780,
+      "checksum": "83fe98a201444b4f6e3e9b09cc91c229"
     },
     {
       "name": "Snare 12 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 12 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 12 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 166428,
       "checksum": "9d8ad75ed6a9524754e1f2a29ba5183b"
     },
     {
-      "name": "Snare roll 01 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare roll 01 - September.wav",
+      "name": "Snare roll 02 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare roll 02 - September.wav",
       "type": "file",
       "format": "wav",
-      "size": 81756,
-      "checksum": "d264190ab571b65dea64a023049d85f0"
+      "size": 83460,
+      "checksum": "e9f22cdb062e72b0608d610829d8a349"
+    },
+    {
+      "name": "Snare 05 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 05 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 73940,
+      "checksum": "0cc06299a822ccbce1d99390f9b57968"
+    },
+    {
+      "name": "Snare 11 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 11 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 169604,
+      "checksum": "84d3db8183acce64c30cfc1090b43331"
     },
     {
       "name": "Snare 02 - Shining Star.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 02 - Shining Star.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 02 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 207492,
@@ -458,167 +466,87 @@
     },
     {
       "name": "Snare 03 - Shining Star.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 03 - Shining Star.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 03 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 200924,
       "checksum": "c03eb27044793124896efb79b8ef423d"
     },
     {
-      "name": "Snare 04 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 04 - After the Love Has Gone.wav",
+      "name": "Snare 06 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 06 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
-      "size": 78356,
-      "checksum": "879c16a62db7854de5b972a38c674f58"
-    },
-    {
-      "name": "Snare 11 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 11 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 169604,
-      "checksum": "84d3db8183acce64c30cfc1090b43331"
-    },
-    {
-      "name": "Snare roll 02 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare roll 02 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 83460,
-      "checksum": "e9f22cdb062e72b0608d610829d8a349"
-    },
-    {
-      "name": "Rim 01 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Rim 01 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 73780,
-      "checksum": "83fe98a201444b4f6e3e9b09cc91c229"
+      "size": 229158,
+      "checksum": "2f38527bfd6a3a9244284f1d3748dce0"
     },
     {
       "name": "Snare 07 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Snare/Snare 07 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 07 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 227054,
       "checksum": "7f9109e6a64c8210f6e9a35a44b1b544"
     },
     {
-      "name": "Tom 05 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 05 - In The Stone.wav",
+      "name": "Snare 08 - Mighty Mighty.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 08 - Mighty Mighty.wav",
       "type": "file",
       "format": "wav",
-      "size": 48796,
-      "checksum": "9837d387e8c99bf848ebc18e668122c7"
+      "size": 387622,
+      "checksum": "b8a0b564debd8cb271b539b48ae11036"
     },
     {
-      "name": "Tom 08 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 08 - After the Love Has Gone.wav",
+      "name": "Snare 09 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare 09 - September.wav",
       "type": "file",
       "format": "wav",
-      "size": 92476,
-      "checksum": "1ea50b0e8a6526dadf70dd4526f1b20c"
+      "size": 79860,
+      "checksum": "85028ac2b9cf4e48a45050633d9a77e0"
     },
     {
-      "name": "Tom 11 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 11 - After the Love Has Gone.wav",
+      "name": "Snare roll 01 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Snare/Snare roll 01 - September.wav",
       "type": "file",
       "format": "wav",
-      "size": 81220,
-      "checksum": "4dd83b0990166931782bcc1b1d38dfe8"
-    },
-    {
-      "name": "Tom 13 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 13 - Can't Hide Love.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 78302,
-      "checksum": "01bfaa5db6414d76a98187f797018edb"
-    },
-    {
-      "name": "Tom 01 - Boogie Wonderland.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 01 - Boogie Wonderland.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 244332,
-      "checksum": "3baee1c2a87d678ab26bfba683863421"
-    },
-    {
-      "name": "Tom 09 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 09 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 158924,
-      "checksum": "dfff805b5bc3b8ef539ad6a5314455bb"
-    },
-    {
-      "name": "Tom 10 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 10 - After the Love Has Gone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 167900,
-      "checksum": "d90a0652de4dd19d9d9a625a4aad8ac3"
-    },
-    {
-      "name": "Tom 14 - Mighty Mighty.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 14 - Mighty Mighty.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 107470,
-      "checksum": "e3926c603c5033bdd94787ea647a0850"
+      "size": 81756,
+      "checksum": "d264190ab571b65dea64a023049d85f0"
     },
     {
       "name": "Tom 02 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 02 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 02 - In The Stone.wav",
       "type": "file",
       "format": "wav",
       "size": 48196,
       "checksum": "6810ef40e637d97a5c4b0f599d4cc82c"
     },
     {
-      "name": "Tom 07 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 07 - After the Love Has Gone.wav",
+      "name": "Tom 08 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 08 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
-      "size": 176172,
-      "checksum": "dd7376694f8b93f167cfe202aedda92d"
+      "size": 92476,
+      "checksum": "1ea50b0e8a6526dadf70dd4526f1b20c"
     },
     {
-      "name": "Tom 12 - Can't Hide Love.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 12 - Can't Hide Love.wav",
+      "name": "Tom 09 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 09 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
-      "size": 70454,
-      "checksum": "91d51013757a6caaf5aa0d62caa12ecf"
+      "size": 158924,
+      "checksum": "dfff805b5bc3b8ef539ad6a5314455bb"
     },
     {
       "name": "Tom 15 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 15 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 15 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 156724,
       "checksum": "5a045d35dc8fe8a8ed83f537ce132d33"
     },
     {
-      "name": "Tom 16 - September.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 16 - September.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 85556,
-      "checksum": "ffb56680e3f7e8d8f079e63ef7e31a53"
-    },
-    {
-      "name": "Tom 03 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 03 - In The Stone.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 25628,
-      "checksum": "b68dd9d649c9ddc2e2515def1b5cedb4"
-    },
-    {
       "name": "Tom 04 - In The Stone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 04 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 04 - In The Stone.wav",
       "type": "file",
       "format": "wav",
       "size": 100036,
@@ -626,114 +554,146 @@
     },
     {
       "name": "Tom 06 - After the Love Has Gone.wav",
-      "file": "/samples2/Earth, Wind \u0026 Fire Kit/Toms/Tom 06 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 06 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 164876,
       "checksum": "9e9b5a07a1d04a39014cc435d5f971ca"
     },
     {
-      "name": "Kit 5",
-      "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 5"
+      "name": "Tom 10 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 10 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 167900,
+      "checksum": "d90a0652de4dd19d9d9a625a4aad8ac3"
     },
     {
-      "name": "Kit 6",
-      "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 6"
+      "name": "Tom 11 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 11 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 81220,
+      "checksum": "4dd83b0990166931782bcc1b1d38dfe8"
+    },
+    {
+      "name": "Tom 12 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 12 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 70454,
+      "checksum": "91d51013757a6caaf5aa0d62caa12ecf"
+    },
+    {
+      "name": "Tom 13 - Can't Hide Love.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 13 - Can't Hide Love.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 78302,
+      "checksum": "01bfaa5db6414d76a98187f797018edb"
+    },
+    {
+      "name": "Tom 01 - Boogie Wonderland.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 01 - Boogie Wonderland.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 244332,
+      "checksum": "3baee1c2a87d678ab26bfba683863421"
+    },
+    {
+      "name": "Tom 03 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 03 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 25628,
+      "checksum": "b68dd9d649c9ddc2e2515def1b5cedb4"
+    },
+    {
+      "name": "Tom 07 - After the Love Has Gone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 07 - After the Love Has Gone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 176172,
+      "checksum": "dd7376694f8b93f167cfe202aedda92d"
+    },
+    {
+      "name": "Tom 14 - Mighty Mighty.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 14 - Mighty Mighty.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107470,
+      "checksum": "e3926c603c5033bdd94787ea647a0850"
+    },
+    {
+      "name": "Tom 05 - In The Stone.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 05 - In The Stone.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 48796,
+      "checksum": "9837d387e8c99bf848ebc18e668122c7"
+    },
+    {
+      "name": "Tom 16 - September.wav",
+      "file": "/samples/Earth, Wind \u0026 Fire Kit/Toms/Tom 16 - September.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 85556,
+      "checksum": "ffb56680e3f7e8d8f079e63ef7e31a53"
     },
     {
       "name": "Kit 7",
       "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 7"
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 7"
     },
     {
       "name": "Kit 1",
       "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1"
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1"
     },
     {
       "name": "Kit 2",
       "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 2"
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 2"
     },
     {
       "name": "Kit 3",
       "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 3"
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 3"
     },
     {
       "name": "Kit 4",
       "type": "directory",
-      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 4"
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 4"
+    },
+    {
+      "name": "Kit 5",
+      "type": "directory",
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 5"
+    },
+    {
+      "name": "Kit 6",
+      "type": "directory",
+      "dir": "/samples/Gimme All Your Drums (Vol. 1)/Kit 6"
     },
     {
       "name": "Gimme_Kick3.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick3.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick3.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
       "checksum": "700752188654d65f983759f2104cf85d"
     },
     {
-      "name": "Gimme_Perc2.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Perc2.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 452984,
-      "checksum": "5d4affe2c1a0decce134f1dc8ae2590b"
-    },
-    {
       "name": "Gimme_Ride1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Ride1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Ride1.wav",
       "type": "file",
       "format": "wav",
       "size": 842588,
       "checksum": "fee9a1dfad2a60859303427f4526f200"
     },
     {
-      "name": "Gimme_Snare2.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Snare2.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 453644,
-      "checksum": "053a63e91038ea7b89629bd78457d64a"
-    },
-    {
-      "name": "Gimme_ClosedHat1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat1.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 449606,
-      "checksum": "4f15ccfe44f6ea6816fe0de3a72b0a06"
-    },
-    {
-      "name": "Gimme_Kick1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick1.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 451874,
-      "checksum": "82677fe76f49e0fdcc738466fda003b6"
-    },
-    {
-      "name": "Gimme_OpenHat1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_OpenHat1.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 453206,
-      "checksum": "bd6a346c150a29ee4f1e7556441df110"
-    },
-    {
-      "name": "Gimme_Perc1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Perc1.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 450992,
-      "checksum": "af1d653c67fc489fcd8f697969216c40"
-    },
-    {
       "name": "Gimme_Snare1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Snare1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Snare1.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
@@ -741,7 +701,7 @@
     },
     {
       "name": "Gimme_ClosedHat2.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat2.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat2.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
@@ -749,15 +709,55 @@
     },
     {
       "name": "Gimme_Kick2.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick2.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick2.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
       "checksum": "372a5c7e6d9653200c2caf227e4baf0e"
     },
     {
+      "name": "Gimme_Musical1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Musical1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 2043914,
+      "checksum": "00c51938ab6b28eea554325de954629b"
+    },
+    {
+      "name": "Gimme_Snare2.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Snare2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 453644,
+      "checksum": "053a63e91038ea7b89629bd78457d64a"
+    },
+    {
+      "name": "Gimme_ClosedHat1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 449606,
+      "checksum": "4f15ccfe44f6ea6816fe0de3a72b0a06"
+    },
+    {
+      "name": "Gimme_OpenHat1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_OpenHat1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 453206,
+      "checksum": "bd6a346c150a29ee4f1e7556441df110"
+    },
+    {
+      "name": "Gimme_Perc1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Perc1.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 450992,
+      "checksum": "af1d653c67fc489fcd8f697969216c40"
+    },
+    {
       "name": "Gimme_Snare3.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Snare3.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Snare3.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
@@ -765,22 +765,22 @@
     },
     {
       "name": "Gimme_SnareForFIlls2.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_SnareForFIlls2.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_SnareForFIlls2.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
       "checksum": "deb04f85c246c88a18dac75862d54120"
     },
     {
-      "name": "Gimme_Tom1.wav",
-      "file": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Tom1.wav",
+      "name": "Gimme_Kick1.wav",
+      "file": "/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick1.wav",
       "type": "file",
       "format": "wav",
-      "size": 311894,
-      "checksum": "460e5686cb17254e6ce3e94161e0b853"
+      "size": 451874,
+      "checksum": "82677fe76f49e0fdcc738466fda003b6"
     }
   ],
   "next": true,
-  "totalCount": 838,
+  "totalCount": 839,
   "totalPages": 9
 }
