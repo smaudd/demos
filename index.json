@@ -1,14 +1,19 @@
 {
   "content": {
+    ".git": {
+      "type": "directory",
+      "name": ".git",
+      "dir": "/.git"
+    },
     "_search": {
       "type": "directory",
       "name": "_search",
-      "dir": "/Users/work/Documents/samples_test/_search"
+      "dir": "/_search"
     },
-    "samples": {
+    "samples2": {
       "type": "directory",
-      "name": "samples",
-      "dir": "/Users/work/Documents/samples_test/samples"
+      "name": "samples2",
+      "dir": "/samples2"
     }
   }
 }

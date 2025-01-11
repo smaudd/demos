@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Tom 10 - After the Love Has Gone.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 10 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 10 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 167900,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Tom 11 - After the Love Has Gone.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 11 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 11 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 81220,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Tom 12 - Can't Hide Love.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 12 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 12 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 70454,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Tom 13 - Can't Hide Love.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 13 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 13 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 78302,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Tom 14 - Mighty Mighty.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 14 - Mighty Mighty.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 14 - Mighty Mighty.wav",
       "type": "file",
       "format": "wav",
       "size": 107470,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Tom 15 - September.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 15 - September.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 15 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 156724,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Tom 16 - September.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Toms/Tom 16 - September.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Toms/Tom 16 - September.wav",
       "type": "file",
       "format": "wav",
       "size": 85556,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Gimme_ClosedHat1.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat1.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat1.wav",
       "type": "file",
       "format": "wav",
       "size": 449606,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Gimme_ClosedHat2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat2.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_ClosedHat2.wav",
       "type": "file",
       "format": "wav",
       "size": 453644,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Gimme_Kick1.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick1.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 1/Gimme_Kick1.wav",
       "type": "file",
       "format": "wav",
       "size": 451874,

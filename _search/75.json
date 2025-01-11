@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "prc_trainstation.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_trainstation.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_trainstation.wav",
       "type": "file",
       "format": "wav",
       "size": 291418,
@@ -10,7 +10,7 @@
     },
     {
       "name": "prc_u5510n.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_u5510n.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_u5510n.wav",
       "type": "file",
       "format": "wav",
       "size": 37768,
@@ -18,7 +18,7 @@
     },
     {
       "name": "prc_vinylshot.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_vinylshot.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_vinylshot.wav",
       "type": "file",
       "format": "wav",
       "size": 361048,
@@ -26,7 +26,7 @@
     },
     {
       "name": "prc_virustiatmos.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_virustiatmos.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_virustiatmos.wav",
       "type": "file",
       "format": "wav",
       "size": 148372,
@@ -34,7 +34,7 @@
     },
     {
       "name": "prc_youpanit.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_youpanit.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_youpanit.wav",
       "type": "file",
       "format": "wav",
       "size": 57016,
@@ -42,7 +42,7 @@
     },
     {
       "name": "cym_crashtest.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/cym_crashtest.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/cym_crashtest.wav",
       "type": "file",
       "format": "wav",
       "size": 266128,
@@ -50,7 +50,7 @@
     },
     {
       "name": "cym_gatecrashed.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/cym_gatecrashed.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/cym_gatecrashed.wav",
       "type": "file",
       "format": "wav",
       "size": 344464,
@@ -58,7 +58,7 @@
     },
     {
       "name": "ride_8bitdirty.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_8bitdirty.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_8bitdirty.wav",
       "type": "file",
       "format": "wav",
       "size": 92296,
@@ -66,7 +66,7 @@
     },
     {
       "name": "ride_cymbal1.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_cymbal1.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_cymbal1.wav",
       "type": "file",
       "format": "wav",
       "size": 115702,
@@ -74,7 +74,7 @@
     },
     {
       "name": "ride_full.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_full.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_full.wav",
       "type": "file",
       "format": "wav",
       "size": 242236,

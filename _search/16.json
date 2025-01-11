@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Conga 09 - Fantasy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 09 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Congas/Conga 09 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 133974,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Conga 10 - Fantasy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 10 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Congas/Conga 10 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 122174,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Conga 11 - Fantasy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 11 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Congas/Conga 11 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 70070,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Conga 12 - Fantasy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 12 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Congas/Conga 12 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 51558,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Conga 13 - Fantasy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Congas/Conga 13 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Congas/Conga 13 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 112862,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Hat 01 - Boogie Wonderland.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 01 - Boogie Wonderland.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Hats/Hat 01 - Boogie Wonderland.wav",
       "type": "file",
       "format": "wav",
       "size": 42320,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Hat 02 - Boogie Wonderland.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 02 - Boogie Wonderland.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Hats/Hat 02 - Boogie Wonderland.wav",
       "type": "file",
       "format": "wav",
       "size": 79244,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Hat 03 - Boogie Wonderland.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 03 - Boogie Wonderland.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Hats/Hat 03 - Boogie Wonderland.wav",
       "type": "file",
       "format": "wav",
       "size": 80460,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Hat 04 - Fantasy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 04 - Fantasy.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Hats/Hat 04 - Fantasy.wav",
       "type": "file",
       "format": "wav",
       "size": 64390,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Hat 05 - After the Love Has Gone.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Hats/Hat 05 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Hats/Hat 05 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 128796,

@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Stab 1 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 1 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 1 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 135008,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Stab 2 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 2 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 2 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 178624,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Stab 3 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 3 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 3 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 220220,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Stab 4 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 4 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 4 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 261616,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Stab 5 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 5 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 5 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 297088,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Stab 6 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 6 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 6 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 352844,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Stab 7 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 7 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 7 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 429112,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Stab 8 Gremino Jungle Samplepack vol 2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 8 Gremino Jungle Samplepack vol 2.wav",
+      "file": "samples2/Gremino's Jungle Sample Pack vol 2/Samples/Stabs & Synths/Stab 8 Gremino Jungle Samplepack vol 2.wav",
       "type": "file",
       "format": "wav",
       "size": 242552,
@@ -66,7 +66,7 @@
     },
     {
       "name": "DNB_BREAK_01.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_01.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_01.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,
@@ -74,7 +74,7 @@
     },
     {
       "name": "DNB_BREAK_02.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_02.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/DNB BREAKS/DNB_BREAK_02.wav",
       "type": "file",
       "format": "wav",
       "size": 731634,

@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "ride_jules.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_jules.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_jules.wav",
       "type": "file",
       "format": "wav",
       "size": 224128,
@@ -10,7 +10,7 @@
     },
     {
       "name": "ride_mpc60.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_mpc60.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/ride_cymbal/ride_mpc60.wav",
       "type": "file",
       "format": "wav",
       "size": 186322,
@@ -18,7 +18,7 @@
     },
     {
       "name": "shaker_bot.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_bot.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_bot.wav",
       "type": "file",
       "format": "wav",
       "size": 51328,
@@ -26,7 +26,7 @@
     },
     {
       "name": "shaker_broom.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_broom.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_broom.wav",
       "type": "file",
       "format": "wav",
       "size": 109936,
@@ -34,7 +34,7 @@
     },
     {
       "name": "shaker_command.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_command.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_command.wav",
       "type": "file",
       "format": "wav",
       "size": 83476,
@@ -42,7 +42,7 @@
     },
     {
       "name": "shaker_halfshake.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_halfshake.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_halfshake.wav",
       "type": "file",
       "format": "wav",
       "size": 130192,
@@ -50,7 +50,7 @@
     },
     {
       "name": "shaker_pause.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_pause.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_pause.wav",
       "type": "file",
       "format": "wav",
       "size": 80854,
@@ -58,7 +58,7 @@
     },
     {
       "name": "shaker_quicky.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_quicky.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_quicky.wav",
       "type": "file",
       "format": "wav",
       "size": 30556,
@@ -66,7 +66,7 @@
     },
     {
       "name": "shaker_really.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_really.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/shaker_really.wav",
       "type": "file",
       "format": "wav",
       "size": 66676,
@@ -74,7 +74,7 @@
     },
     {
       "name": "tam_christmassy.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_christmassy.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_christmassy.wav",
       "type": "file",
       "format": "wav",
       "size": 90592,

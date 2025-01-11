@@ -1,0 +1,39 @@
+{
+  "content": {
+    "DRUMS": {
+      "type": "directory",
+      "name": "DRUMS",
+      "dir": "/samples2/DRUMS"
+    },
+    "Earth, Wind & Fire Kit": {
+      "type": "directory",
+      "name": "Earth, Wind & Fire Kit",
+      "dir": "/samples2/Earth, Wind & Fire Kit"
+    },
+    "Gimme All Your Drums (Vol. 1)": {
+      "type": "directory",
+      "name": "Gimme All Your Drums (Vol. 1)",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)"
+    },
+    "Gremino's Jungle Sample Pack vol 2": {
+      "type": "directory",
+      "name": "Gremino's Jungle Sample Pack vol 2",
+      "dir": "/samples2/Gremino's Jungle Sample Pack vol 2"
+    },
+    "JOONIES DNB DRUM COLLECTION VOL1": {
+      "type": "directory",
+      "name": "JOONIES DNB DRUM COLLECTION VOL1",
+      "dir": "/samples2/JOONIES DNB DRUM COLLECTION VOL1"
+    },
+    "chops2": {
+      "type": "directory",
+      "name": "chops2",
+      "dir": "/samples2/chops2"
+    },
+    "deep_house_drum_samples": {
+      "type": "directory",
+      "name": "deep_house_drum_samples",
+      "dir": "/samples2/deep_house_drum_samples"
+    }
+  }
+}

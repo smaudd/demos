@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "clp_raw.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_raw.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_raw.wav",
       "type": "file",
       "format": "wav",
       "size": 79716,
@@ -10,7 +10,7 @@
     },
     {
       "name": "clp_scorch.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_scorch.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_scorch.wav",
       "type": "file",
       "format": "wav",
       "size": 57102,
@@ -18,7 +18,7 @@
     },
     {
       "name": "clp_socute.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_socute.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_socute.wav",
       "type": "file",
       "format": "wav",
       "size": 70054,
@@ -26,7 +26,7 @@
     },
     {
       "name": "clp_sustained.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_sustained.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_sustained.wav",
       "type": "file",
       "format": "wav",
       "size": 125566,
@@ -34,7 +34,7 @@
     },
     {
       "name": "clp_tayo.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_tayo.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_tayo.wav",
       "type": "file",
       "format": "wav",
       "size": 69574,
@@ -42,7 +42,7 @@
     },
     {
       "name": "clp_tense.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_tense.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_tense.wav",
       "type": "file",
       "format": "wav",
       "size": 54578,
@@ -50,7 +50,7 @@
     },
     {
       "name": "clp_thinlayer.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_thinlayer.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_thinlayer.wav",
       "type": "file",
       "format": "wav",
       "size": 68702,
@@ -58,7 +58,7 @@
     },
     {
       "name": "clp_verona.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_verona.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_verona.wav",
       "type": "file",
       "format": "wav",
       "size": 54256,
@@ -66,7 +66,7 @@
     },
     {
       "name": "hat_626.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_626.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_626.wav",
       "type": "file",
       "format": "wav",
       "size": 99360,
@@ -74,7 +74,7 @@
     },
     {
       "name": "hat_ace.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_ace.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_ace.wav",
       "type": "file",
       "format": "wav",
       "size": 30590,

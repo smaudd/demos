@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "hat_samplekingdom.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_samplekingdom.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_samplekingdom.wav",
       "type": "file",
       "format": "wav",
       "size": 128518,
@@ -10,7 +10,7 @@
     },
     {
       "name": "hat_sharp.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_sharp.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_sharp.wav",
       "type": "file",
       "format": "wav",
       "size": 57016,
@@ -18,7 +18,7 @@
     },
     {
       "name": "hat_soff.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_soff.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_soff.wav",
       "type": "file",
       "format": "wav",
       "size": 109936,
@@ -26,7 +26,7 @@
     },
     {
       "name": "hat_spreadertrick.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_spreadertrick.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_spreadertrick.wav",
       "type": "file",
       "format": "wav",
       "size": 83476,
@@ -34,7 +34,7 @@
     },
     {
       "name": "hat_stereosonic.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_stereosonic.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_stereosonic.wav",
       "type": "file",
       "format": "wav",
       "size": 68194,
@@ -42,7 +42,7 @@
     },
     {
       "name": "hat_tameit.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_tameit.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_tameit.wav",
       "type": "file",
       "format": "wav",
       "size": 57016,
@@ -50,7 +50,7 @@
     },
     {
       "name": "hat_vintagespread.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_vintagespread.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_vintagespread.wav",
       "type": "file",
       "format": "wav",
       "size": 122566,
@@ -58,7 +58,7 @@
     },
     {
       "name": "hat_void.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/hats/hat_void.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/hats/hat_void.wav",
       "type": "file",
       "format": "wav",
       "size": 57016,
@@ -66,7 +66,7 @@
     },
     {
       "name": "prc_808rimmer.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_808rimmer.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_808rimmer.wav",
       "type": "file",
       "format": "wav",
       "size": 25912,
@@ -74,7 +74,7 @@
     },
     {
       "name": "prc_bigdrum.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_bigdrum.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/percussion/prc_bigdrum.wav",
       "type": "file",
       "format": "wav",
       "size": 165478,

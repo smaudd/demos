@@ -1,16 +1,8 @@
 {
   "content": [
     {
-      "name": "6.wav",
-      "file": "/Users/work/Documents/samples_test/samples/chops2/6.wav",
-      "type": "file",
-      "format": "wav",
-      "size": 107852,
-      "checksum": "2cae7ac782b03d4bd0e4639d082f10cb"
-    },
-    {
       "name": "7.wav",
-      "file": "/Users/work/Documents/samples_test/samples/chops2/7.wav",
+      "file": "samples2/chops2/7.wav",
       "type": "file",
       "format": "wav",
       "size": 107858,
@@ -18,7 +10,7 @@
     },
     {
       "name": "8.wav",
-      "file": "/Users/work/Documents/samples_test/samples/chops2/8.wav",
+      "file": "samples2/chops2/8.wav",
       "type": "file",
       "format": "wav",
       "size": 107852,
@@ -26,15 +18,23 @@
     },
     {
       "name": "9.wav",
-      "file": "/Users/work/Documents/samples_test/samples/chops2/9.wav",
+      "file": "samples2/chops2/9.wav",
       "type": "file",
       "format": "wav",
       "size": 107858,
       "checksum": "91d96a6205df584fa5df2926fb21afb4"
     },
     {
+      "name": "mmm.wav",
+      "file": "samples2/chops2/mmm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "90ab87ce2786ee00f2c9e49039c6408a"
+    },
+    {
       "name": "soundpacks.com.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/soundpacks.com.wav",
+      "file": "samples2/deep_house_drum_samples/soundpacks.com.wav",
       "type": "file",
       "format": "wav",
       "size": 1052114,
@@ -42,7 +42,7 @@
     },
     {
       "name": "bd_909dwsd.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_909dwsd.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_909dwsd.wav",
       "type": "file",
       "format": "wav",
       "size": 45692,
@@ -50,7 +50,7 @@
     },
     {
       "name": "bd_chicago.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_chicago.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_chicago.wav",
       "type": "file",
       "format": "wav",
       "size": 130656,
@@ -58,7 +58,7 @@
     },
     {
       "name": "bd_dandans.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_dandans.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_dandans.wav",
       "type": "file",
       "format": "wav",
       "size": 136586,
@@ -66,7 +66,7 @@
     },
     {
       "name": "bd_deephouser.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_deephouser.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_deephouser.wav",
       "type": "file",
       "format": "wav",
       "size": 133570,
@@ -74,7 +74,7 @@
     },
     {
       "name": "bd_diesel.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_diesel.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_diesel.wav",
       "type": "file",
       "format": "wav",
       "size": 65550,

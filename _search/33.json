@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Gimme_Tom5.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Tom5.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 4/Gimme_Tom5.wav",
       "type": "file",
       "format": "wav",
       "size": 835628,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Gimme_ClosedHat7.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_ClosedHat7.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_ClosedHat7.wav",
       "type": "file",
       "format": "wav",
       "size": 283106,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Gimme_Crash2.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Crash2.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Crash2.wav",
       "type": "file",
       "format": "wav",
       "size": 835628,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Gimme_Kick11.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick11.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick11.wav",
       "type": "file",
       "format": "wav",
       "size": 416066,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Gimme_Kick12.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick12.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick12.wav",
       "type": "file",
       "format": "wav",
       "size": 347324,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Gimme_Kick13.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick13.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Kick13.wav",
       "type": "file",
       "format": "wav",
       "size": 1392680,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Gimme_Musical5.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Musical5.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Musical5.wav",
       "type": "file",
       "format": "wav",
       "size": 487472,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Gimme_Musical6.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Musical6.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Musical6.wav",
       "type": "file",
       "format": "wav",
       "size": 2088992,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Gimme_Perc18.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Perc18.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Perc18.wav",
       "type": "file",
       "format": "wav",
       "size": 974888,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Gimme_Perc19.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Perc19.wav",
+      "file": "samples2/Gimme All Your Drums (Vol. 1)/Kit 5/Gimme_Perc19.wav",
       "type": "file",
       "format": "wav",
       "size": 835634,

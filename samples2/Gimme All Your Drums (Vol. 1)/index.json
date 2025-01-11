@@ -1,0 +1,39 @@
+{
+  "content": {
+    "Kit 1": {
+      "type": "directory",
+      "name": "Kit 1",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 1"
+    },
+    "Kit 2": {
+      "type": "directory",
+      "name": "Kit 2",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 2"
+    },
+    "Kit 3": {
+      "type": "directory",
+      "name": "Kit 3",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 3"
+    },
+    "Kit 4": {
+      "type": "directory",
+      "name": "Kit 4",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 4"
+    },
+    "Kit 5": {
+      "type": "directory",
+      "name": "Kit 5",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 5"
+    },
+    "Kit 6": {
+      "type": "directory",
+      "name": "Kit 6",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 6"
+    },
+    "Kit 7": {
+      "type": "directory",
+      "name": "Kit 7",
+      "dir": "/samples2/Gimme All Your Drums (Vol. 1)/Kit 7"
+    }
+  }
+}

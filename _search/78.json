@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "snr_mpc.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_mpc.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_mpc.wav",
       "type": "file",
       "format": "wav",
       "size": 57016,
@@ -10,7 +10,7 @@
     },
     {
       "name": "snr_myclassicsnare.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_myclassicsnare.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_myclassicsnare.wav",
       "type": "file",
       "format": "wav",
       "size": 239296,
@@ -18,7 +18,7 @@
     },
     {
       "name": "snr_owned.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_owned.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_owned.wav",
       "type": "file",
       "format": "wav",
       "size": 51472,
@@ -26,7 +26,7 @@
     },
     {
       "name": "snr_royalty.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_royalty.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_royalty.wav",
       "type": "file",
       "format": "wav",
       "size": 47392,
@@ -34,7 +34,7 @@
     },
     {
       "name": "snr_rusnarious.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_rusnarious.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_rusnarious.wav",
       "type": "file",
       "format": "wav",
       "size": 65386,
@@ -42,7 +42,7 @@
     },
     {
       "name": "snr_truevintage.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_truevintage.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_truevintage.wav",
       "type": "file",
       "format": "wav",
       "size": 74122,
@@ -50,7 +50,7 @@
     },
     {
       "name": "tom_909fatty.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909fatty.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909fatty.wav",
       "type": "file",
       "format": "wav",
       "size": 203086,
@@ -58,7 +58,7 @@
     },
     {
       "name": "tom_909onvinyl.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909onvinyl.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_909onvinyl.wav",
       "type": "file",
       "format": "wav",
       "size": 73516,
@@ -66,7 +66,7 @@
     },
     {
       "name": "tom_cleansweep.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/toms/tom_cleansweep.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_cleansweep.wav",
       "type": "file",
       "format": "wav",
       "size": 99172,
@@ -74,7 +74,7 @@
     },
     {
       "name": "tom_dept.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/toms/tom_dept.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/toms/tom_dept.wav",
       "type": "file",
       "format": "wav",
       "size": 141256,

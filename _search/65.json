@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "bd_tripper.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_tripper.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_tripper.wav",
       "type": "file",
       "format": "wav",
       "size": 38762,
@@ -10,7 +10,7 @@
     },
     {
       "name": "bd_uma.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_uma.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_uma.wav",
       "type": "file",
       "format": "wav",
       "size": 133930,
@@ -18,7 +18,7 @@
     },
     {
       "name": "bd_untitled.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_untitled.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_untitled.wav",
       "type": "file",
       "format": "wav",
       "size": 41842,
@@ -26,7 +26,7 @@
     },
     {
       "name": "bd_vintager.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_vintager.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_vintager.wav",
       "type": "file",
       "format": "wav",
       "size": 131524,
@@ -34,7 +34,7 @@
     },
     {
       "name": "bd_vinylinstereo.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_vinylinstereo.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_vinylinstereo.wav",
       "type": "file",
       "format": "wav",
       "size": 128878,
@@ -42,7 +42,7 @@
     },
     {
       "name": "clp_analogue.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_analogue.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_analogue.wav",
       "type": "file",
       "format": "wav",
       "size": 30522,
@@ -50,7 +50,7 @@
     },
     {
       "name": "clp_applause.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_applause.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_applause.wav",
       "type": "file",
       "format": "wav",
       "size": 71822,
@@ -58,7 +58,7 @@
     },
     {
       "name": "clp_basics.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_basics.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_basics.wav",
       "type": "file",
       "format": "wav",
       "size": 17378,
@@ -66,7 +66,7 @@
     },
     {
       "name": "clp_can.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_can.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_can.wav",
       "type": "file",
       "format": "wav",
       "size": 69130,
@@ -74,7 +74,7 @@
     },
     {
       "name": "clp_clap10000.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/clap/clp_clap10000.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/clap/clp_clap10000.wav",
       "type": "file",
       "format": "wav",
       "size": 41239,

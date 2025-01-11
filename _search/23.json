@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Cowbell 03 - Serpentine Fire.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Cowbell 03 - Serpentine Fire.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Cowbell 03 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
       "size": 67454,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Perc 01 - Serpentine Fire.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Perc 01 - Serpentine Fire.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Perc 01 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
       "size": 58084,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Perc 02 - Serpentine Fire.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Perc 02 - Serpentine Fire.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Perc 02 - Serpentine Fire.wav",
       "type": "file",
       "format": "wav",
       "size": 67604,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Stick 01 - Can't Hide Love.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Stick 01 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Stick 01 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 82478,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Stick 02 - Can't Hide Love.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Percs/Stick 02 - Can't Hide Love.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Percs/Stick 02 - Can't Hide Love.wav",
       "type": "file",
       "format": "wav",
       "size": 55846,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Rim 01 - After the Love Has Gone.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Snare/Rim 01 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Rim 01 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 73780,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Rim 02 - After the Love Has Gone.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Snare/Rim 02 - After the Love Has Gone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Rim 02 - After the Love Has Gone.wav",
       "type": "file",
       "format": "wav",
       "size": 72172,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Snare 01 - In The Stone.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Snare/Snare 01 - In The Stone.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Snare 01 - In The Stone.wav",
       "type": "file",
       "format": "wav",
       "size": 88588,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Snare 02 - Shining Star.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Snare/Snare 02 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Snare 02 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 207492,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Snare 03 - Shining Star.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Snare/Snare 03 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Snare/Snare 03 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 200924,

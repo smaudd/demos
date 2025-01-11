@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "themeters-sameoldthing.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/themeters-sameoldthing.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/themeters-sameoldthing.wav",
       "type": "file",
       "format": "wav",
       "size": 430204,
@@ -10,7 +10,7 @@
     },
     {
       "name": "thinlizzy-johnnythefox-102.5bpm.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/thinlizzy-johnnythefox-102.5bpm.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/thinlizzy-johnnythefox-102.5bpm.wav",
       "type": "file",
       "format": "wav",
       "size": 412786,
@@ -18,7 +18,7 @@
     },
     {
       "name": "unknown-vinylbreak9.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/unknown-vinylbreak9.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/unknown-vinylbreak9.wav",
       "type": "file",
       "format": "wav",
       "size": 295788,
@@ -26,7 +26,7 @@
     },
     {
       "name": "vaughnmason-bouncerockskate.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/vaughnmason-bouncerockskate.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/vaughnmason-bouncerockskate.wav",
       "type": "file",
       "format": "wav",
       "size": 369306,
@@ -34,7 +34,7 @@
     },
     {
       "name": "vibrettes-humptydump.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/vibrettes-humptydump.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/vibrettes-humptydump.wav",
       "type": "file",
       "format": "wav",
       "size": 393338,
@@ -42,7 +42,7 @@
     },
     {
       "name": "walterbranco-mangowalk.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/walterbranco-mangowalk.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/walterbranco-mangowalk.wav",
       "type": "file",
       "format": "wav",
       "size": 486244,
@@ -50,7 +50,7 @@
     },
     {
       "name": "winstons-amenbrother-137.2bpm.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/winstons-amenbrother-137.2bpm.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/winstons-amenbrother-137.2bpm.wav",
       "type": "file",
       "format": "wav",
       "size": 308490,
@@ -58,7 +58,7 @@
     },
     {
       "name": "zzhill-ithinkilldoit.wav",
-      "file": "/Users/work/Documents/samples_test/samples/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/zzhill-ithinkilldoit.wav",
+      "file": "samples2/JOONIES DNB DRUM COLLECTION VOL1/ESSENTIAL DRUM BREAKS/zzhill-ithinkilldoit.wav",
       "type": "file",
       "format": "wav",
       "size": 399754,
@@ -66,19 +66,19 @@
     },
     {
       "name": "0.wav",
-      "file": "/Users/work/Documents/samples_test/samples/chops2/0.wav",
+      "file": "samples2/chops2/0.wav",
       "type": "file",
       "format": "wav",
       "size": 107852,
       "checksum": "b2a7b745c9e126107a2c1c91d48ed064"
     },
     {
-      "name": "1.wav",
-      "file": "/Users/work/Documents/samples_test/samples/chops2/1.wav",
+      "name": "11.wav",
+      "file": "samples2/chops2/11.wav",
       "type": "file",
       "format": "wav",
       "size": 107858,
-      "checksum": "722a79f0bf3122a3b4ee731aa23a94b7"
+      "checksum": "ac30eadaa2955db0614147ff3d179d35"
     }
   ],
   "next": true,

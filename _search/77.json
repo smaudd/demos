@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "tam_extras.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_extras.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_extras.wav",
       "type": "file",
       "format": "wav",
       "size": 104266,
@@ -10,7 +10,7 @@
     },
     {
       "name": "tam_hohoho.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_hohoho.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_hohoho.wav",
       "type": "file",
       "format": "wav",
       "size": 126076,
@@ -18,7 +18,7 @@
     },
     {
       "name": "tam_lifein2d.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_lifein2d.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_lifein2d.wav",
       "type": "file",
       "format": "wav",
       "size": 51808,
@@ -26,7 +26,7 @@
     },
     {
       "name": "tam_mrhat.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_mrhat.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/shaker_tambourine/tam_mrhat.wav",
       "type": "file",
       "format": "wav",
       "size": 82174,
@@ -34,7 +34,7 @@
     },
     {
       "name": "snr_analogging.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_analogging.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_analogging.wav",
       "type": "file",
       "format": "wav",
       "size": 254116,
@@ -42,7 +42,7 @@
     },
     {
       "name": "snr_answer8bit.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_answer8bit.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_answer8bit.wav",
       "type": "file",
       "format": "wav",
       "size": 21736,
@@ -50,7 +50,7 @@
     },
     {
       "name": "snr_bland.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_bland.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_bland.wav",
       "type": "file",
       "format": "wav",
       "size": 90784,
@@ -58,7 +58,7 @@
     },
     {
       "name": "snr_drm909kit.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_drm909kit.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_drm909kit.wav",
       "type": "file",
       "format": "wav",
       "size": 249388,
@@ -66,7 +66,7 @@
     },
     {
       "name": "snr_dwreal.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_dwreal.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_dwreal.wav",
       "type": "file",
       "format": "wav",
       "size": 56512,
@@ -74,7 +74,7 @@
     },
     {
       "name": "snr_housey.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/snare/snr_housey.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/snare/snr_housey.wav",
       "type": "file",
       "format": "wav",
       "size": 57016,

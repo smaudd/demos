@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "winter snare.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/winter snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/winter snare.wav",
       "type": "file",
       "format": "wav",
       "size": 132304,
@@ -10,7 +10,7 @@
     },
     {
       "name": "yours snare.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Snare/yours snare.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Snare/yours snare.wav",
       "type": "file",
       "format": "wav",
       "size": 292678,
@@ -18,7 +18,7 @@
     },
     {
       "name": "dilla siren.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/dilla siren.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/dilla siren.wav",
       "type": "file",
       "format": "wav",
       "size": 168480,
@@ -26,7 +26,7 @@
     },
     {
       "name": "insert.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/insert.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/insert.wav",
       "type": "file",
       "format": "wav",
       "size": 460282,
@@ -34,7 +34,7 @@
     },
     {
       "name": "paah.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/paah.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/paah.wav",
       "type": "file",
       "format": "wav",
       "size": 95510,
@@ -42,7 +42,7 @@
     },
     {
       "name": "token.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/token.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/token.wav",
       "type": "file",
       "format": "wav",
       "size": 347328,
@@ -50,7 +50,7 @@
     },
     {
       "name": "uhh.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/uhh.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/uhh.wav",
       "type": "file",
       "format": "wav",
       "size": 240826,
@@ -58,7 +58,7 @@
     },
     {
       "name": "yo.wav",
-      "file": "/Users/work/Documents/samples_test/samples/DRUMS/Juesswork - Roughcuts Drumkit/Vox/yo.wav",
+      "file": "samples2/DRUMS/Juesswork - Roughcuts Drumkit/Vox/yo.wav",
       "type": "file",
       "format": "wav",
       "size": 212690,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Clap 01 - Shining Star.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Claps/Clap 01 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Claps/Clap 01 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 763016,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Clap 02 - Shining Star.wav",
-      "file": "/Users/work/Documents/samples_test/samples/Earth, Wind & Fire Kit/Claps/Clap 02 - Shining Star.wav",
+      "file": "samples2/Earth, Wind & Fire Kit/Claps/Clap 02 - Shining Star.wav",
       "type": "file",
       "format": "wav",
       "size": 197508,

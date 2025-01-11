@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "bd_dropped.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_dropped.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_dropped.wav",
       "type": "file",
       "format": "wav",
       "size": 41659,
@@ -10,7 +10,7 @@
     },
     {
       "name": "bd_flir.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_flir.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_flir.wav",
       "type": "file",
       "format": "wav",
       "size": 136586,
@@ -18,7 +18,7 @@
     },
     {
       "name": "bd_gas.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_gas.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_gas.wav",
       "type": "file",
       "format": "wav",
       "size": 136586,
@@ -26,7 +26,7 @@
     },
     {
       "name": "bd_ghost.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_ghost.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_ghost.wav",
       "type": "file",
       "format": "wav",
       "size": 135264,
@@ -34,7 +34,7 @@
     },
     {
       "name": "bd_hybrid.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_hybrid.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_hybrid.wav",
       "type": "file",
       "format": "wav",
       "size": 132920,
@@ -42,7 +42,7 @@
     },
     {
       "name": "bd_isampleoldskool.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_isampleoldskool.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_isampleoldskool.wav",
       "type": "file",
       "format": "wav",
       "size": 132764,
@@ -50,7 +50,7 @@
     },
     {
       "name": "bd_liked.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_liked.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_liked.wav",
       "type": "file",
       "format": "wav",
       "size": 131388,
@@ -58,7 +58,7 @@
     },
     {
       "name": "bd_mainroom.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_mainroom.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_mainroom.wav",
       "type": "file",
       "format": "wav",
       "size": 132416,
@@ -66,7 +66,7 @@
     },
     {
       "name": "bd_mirror.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_mirror.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_mirror.wav",
       "type": "file",
       "format": "wav",
       "size": 133426,
@@ -74,7 +74,7 @@
     },
     {
       "name": "bd_nash.wav",
-      "file": "/Users/work/Documents/samples_test/samples/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_nash.wav",
+      "file": "samples2/deep_house_drum_samples/Deep House Drum Samples/bd_kick/bd_nash.wav",
       "type": "file",
       "format": "wav",
       "size": 59480,

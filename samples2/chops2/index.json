@@ -1,0 +1,132 @@
+{
+  "content": {
+    "0.wav": {
+      "name": "0.wav",
+      "file": "samples2/chops2/0.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "b2a7b745c9e126107a2c1c91d48ed064"
+    },
+    "11.wav": {
+      "name": "11.wav",
+      "file": "samples2/chops2/11.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "ac30eadaa2955db0614147ff3d179d35"
+    },
+    "111.wav": {
+      "name": "111.wav",
+      "file": "samples2/chops2/111.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "722a79f0bf3122a3b4ee731aa23a94b7"
+    },
+    "1111.wav": {
+      "name": "1111.wav",
+      "file": "samples2/chops2/1111.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "97017de2c316ddccb3037822b45b682a"
+    },
+    "12.wav": {
+      "name": "12.wav",
+      "file": "samples2/chops2/12.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "ab8ff10e60c64a3b21a706c128e912e8"
+    },
+    "13.wav": {
+      "name": "13.wav",
+      "file": "samples2/chops2/13.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "30f2c9b6288ffda8c5d2c5feea1d2fe8"
+    },
+    "2.wav": {
+      "name": "2.wav",
+      "file": "samples2/chops2/2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "3546687e537cde1c9fbf0b9e3423c36c"
+    },
+    "23.wav": {
+      "name": "23.wav",
+      "file": "samples2/chops2/23.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "0c7fe63165cdf13ecde45976585ef89e"
+    },
+    "3.wav": {
+      "name": "3.wav",
+      "file": "samples2/chops2/3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "f1da14e4d314556a5111b6a57ce38d9c"
+    },
+    "4.wav": {
+      "name": "4.wav",
+      "file": "samples2/chops2/4.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "aea3a62668692809e7ee9695b6943567"
+    },
+    "5.wav": {
+      "name": "5.wav",
+      "file": "samples2/chops2/5.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "f43ed9c79c3e52833bb70e1c82522873"
+    },
+    "6.wav": {
+      "name": "6.wav",
+      "file": "samples2/chops2/6.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "2cae7ac782b03d4bd0e4639d082f10cb"
+    },
+    "7.wav": {
+      "name": "7.wav",
+      "file": "samples2/chops2/7.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "e850e88d9b1d5b39192d906ba0a0c451"
+    },
+    "8.wav": {
+      "name": "8.wav",
+      "file": "samples2/chops2/8.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "9b6d6d52121b21218f63361b5d9c6ed9"
+    },
+    "9.wav": {
+      "name": "9.wav",
+      "file": "samples2/chops2/9.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107858,
+      "checksum": "91d96a6205df584fa5df2926fb21afb4"
+    },
+    "mmm.wav": {
+      "name": "mmm.wav",
+      "file": "samples2/chops2/mmm.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 107852,
+      "checksum": "90ab87ce2786ee00f2c9e49039c6408a"
+    }
+  }
+}
