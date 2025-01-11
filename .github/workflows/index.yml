@@ -19,11 +19,14 @@ jobs:
         run: |
           # Download the precompiled binary for the appropriate OS (you can use GitHub releases for this)
           curl -L -o indexer-linux-amd64 https://couponsb.fra1.cdn.digitaloceanspaces.com/indexer-linux-amd64
+
+      - name: Make binary executable
+        run: |
           chmod +x indexer-linux-amd64
 
       - name: Run Go binary
         run: |
-          ./indexer-linux-amd64 --dirname="." # Replace with the actual folder path
+          ./indexer-linux-amd64 --dirname="./" # Replace with the actual folder path
 
       - name: Commit changes if any
         run: |
