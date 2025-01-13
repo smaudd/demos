@@ -1,0 +1,768 @@
+{
+  "content": [
+    {
+      "name": "Gimme All Your Drums (Vol. 1)",
+      "type": "directory",
+      "dir": "/Gimme All Your Drums (Vol. 1)"
+    },
+    {
+      "name": "Gremino's Jungle Sample Pack vol 2",
+      "type": "directory",
+      "dir": "/Gremino's Jungle Sample Pack vol 2"
+    },
+    {
+      "name": "JOONIES DNB DRUM COLLECTION VOL1",
+      "type": "directory",
+      "dir": "/JOONIES DNB DRUM COLLECTION VOL1"
+    },
+    {
+      "name": "chops2",
+      "type": "directory",
+      "dir": "/chops2"
+    },
+    {
+      "name": "deep_house_drum_samples",
+      "type": "directory",
+      "dir": "/deep_house_drum_samples"
+    },
+    {
+      "name": "DRUMS",
+      "type": "directory",
+      "dir": "/DRUMS"
+    },
+    {
+      "name": "Earth, Wind \u0026 Fire Kit",
+      "type": "directory",
+      "dir": "/Earth, Wind \u0026 Fire Kit"
+    },
+    {
+      "name": "Juesswork - Roughcuts Drumkit",
+      "type": "directory",
+      "dir": "/DRUMS/Juesswork - Roughcuts Drumkit"
+    },
+    {
+      "name": "Bonus",
+      "type": "directory",
+      "dir": "/DRUMS/Juesswork - Roughcuts Drumkit/Bonus"
+    },
+    {
+      "name": "Hat",
+      "type": "directory",
+      "dir": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat"
+    },
+    {
+      "name": "Kick",
+      "type": "directory",
+      "dir": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick"
+    },
+    {
+      "name": "Snare",
+      "type": "directory",
+      "dir": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare"
+    },
+    {
+      "name": "Vox",
+      "type": "directory",
+      "dir": "/DRUMS/Juesswork - Roughcuts Drumkit/Vox"
+    },
+    {
+      "name": "gunshotta hat loop.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/gunshotta hat loop.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 251958,
+      "checksum": "088801d96f9a83b3bd9304793834ee56"
+    },
+    {
+      "name": "lone hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/lone hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 103160,
+      "checksum": "2c2762d45921029fbd2826c860a3dfca"
+    },
+    {
+      "name": "moon hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/moon hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 99888,
+      "checksum": "49801cfe65a4cded626209f7c7a4e4df"
+    },
+    {
+      "name": "540 hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/540 hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 120170,
+      "checksum": "0c3919a8ab7fcde6a3e323732ae3e8f6"
+    },
+    {
+      "name": "cala hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/cala hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 113936,
+      "checksum": "ef8e9aafb8888bf092904d0e4640b82e"
+    },
+    {
+      "name": "curls hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/curls hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 58210,
+      "checksum": "ba27a2cfa3639ce0df1c34337603d196"
+    },
+    {
+      "name": "dindi hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/dindi hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 111978,
+      "checksum": "66c68ae2b28e1c6b1af0bb3ed92a8e2d"
+    },
+    {
+      "name": "bucear hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/bucear hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 130116,
+      "checksum": "046ac7ffd232c8326aeb543de45b6d9b"
+    },
+    {
+      "name": "springtime hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/springtime hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 57468,
+      "checksum": "5676888c95209bdc0ac1aeba863e3d55"
+    },
+    {
+      "name": "winter hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/winter hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135412,
+      "checksum": "076a556ac393ba66d2914d317d926365"
+    },
+    {
+      "name": "lakshmana hat 2.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/lakshmana hat 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 110910,
+      "checksum": "a687563ab10a57f8cdf33127bd613c12"
+    },
+    {
+      "name": "stadtchen hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/stadtchen hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 74738,
+      "checksum": "d64d5b7b62eefc23d323ab75be22f0ba"
+    },
+    {
+      "name": "suga hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/suga hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 98024,
+      "checksum": "210fa81c94cba5f5f4f07fd395306075"
+    },
+    {
+      "name": "descenso hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/descenso hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 96976,
+      "checksum": "636c9f7648789967ede9ebbce3a25921"
+    },
+    {
+      "name": "lakshmana hat 3.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/lakshmana hat 3.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 89326,
+      "checksum": "4f799df41b87a2c4f50ab92e96f0045b"
+    },
+    {
+      "name": "lakshmana hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/lakshmana hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 95514,
+      "checksum": "98c3d151fadb7c44dc729fbf3b22c60d"
+    },
+    {
+      "name": "lowrider hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/lowrider hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 70248,
+      "checksum": "c177917e834196ddb9a8d53c72ce8124"
+    },
+    {
+      "name": "space hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/space hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109466,
+      "checksum": "01e9049ac61f766c8cc3ceac03352367"
+    },
+    {
+      "name": "abisal hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/abisal hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 68652,
+      "checksum": "b1f510eb4fb5ad7467bc20a639af7cad"
+    },
+    {
+      "name": "dybrk hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/dybrk hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135690,
+      "checksum": "d42bc92e9283a9f78c6901c74a7612eb"
+    },
+    {
+      "name": "hat taptap.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/hat taptap.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 15056,
+      "checksum": "0d70cdf543b4697a687e1c47470c9588"
+    },
+    {
+      "name": "nevoeiro hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/nevoeiro hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 71792,
+      "checksum": "3e8caa18ef8b1d8a6e54e46e561408a8"
+    },
+    {
+      "name": "numb hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/numb hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101882,
+      "checksum": "c617dff01c4efb6ec7f455b5ea54bf92"
+    },
+    {
+      "name": "reinvent hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/reinvent hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 93472,
+      "checksum": "46a6406ba31638d081643091e9d6ca09"
+    },
+    {
+      "name": "sunday hat 2.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/sunday hat 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 44242,
+      "checksum": "fd9b5af0300f31184ffa2595758e6f58"
+    },
+    {
+      "name": "viento hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/viento hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 38084,
+      "checksum": "a888ce36a63d4fc7e27ac8b0b24807ac"
+    },
+    {
+      "name": "brotherly hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/brotherly hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 239666,
+      "checksum": "fee62f6a0ad5dc9502b3a84f01ee5c38"
+    },
+    {
+      "name": "disera hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/disera hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 94494,
+      "checksum": "68c45f97503a63aa0142212312fea427"
+    },
+    {
+      "name": "likethis hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/likethis hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 139736,
+      "checksum": "f86d80f089546568f8a486b19b84bc97"
+    },
+    {
+      "name": "pasay hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/pasay hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 91642,
+      "checksum": "25aa23ecbc7a2db8dcc6d998965c0e42"
+    },
+    {
+      "name": "anti hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/anti hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 77840,
+      "checksum": "81db56a521ab7c853839f16ecbfd81ac"
+    },
+    {
+      "name": "divine hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/divine hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 109756,
+      "checksum": "4fc3df32eda5016d378abd7b96cdeeac"
+    },
+    {
+      "name": "downhill shaker.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/downhill shaker.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 69278,
+      "checksum": "063fe7c37350adfe87d63241174d682c"
+    },
+    {
+      "name": "frinary open hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/frinary open hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 71786,
+      "checksum": "8c46c91d97b52af143edab227ef2468c"
+    },
+    {
+      "name": "owls hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/owls hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 128952,
+      "checksum": "03162f1758d6d2bb542095c5297fa2ce"
+    },
+    {
+      "name": "rghthook hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/rghthook hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 117066,
+      "checksum": "fa9320a514f959f84a54376e6cc7a507"
+    },
+    {
+      "name": "sundayhat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/sundayhat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92134,
+      "checksum": "7c289c52174395eeee90bf6e1eb79380"
+    },
+    {
+      "name": "calambre hat.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Hat/calambre hat.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 127032,
+      "checksum": "b405f2195e48fdb7a8bcd6fdee504879"
+    },
+    {
+      "name": "nevoeiro kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/nevoeiro kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 41668,
+      "checksum": "0849cfd260b5ffae699601cb4791bfc4"
+    },
+    {
+      "name": "owls kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/owls kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 130194,
+      "checksum": "a2424095017167225f72879a1e5cc033"
+    },
+    {
+      "name": "pasay kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/pasay kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 153284,
+      "checksum": "47fb1c9dedb641a18a2d4f2f69a1d18b"
+    },
+    {
+      "name": "suga kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/suga kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 138204,
+      "checksum": "7088f21f520905cc5e8a31472c8fec6b"
+    },
+    {
+      "name": "whew kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/whew kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 60748,
+      "checksum": "b0a8d4695d3c404e05f2383fcb0a7641"
+    },
+    {
+      "name": "540 kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/540 kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65106,
+      "checksum": "b8af5d23cc9157281726a42f01805f10"
+    },
+    {
+      "name": "descenso kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/descenso kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 77836,
+      "checksum": "c6f926232adb0d363f642d28ab681556"
+    },
+    {
+      "name": "lone kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/lone kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82820,
+      "checksum": "4ea57108a11cbc363c448cdd366db3d6"
+    },
+    {
+      "name": "naked kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/naked kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 91806,
+      "checksum": "3c89f7c0c8b8d9623eeeda2c35c1c9e5"
+    },
+    {
+      "name": "rain kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/rain kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 137506,
+      "checksum": "6a8fde55417d20f65183641f99ebd06f"
+    },
+    {
+      "name": "saba kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/saba kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 247588,
+      "checksum": "5cc74c4f730a79e25c1f3244b2f297fd"
+    },
+    {
+      "name": "cala kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/cala kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 123556,
+      "checksum": "d01e19f0804d3bac0620d3d702fca999"
+    },
+    {
+      "name": "jasmine kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/jasmine kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 82824,
+      "checksum": "2cfcafdea6ec87ae6b0b62d8e87ca53f"
+    },
+    {
+      "name": "calambre kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/calambre kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 83540,
+      "checksum": "f3b753596d1e083fcadd9f883eb001de"
+    },
+    {
+      "name": "curls kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/curls kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 61142,
+      "checksum": "a0cf469ced90394c16df687fa487c837"
+    },
+    {
+      "name": "eddie kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/eddie kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 108874,
+      "checksum": "4c70c5fe23ecf9398feeb50e6487074a"
+    },
+    {
+      "name": "alforar kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/alforar kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 49922,
+      "checksum": "397dfe559152619c417a274ca69e8520"
+    },
+    {
+      "name": "brotherly kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/brotherly kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 101258,
+      "checksum": "88f87fd2657e0696ebfd139b4864d20e"
+    },
+    {
+      "name": "calambre kick 2.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/calambre kick 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 65864,
+      "checksum": "216c6f933d47a95e74aa307c5b5a1de6"
+    },
+    {
+      "name": "lofifamily kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/lofifamily kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 150458,
+      "checksum": "ebb713768cbcb77b247bc824b15c7ba3"
+    },
+    {
+      "name": "autumn kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/autumn kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 179386,
+      "checksum": "5003bb8de3e11f449f3e6ff016a0589c"
+    },
+    {
+      "name": "winter kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/winter kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 135862,
+      "checksum": "453b8dfabf419e79bbd3487f34764a99"
+    },
+    {
+      "name": "brotherly kick 2.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/brotherly kick 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 75298,
+      "checksum": "5566071ac41caf0fc9af89dfdb804fc7"
+    },
+    {
+      "name": "eevee kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/eevee kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 79942,
+      "checksum": "1aef24416a65fadd8f806f091686739d"
+    },
+    {
+      "name": "abisal kick 2.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/abisal kick 2.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 40414,
+      "checksum": "b3130e1799e530071cfb35a3320d77ec"
+    },
+    {
+      "name": "black kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/black kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 87706,
+      "checksum": "7515ca47f0fd2cb8cdf02eeed3a68b16"
+    },
+    {
+      "name": "downhill kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/downhill kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 53706,
+      "checksum": "f5f2a5d17fc3c17cb273525ef9e33cf0"
+    },
+    {
+      "name": "mencry kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/mencry kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 108640,
+      "checksum": "cb0d3d1c7d9453c099ec2cc6f8cf5912"
+    },
+    {
+      "name": "palma kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/palma kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 218438,
+      "checksum": "88958c16ba7aa4998152552cebf6c287"
+    },
+    {
+      "name": "planta kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/planta kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 111622,
+      "checksum": "0d518a88351290432812dd76a920b376"
+    },
+    {
+      "name": "abisal kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/abisal kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 151648,
+      "checksum": "779231f3effc719d3d3ed1005732ba9b"
+    },
+    {
+      "name": "bucear kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/bucear kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 124032,
+      "checksum": "ad80d0ed14b201353e90c9e1f977bb34"
+    },
+    {
+      "name": "highlights kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/highlights kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 144840,
+      "checksum": "78802e999dc62da062cfe9d06411b846"
+    },
+    {
+      "name": "likethis kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/likethis kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 139596,
+      "checksum": "eaa64a993e665144126c3bfac78273f8"
+    },
+    {
+      "name": "stadtchen kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/stadtchen kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 40062,
+      "checksum": "b34718164ae68399c8d895611c3a53c8"
+    },
+    {
+      "name": "sunday kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/sunday kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 35654,
+      "checksum": "965ff42f191ad96d057783a7e06b684f"
+    },
+    {
+      "name": "divine kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/divine kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 117744,
+      "checksum": "5a4c640d662923c0a256b761b6472cfe"
+    },
+    {
+      "name": "evileye kick.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Kick/evileye kick.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 316672,
+      "checksum": "4620e4048142f99d188b332b6905bc1d"
+    },
+    {
+      "name": "testone snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/testone snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 92850,
+      "checksum": "b10c7a38bc77a062219858954429b25d"
+    },
+    {
+      "name": "divine snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/divine snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 125688,
+      "checksum": "1f71262516f38fa7ef7b607fc5e3798c"
+    },
+    {
+      "name": "pasay snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/pasay snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 137574,
+      "checksum": "d919decb8bb974108daeb759483813dc"
+    },
+    {
+      "name": "saba snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/saba snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 273180,
+      "checksum": "c0ba8bdc1debe826d58f2fd39128f62b"
+    },
+    {
+      "name": "downhill snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/downhill snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 147182,
+      "checksum": "863d7f70316ccd7b694dd66e8e377a92"
+    },
+    {
+      "name": "naked snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/naked snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 272806,
+      "checksum": "c48a0379e8602f3da5acd46750056934"
+    },
+    {
+      "name": "lone snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lone snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 169972,
+      "checksum": "53f6f8439da3e32a41298387d3364a1d"
+    },
+    {
+      "name": "lonenights snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/lonenights snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 149704,
+      "checksum": "5c4c0277ea987fe8d5035e28806b4637"
+    },
+    {
+      "name": "3000 snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/3000 snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 86916,
+      "checksum": "0f00f476c329a3e95366eebe6c88659a"
+    },
+    {
+      "name": "awkward snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/awkward snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 76482,
+      "checksum": "434a83a9e04b414c5da8ae2bc0ae4528"
+    },
+    {
+      "name": "jasmine snare.wav",
+      "file": "/DRUMS/Juesswork - Roughcuts Drumkit/Snare/jasmine snare.wav",
+      "type": "file",
+      "format": "wav",
+      "size": 253282,
+      "checksum": "6fa99df2952446fa40720d6c562a1662"
+    }
+  ],
+  "next": true,
+  "totalCount": 838,
+  "totalPages": 9
+}
